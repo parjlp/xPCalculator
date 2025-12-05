@@ -16,19 +16,24 @@ team2shots = []
 team1name = ""
 team2name = ""
 
-team1name = st.text_input("Enter Team 1 Name", key="Team 1 Name")
-
-team1numberOfChances = st.number_input(f"Enter the number of chances for {team1name}", key="Team 1 Chances")
-for l in range(int(team1numberOfChances)):
-  team1shots.append(st.number_input("Shot xG value?: ", key=f"Team1 chance {l}"))
-  
-            
-team2name = st.text_input("Enter Team 2 Name", key="Team 2 Name")
-team2numberOfChances = st.number_input(f"Enter the number of chances for {team2name}", key="Team 2 Chances")
+col1, col2 = st.columns(2)
 
 
-for m in range(int(team2numberOfChances)):
-  team2shots.append(st.number_input("Shot xG value?: ", key=f"Team2 chance {m}"))
+with col1:
+  team1name = st.text_input("Enter Team 1 Name", value=None, key="Team 1 Name")
+  if team1name is not None:
+    team1numberOfChances = st.number_input(f"Enter the number of chances for {team1name}", value=0, placeholder=None, key="Team 1 Chances")
+    if team1numberOfChances >0:
+      for l in range(int(team1numberOfChances)):
+        team1shots.append(st.number_input("Shot xG value?: ", key=f"Team1 chance {l}"))
+
+with col2:
+  team2name = st.text_input("Enter Team 2 Name", value=None, key="Team 2 Name")
+  if team2name is not None:
+    team2numberOfChances = st.number_input(f"Enter the number of chances for {team2name}", value=0, placeholder=None, key="Team 2 Chances")
+    if team2numberOfChances >0:
+      for m in range(int(team2numberOfChances)):
+        team2shots.append(st.number_input("Shot xG value?: ", key=f"Team2 chance {m}"))
     
 
 team1wins = 0

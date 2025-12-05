@@ -66,7 +66,7 @@ result = pd.DataFrame({f'{team1name} xPts' : [team1points/1000000],
                        f'{team2name} xPts' : [team2points/1000000],
                        f'{team1name} Win %' : [team1wins/10000],
                        f'{team2name} Win %' : [team2wins/10000],
-                       'Draw %' : [draws/1000]})
+                       'Draw %' : [draws/10000]})
 
 
 styled_df = result.style.set_properties(**{
@@ -79,6 +79,7 @@ result.set_index(f'{team1name} xPts')
 
 if submitted:
   st.write(styled_df.to_html(), unsafe_allow_html=True)
+
 
 
 

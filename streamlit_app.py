@@ -40,7 +40,7 @@ team2wins = 0
 with st.form("xP calc", enter_to_submit=False):
   submitted = st.form_submit_button("Submit")
   if submitted:
-    for i in range(100000):
+    for i in range(1000000):
         team1goals = 0
         team2goals = 0
         for j in range(len(team1shots)):
@@ -62,10 +62,10 @@ with st.form("xP calc", enter_to_submit=False):
 team1points = team1wins *3 + draws
 team2points = team2wins *3 + draws
 
-result = pd.DataFrame({f'{team1name} xPts' : [team1points/100000],
-                       f'{team2name} xPts' : [team2points/100000],
-                       f'{team1name} Win %' : [team1wins/1000],
-                       f'{team2name} Win %' : [team2wins/1000],
+result = pd.DataFrame({f'{team1name} xPts' : [team1points/1000000],
+                       f'{team2name} xPts' : [team2points/1000000],
+                       f'{team1name} Win %' : [team1wins/10000],
+                       f'{team2name} Win %' : [team2wins/10000],
                        'Draw %' : [draws/1000]})
 
 
@@ -79,5 +79,6 @@ result.set_index(f'{team1name} xPts')
 
 if submitted:
   st.write(styled_df.to_html(), unsafe_allow_html=True)
+
 
 

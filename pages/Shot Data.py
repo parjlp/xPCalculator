@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import random
-import streamlit_authenticator as stauth
 st.set_page_config(layout="wide")
 st.title(body="National League North All Shot Data")
 st.write("This is all of the raw data, I'm working on analysing it and visualising it in a useful way")

@@ -4,7 +4,7 @@ import numpy as np
 import random
 st.set_page_config(layout="wide")
 st.title(body="National League North Justice Tables")
-csv_path = "data/justice_table.csv"
+csv_path = "justice_table.csv"
 
 col1, col2 = st.columns([1,4])
 

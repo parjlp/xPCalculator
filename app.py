@@ -36,7 +36,7 @@ elif user_input == "Expected Win %":
     jt_disp.insert(0, "Position", list(range(len(jt_disp))))
     jt_disp["Position"] = jt_disp["Position"] + 1
     with col2:
-        st.dataframe(data=jt, hide_index=True, height='content')
+        st.dataframe(data=jt_disp, hide_index=True, height='content')
 elif user_input == "Expected Loss %":
     jt = pd.read_csv(csv_path)
     jt = jt[["Team", "Expected Loss %"]]
@@ -44,7 +44,7 @@ elif user_input == "Expected Loss %":
     jt_disp.insert(0, "Position", list(range(len(jt_disp))))
     jt_disp["Position"] = jt_disp["Position"] + 1
     with col2:
-        st.dataframe(data=jt, hide_index=True, height='content')
+        st.dataframe(data=jt_disp, hide_index=True, height='content')
 elif user_input == "Expected Draw %":
     jt = pd.read_csv(csv_path)
     jt = jt[["Team", "Expected Draw %"]]

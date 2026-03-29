@@ -23,4 +23,4 @@ with col2:
     # df_final.insert(0, "Link To Game", "View Match")
 
         
-    st.dataframe(df_final, hide_index=True)
+    st.table(df_final, hide_index=True)

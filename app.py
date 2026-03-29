@@ -8,6 +8,10 @@ csv_path = "justice_table.csv"
 
 col1, col2 = st.columns([1,4])
 
+with col1:
+    data_options = ["Expected Points Per Game", "Expected Goals Per Game", "Expected Win %", "Expected Loss %", "Expected Draw %"]
+    user_input = st.selectbox(label="Select Dataset", options=data_options, index=False, accept_new_options=False)
+
 
 if user_input == "Expected Points Per Game":
     jt = pd.read_csv(csv_path)
@@ -51,9 +55,7 @@ elif user_input == "Expected Draw %":
         st.dataframe(data=jt_disp, hide_index=True, height='content')
 
 
-with col1:
-    data_options = ["Expected Points Per Game", "Expected Goals Per Game", "Expected Win %", "Expected Loss %", "Expected Draw %"]
-    user_input = st.selectbox(label="Select Dataset", options=data_options, index=False, accept_new_options=False)
+
 
 
 

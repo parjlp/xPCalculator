@@ -52,15 +52,9 @@ def refresh(data):
             st.dataframe(data=jt_disp, hide_index=True, height='content')
 
 
-
-
-
-
-
-with col1:    
+with col1:
     data_options = ["Expected Points Per Game", "Expected Goals Per Game", "Expected Win %", "Expected Loss %", "Expected Draw %"]
-    user_input = st.radio(label="Select Dataset", options=data_options)
-    st.button(label="Show Selected Data", on_click=refresh, args=[user_input])
+    user_input = st.selectbox(label="Select Dataset", options=data_options, index=False, accept_new_options=False)
 
 
 

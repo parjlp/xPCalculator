@@ -6,7 +6,7 @@ import streamlit_authenticator as stauth
 st.set_page_config(layout="wide")
 st.title(body="National League North Expected Points By Team")
 
-results = pd.read_csv("C:/Users/parjl/footballapp/data/results.csv")
+results = pd.read_csv("results.csv")
 teams = results["Home Team"].unique()
 
 col1, col2 = st.columns([1,4])

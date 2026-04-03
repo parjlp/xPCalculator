@@ -7,7 +7,7 @@ from csv import DictReader
 import streamlit as st
 ss=sfc.Sofascore()
 
-df = pd.read_csv("C:/Users/parjl/Desktop/Football App/SofaScore Data/master_shots.csv")
+df = pd.read_csv("master_shots.csv")
 df["Post Shot xG"] = df["Post Shot xG"].fillna(0)
 
 teams = players = df["Attacking Team"].unique()

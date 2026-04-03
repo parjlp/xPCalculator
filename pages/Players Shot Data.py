@@ -6,13 +6,13 @@ import random
 st.set_page_config(layout="wide")
 
 
-players_df = pd.read_csv("C:/Users/parjl/footballapp/data/master_shots.csv")
+players_df = pd.read_csv("master_shots.csv")
 players = players_df["Player Name"].unique()
 
 
 player_select = st.selectbox(label="Select Dataset", options=players, index=False, accept_new_options=False)
 
-selected_df = pd.read_csv("C:/Users/parjl/footballapp/data/player_shots/"+player_select+".csv")
+selected_df = pd.read_csv("player_shots/"+player_select+".csv")
 #st.dataframe(selected_df)
 
 summary_data = dict()

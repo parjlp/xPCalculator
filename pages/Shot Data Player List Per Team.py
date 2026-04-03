@@ -31,7 +31,7 @@ for player in players:
 
 player_shots_df = pd.DataFrame(player_total_summary)
 player_disp = player_shots_df.sort_values(by="Player Total Impact on Post Shot xG", ascending=False)
-player_disp.insert(0, "League Rank", list(range(len(player_disp))))
-player_disp["League Rank"] = player_disp["League Rank"] + 1
+player_disp.insert(0, "Team Rank", list(range(len(player_disp))))
+player_disp["Team Rank"] = player_disp["League Rank"] + 1
 
 st.dataframe(player_disp, hide_index=True)

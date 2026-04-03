@@ -9,7 +9,7 @@ df = pd.read_csv("master_shots.csv")
 df["Post Shot xG"] = df["Post Shot xG"].fillna(0)
 
 teams = players = df["Attacking Team"].unique()
-team = st.selectbox(label="Select Data", options=sorted(teams), index=False, accept_new_options=False)
+team = st.selectbox(label="Select Data", options=sorted(teams), accept_new_options=False)
 
 df = df[(df["Attacking Team"]==team)]
 players = df["Player Name"].unique()

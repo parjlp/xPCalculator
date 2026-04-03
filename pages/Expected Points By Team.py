@@ -16,7 +16,8 @@ with col1:
 df_team = results[(results["Home Team"] == team_select) |
                     (results["Away Team"] == team_select)]
 
-df_team.loc[:, "Date"] = pd.to_datetime(df_team["Date"], format="%d/%m/%Y")
+df_team = df_team.copy()  # break the slice reference first
+df_team["Date"] = pd.to_datetime(df_team["Date"], format="%d/%m/%Y", errors="coerce")
 
 df_team_disp = df_team.sort_values(by="Date")
 with col2:

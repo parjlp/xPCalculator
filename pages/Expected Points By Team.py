@@ -11,7 +11,7 @@ teams = results["Home Team"].unique()
 
 col1, col2 = st.columns([1,4])
 with col1:
-    team_select = st.selectbox(label="Select Dataset", options=teams, index=False, accept_new_options=False)
+    team_select = st.selectbox(label="Select Dataset", options=teams, accept_new_options=False)
 
 df_team = results[(results["Home Team"] == team_select) |
                     (results["Away Team"] == team_select)]

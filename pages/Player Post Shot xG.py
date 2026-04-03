@@ -6,7 +6,7 @@ import random
 #st.set_page_config(layout="wide")
 
 
-ave_df = pd.read_csv("C:/Users/parjl/footballapp/data/player_ave.csv")
+ave_df = pd.read_csv("player_ave.csv")
 
 ave_df = ave_df[["Player Name", "Player Team", "Player Ave Impact on Post Shot xG"]]
 

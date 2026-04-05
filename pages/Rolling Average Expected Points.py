@@ -37,6 +37,18 @@ with col2:
         st.plotly_chart(fig)
 
 st.divider()
+st.subheader("Rolling Five Average Expected Points")
+st.text("""A rolling five game average expected points (xP) graph shows how a team's underlying performance has trended over the course of a season, smoothed out over every five game window.
 
-        
+  What the rolling average does:
+Instead of plotting each game individually (which is noisy), it takes the average xP across the last 5 games at each point in the season. This smooths out one-off outliers — a freak result or an easy fixture — and reveals the underlying trend more clearly.
+How to read it:
 
+Rising line — the team is performing better over recent games
+Falling line — form is declining
+Consistently high — the team is regularly creating and suppressing good chances
+Consistently low — the team is being outplayed most weeks regardless of results
+
+Why it's useful:
+Actual points can be misleading over short spells — a team can win three games while playing poorly, or lose three while playing well. The rolling xP graph cuts through that noise and gives a truer picture of form and trajectory.
+When comparing two teams (as above) it highlights which team has been the better performing side over time, even if the league table tells a different story.""")

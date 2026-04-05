@@ -35,16 +35,5 @@ with col2:
 
         fig.update_layout(showlegend=True)
         st.plotly_chart(fig)
-
-for team in teams:
-    jt_5_game_Ave = {}
-    df3 = pd.read_csv(f"{team}.csv")
-    df3 = df3["Team", "xP"]
-    df3["xP5GAv"] = df3["xP"].rolling(window=5).mean().dropna()
-    df3_disp = df3.sort_values(by="xP5GAv", ascending=False)
-    df3_disp.insert(0, "Position", list(range(len(df3_disp))))
-    df3_disp["Position"] = df3_disp["Position"] + 1
-    jt_5_game_Ave.append(df3_disp)
-st.dataframe(data=jt_5_game_Ave, hide_index=True, height=content)
         
 

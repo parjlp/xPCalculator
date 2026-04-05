@@ -35,5 +35,8 @@ with col2:
 
         fig.update_layout(showlegend=True)
         st.plotly_chart(fig)
+
+st.divider()
+
         
 

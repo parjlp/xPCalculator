@@ -4,7 +4,6 @@ import os
 import streamlit as st
 from csv import DictReader
 import numpy as np
-import plotly.express as px
 
 results = pd.read_csv("results.csv")
 teams = results["Home Team"].unique()

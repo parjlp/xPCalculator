@@ -4,9 +4,6 @@ import os
 import streamlit as st
 from csv import DictReader
 import numpy as np
-import matplotlib as mpl
-import matplotlib.pyplot as plt
-from matplotlib import style
 import plotly.express as px
 
 results = pd.read_csv("results.csv")

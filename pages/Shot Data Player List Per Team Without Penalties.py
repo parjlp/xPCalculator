@@ -1,11 +1,8 @@
 import pandas as pd
-import ScraperFC as sfc
-import random
 import glob
 import os
 from csv import DictReader
 import streamlit as st
-ss=sfc.Sofascore()
 
 df = pd.read_csv("C:/Users/parjl/Desktop/Football App/data/with_penalties/other_data/master_shots.csv")
 df["Post Shot xG"] = df["Post Shot xG"].fillna(0)

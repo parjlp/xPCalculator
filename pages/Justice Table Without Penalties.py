@@ -9,7 +9,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).parent.parent  # goes up from pages/ to project root
 DATA_DIR = BASE_DIR / "data"
 
-csv_in = DATA_DIR / "without_penalties" / "other_data" / "results.csv"
+csv_in = DATA_DIR / "without_penalties" / "other_data" / "justice_table.csv"
 
 st.set_page_config(layout="wide")
 st.title(body="National League North Justice Tables Without Penalties")

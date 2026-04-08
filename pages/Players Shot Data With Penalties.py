@@ -3,30 +3,30 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
+from pathlib import Path
+
 BASE_DIR = Path(__file__).parent
 DATA_DIR = BASE_DIR / "data"
 
 st.set_page_config(layout="wide")
 
-
-players_df = pd.read_csv("C:/Users/parjl/footballapp/data/with_penalties/master_shots.csv")
+players_df = pd.read_csv(DATA_DIR / "with_penalties" / "master_shots.csv")
 players = players_df["Player Name"].unique()
 
+player_select = st.selectbox(label="Select Player", options=players, index=0)
 
-player_select = st.selectbox(label="Select Dataset", options=players, index=False, accept_new_options=False)
+if player_select:
+    selected_df = pd.read_csv(DATA_DIR / "player_shots" / f"{player_select}.csv")
 
-selected_df = pd.read_csv("C:/Users/parjl/footballapp/data/player_shots/"+player_select+".csv")
-#st.dataframe(selected_df)
+    summary_data = {
+        "Player Name": selected_df["Player Name"].iloc[0],
+        "Total xG": selected_df["xG"].sum(),
+        "Total Post Shot xG": selected_df["Post Shot xG"].sum(),
+        "Post Shot / Pre Shot Difference": selected_df["Post Shot xG"].sum() - selected_df["xG"].sum(),
+        "Average xG": selected_df["xG"].mean(),
+        "Average Post Shot xG": selected_df["Post Shot xG"].mean(),
+        "Average Post Shot / Pre Shot Difference": selected_df["Post Shot xG"].mean() - selected_df["xG"].mean(),
+    }
 
-summary_data = dict()
-summary_data["Player Name"] = selected_df["Player Name"].unique()
-summary_data["Total xG"] = selected_df["xG"].sum()
-summary_data["Total Post Shot xG"] = selected_df["Post Shot xG"].sum()
-summary_data["Post Shot / Pre Shot Difference"] = summary_data["Total Post Shot xG"]-summary_data["Total xG"]
-summary_data["Average xG"] = selected_df["xG"].mean()
-summary_data["Average Post Shot xG"] = selected_df["Post Shot xG"].mean()
-summary_data["Average Post Shot / Pre Shot Difference"] = summary_data["Average Post Shot xG"]-summary_data["Average xG"]
-    
-
-st.dataframe(data=summary_data, hide_index=True)
+    st.dataframe(data=pd.DataFrame([summary_data]), hide_index=True)
 

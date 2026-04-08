@@ -7,6 +7,8 @@ from pathlib import Path
 BASE_DIR = Path(__file__).parent
 DATA_DIR = BASE_DIR / "data"
 
+jt_in = DATA_DIR / "without_penalties" / "results.csv"
+
 st.set_page_config(layout="wide")
 st.title(body="National League North Justice Tables Without Penalties")
 

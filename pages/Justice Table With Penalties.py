@@ -2,7 +2,11 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import random
-import streamlit_authenticator as stauth
+from pathlib import Path
+
+BASE_DIR = Path(__file__).parent
+DATA_DIR = BASE_DIR / "data"
+
 st.set_page_config(layout="wide")
 st.title(body="National League North Justice Tables")
 

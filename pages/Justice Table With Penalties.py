@@ -12,7 +12,7 @@ DATA_DIR = BASE_DIR / "data"
 st.set_page_config(layout="wide")
 st.title(body="National League North Justice Tables")
 
-jt_in = DATA_DIR / "with_penalties" / "results.csv"
+jt_in = DATA_DIR / "with_penalties" / "other_data" / "results.csv"
 col1, col2 = st.columns([1, 4])
 
 def refresh(data):

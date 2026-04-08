@@ -30,6 +30,8 @@ with col1:
     st.button(label="Show Selected Data", on_click=refresh, args=[user_input])
 
 refresh(user_input)  # shows table immediately on load
+jt = pd.read_csv(jt_in)
+st.write(jt.columns.tolist())
 
 
 

@@ -44,13 +44,14 @@ with col2:
 jt_5_game_ave = []
 for team in teams:
     df3 = pd.read_csv(DATA_DIR / "team_stats" / f"{team}.csv")
-    df3 = df3[["Team", "xP"]]
+    df3["Team"] = team
     df3["xP5GAv"] = df3["xP"].rolling(window=5).mean()
-    df3_disp = df3.sort_values(by="xP5GAv", ascending=False)
-    df3_disp.insert(0, "Position", range(1, len(df3_disp) + 1))
-    jt_5_game_ave.append(df3_disp)
+    latest = df3[["Team", "xP5GAv"]].dropna().iloc[-1]
+    jt_5_game_ave.append(latest)
 
-st.dataframe(data=pd.concat(jt_5_game_ave), hide_index=True)
+jt_final = pd.DataFrame(jt_5_game_ave).sort_values(by="xP5GAv", ascending=False)
+jt_final.insert(0, "Position", range(1, len(jt_final) + 1))
+st.dataframe(data=jt_final, hide_index=True)
     
         
 

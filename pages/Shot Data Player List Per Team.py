@@ -12,7 +12,6 @@ import pandas as pd
 
 BASE_DIR = Path(__file__).parent.parent  # goes up from pages/ to project root
 DATA_DIR = BASE_DIR / "data"
-DATA_DIR = BASE_DIR / "data"
 
 st.set_page_config(layout="wide")
 st.title("National League North Player Shot Stats")

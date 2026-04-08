@@ -8,6 +8,10 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 from matplotlib import style
 import plotly.express as px
+from pathlib import Path
+
+BASE_DIR = Path(__file__).parent
+DATA_DIR = BASE_DIR / "data"
 
 results = pd.read_csv("results.csv")
 teams = results["Home Team"].unique()

@@ -29,6 +29,8 @@ with col1:
     user_input = st.radio(label="Select Dataset", options=data_options)
     st.button(label="Show Selected Data", on_click=refresh, args=[user_input])
 
+refresh(user_input)  # shows table immediately on load
+
 
 
 

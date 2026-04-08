@@ -6,7 +6,7 @@ from pathlib import Path
 
 from pathlib import Path
 
-BASE_DIR = Path(__file__).parent
+BASE_DIR = Path(__file__).parent.parent  # goes up from pages/ to project root
 DATA_DIR = BASE_DIR / "data"
 
 csv_in = DATA_DIR / "without_penalties" / "results.csv"

@@ -12,7 +12,7 @@ DATA_DIR = BASE_DIR / "data"
 st.set_page_config(layout="wide")
 st.title(body="National League North Expected Points By Team Without Penalties")
 
-results = pd.read_csv(DATA_DIR / "without_penalties" / "results.csv")
+results = pd.read_csv(DATA_DIR / "without_penalties" / "other_data" / "results.csv")
 teams = results["Home Team"].unique()
 
 col1, col2 = st.columns([1, 4])

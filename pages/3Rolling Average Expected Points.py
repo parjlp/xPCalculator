@@ -12,7 +12,7 @@ from pathlib import Path
 from pathlib import Path
 
 BASE_DIR = Path(__file__).parent.parent  # goes up from pages/ to project root
-DATA_DIR = BASE_DIR / "data" / "team_data"
+DATA_DIR = BASE_DIR / "data"
 
 results = pd.read_csv(DATA_DIR / "results.csv")
 teams = results["Home Team"].unique()
@@ -20,7 +20,7 @@ teams = results["Home Team"].unique()
 col1, col2 = st.columns([1, 4])
 
 def load_team(team):
-    df = pd.read_csv(DATA_DIR / f"{team}.csv")
+    df = pd.read_csv(DATA_DIR / "team_data" / f"{team}.csv")
     df["Date"] = pd.to_datetime(df["Date"], format="%d/%m/%Y")
     df = df.sort_values(by="Date").reset_index(drop=True)
     df["xP5GAv"] = df["xP"].rolling(window=5).mean()
@@ -43,7 +43,7 @@ with col2:
 
 jt_5_game_ave = []
 for team in teams:
-    df3 = pd.read_csv(DATA_DIR / f"{team}.csv")
+    df3 = pd.read_csv(DATA_DIR / "team_data" / f"{team}.csv")
     df3["Team"] = team
     df3["xP5GAv"] = df3["xP"].rolling(window=5).mean()
     latest = df3[["Team", "xP5GAv"]].dropna().iloc[-1]

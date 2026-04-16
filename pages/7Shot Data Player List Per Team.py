@@ -16,18 +16,7 @@ DATA_DIR = BASE_DIR / "data"
 st.set_page_config(layout="wide")
 st.title("National League North Player Shot Stats")
 
-# Toggle
-penalty_toggle = st.radio(
-    label="Select Dataset",
-    options=["With Penalties", "Without Penalties"],
-    horizontal=True
-)
-
-# Set path based on toggle
-if penalty_toggle == "With Penalties":
-    data_path = DATA_DIR / "with_penalties" / "other_data" / "master_shots.csv"
-else:
-    data_path = DATA_DIR / "without_penalties" / "other_data" / "master_shots.csv"
+data_path = DATA_DIR / "data" / "master_shots.csv"
 
 df = pd.read_csv(data_path)
 df["Post Shot xG"] = df["Post Shot xG"].fillna(0)

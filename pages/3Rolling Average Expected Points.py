@@ -12,7 +12,7 @@ from pathlib import Path
 from pathlib import Path
 
 BASE_DIR = Path(__file__).parent.parent  # goes up from pages/ to project root
-DATA_DIR = BASE_DIR / "data" / "team_data" /
+DATA_DIR = BASE_DIR / "data" / "team_data"
 
 results = pd.read_csv(DATA_DIR / "results.csv")
 teams = results["Home Team"].unique()

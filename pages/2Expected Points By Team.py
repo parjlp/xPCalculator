@@ -10,9 +10,9 @@ BASE_DIR = Path(__file__).parent.parent  # goes up from pages/ to project root
 DATA_DIR = BASE_DIR / "data"
 
 st.set_page_config(layout="wide")
-st.title(body="National League North Expected Points By Team Without Penalties")
+st.title(body="National League North Expected Points By Team")
 
-results = pd.read_csv(DATA_DIR / "without_penalties" / "other_data" / "results.csv")
+results = pd.read_csv(DATA_DIR / "data" / "results.csv")
 teams = results["Home Team"].unique()
 
 col1, col2 = st.columns([1, 4])

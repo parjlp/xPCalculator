@@ -10,7 +10,7 @@ DATA_DIR = BASE_DIR / "data"
 
 st.set_page_config(layout="wide")
 
-players_df = pd.read_csv(DATA_DIR / "without_penalties" / "master_shots.csv")
+players_df = pd.read_csv(DATA_DIR / "master_shots.csv")
 players = players_df["Player Name"].unique()
 
 player_select = st.selectbox(label="Select Player", options=players, index=0)

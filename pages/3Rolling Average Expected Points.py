@@ -14,7 +14,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).parent.parent  # goes up from pages/ to project root
 DATA_DIR = BASE_DIR / "data"
 
-results = pd.read_csv(DATA_DIR / "with_penalties" / "results.csv")
+results = pd.read_csv(DATA_DIR / "results.csv")
 teams = results["Home Team"].unique()
 
 col1, col2 = st.columns([1, 4])

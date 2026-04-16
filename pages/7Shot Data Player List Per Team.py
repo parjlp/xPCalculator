@@ -16,7 +16,7 @@ DATA_DIR = BASE_DIR / "data"
 st.set_page_config(layout="wide")
 st.title("National League North Player Shot Stats")
 
-data_path = DATA_DIR / "data" / "master_shots.csv"
+data_path = DATA_DIR / "master_shots.csv"
 
 df = pd.read_csv(data_path)
 df["Post Shot xG"] = df["Post Shot xG"].fillna(0)

@@ -1,0 +1,58 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168617,21/10/2025,Chester,Alfreton,Dylan Mottley Henry,head,set-piece,save,0.4492,0.6575
+14168485,09/08/2025,Chester,Peterborough,Dylan Mottley Henry,right-foot,regular,post,0.06144,0.0
+14168485,09/08/2025,Chester,Peterborough,Dylan Mottley Henry,right-foot,set-piece,goal,0.3463,0.7484
+14168485,09/08/2025,Chester,Peterborough,Dylan Mottley Henry,head,regular,goal,0.1414,0.5695
+14168519,25/08/2025,Chester,Oxford,Dylan Mottley Henry,head,regular,miss,0.2536,0.0
+14168519,25/08/2025,Chester,Oxford,Dylan Mottley Henry,left-foot,regular,save,0.02301,0.01243
+14168519,25/08/2025,Chester,Oxford,Dylan Mottley Henry,head,regular,miss,0.06899,0.0
+14168519,25/08/2025,Chester,Oxford,Dylan Mottley Henry,head,regular,miss,0.08319,0.0
+14168556,06/09/2025,Chester,Scarborough,Dylan Mottley Henry,head,regular,goal,0.298,0.6423
+14168556,06/09/2025,Chester,Scarborough,Dylan Mottley Henry,head,throw-in-set-piece,save,0.1071,0.2118
+14168578,04/10/2025,Chester,Merthyr,Dylan Mottley Henry,right-foot,regular,block,0.1826,0.0
+14168578,04/10/2025,Chester,Merthyr,Dylan Mottley Henry,right-foot,corner,block,0.02376,0.0
+14168603,18/10/2025,Chester,Kidderminster,Dylan Mottley Henry,head,set-piece,post,0.1587,0.0
+14168603,18/10/2025,Chester,Kidderminster,Dylan Mottley Henry,right-foot,regular,block,0.01395,0.0
+14168603,18/10/2025,Chester,Kidderminster,Dylan Mottley Henry,head,set-piece,goal,0.5312,0.7825
+14168603,18/10/2025,Chester,Kidderminster,Dylan Mottley Henry,right-foot,regular,block,0.007048,0.0
+14168626,25/10/2025,Chester,Bedford,Dylan Mottley Henry,head,corner,miss,0.06566,0.0
+14168626,25/10/2025,Chester,Bedford,Dylan Mottley Henry,left-foot,set-piece,block,0.05159,0.0
+14168626,25/10/2025,Chester,Bedford,Dylan Mottley Henry,left-foot,regular,save,0.05147,0.1687
+14168626,25/10/2025,Chester,Bedford,Dylan Mottley Henry,left-foot,regular,miss,0.0452,0.0
+14168677,22/11/2025,Chester,Leamington,Dylan Mottley Henry,head,set-piece,goal,0.1703,0.5011
+14168687,25/11/2025,Chester,Hereford,Dylan Mottley Henry,left-foot,regular,miss,0.08601,0.0
+14168726,20/12/2025,Chester,South Shields,Dylan Mottley Henry,right-foot,corner,block,0.02804,0.0
+14168726,20/12/2025,Chester,South Shields,Dylan Mottley Henry,right-foot,regular,block,0.5585,0.0
+14168747,30/12/2025,Chester,Macclesfield,Dylan Mottley Henry,left-foot,regular,save,0.0529,0.3255
+14168747,30/12/2025,Chester,Macclesfield,Dylan Mottley Henry,right-foot,regular,goal,0.4444,0.5575
+14168759,03/01/2026,Chester,Worksop,Dylan Mottley Henry,head,set-piece,block,0.01685,0.0
+14168759,03/01/2026,Chester,Worksop,Dylan Mottley Henry,right-foot,regular,block,0.3027,0.0
+14168759,03/01/2026,Chester,Worksop,Dylan Mottley Henry,head,regular,save,0.663,0.9146
+14168759,03/01/2026,Chester,Worksop,Dylan Mottley Henry,left-foot,regular,save,0.6253,0.7121
+14168856,14/02/2026,Chester,Buxton,Dylan Mottley Henry,head,corner,goal,0.3303,0.4791
+14168856,14/02/2026,Chester,Buxton,Dylan Mottley Henry,head,regular,miss,0.1039,0.0
+14168856,14/02/2026,Chester,Buxton,Dylan Mottley Henry,head,regular,save,0.1577,0.08974
+14168893,28/02/2026,Chester,Spennymoor,Dylan Mottley Henry,head,throw-in-set-piece,miss,0.1299,0.0
+14168893,28/02/2026,Chester,Spennymoor,Dylan Mottley Henry,head,regular,block,0.3206,0.0
+14168903,07/03/2026,Chester,Darlington,Dylan Mottley Henry,head,set-piece,save,0.3423,0.3015
+14168903,07/03/2026,Chester,Darlington,Dylan Mottley Henry,right-foot,regular,save,0.178,0.2351
+14168903,07/03/2026,Chester,Darlington,Dylan Mottley Henry,right-foot,regular,miss,0.3221,0.0
+14168903,07/03/2026,Chester,Darlington,Dylan Mottley Henry,right-foot,regular,goal,0.8083,0.7768
+14168940,21/03/2026,Chester,Southport,Dylan Mottley Henry,right-foot,regular,goal,0.1032,0.1233
+14168940,21/03/2026,Chester,Southport,Dylan Mottley Henry,head,corner,block,0.02171,0.0
+14168940,21/03/2026,Chester,Southport,Dylan Mottley Henry,right-foot,regular,miss,0.02838,0.0
+14168952,28/03/2026,Chester,Curzon Ashton,Dylan Mottley Henry,right-foot,regular,miss,0.07097,0.0
+14168569,20/09/2025,Chester,Darlington,Dylan Mottley Henry,right-foot,throw-in-set-piece,miss,0.06167,0.0
+14168882,24/02/2026,Chester,Hereford,Dylan Mottley Henry,right-foot,regular,save,0.155,0.3079
+14168882,24/02/2026,Chester,Hereford,Dylan Mottley Henry,left-foot,regular,block,0.3426,0.0
+14168714,06/12/2025,Chester,King's Lynn,Dylan Mottley Henry,head,corner,miss,0.04847,0.0
+14168810,27/01/2026,Chester,Marine,Dylan Mottley Henry,left-foot,regular,miss,0.1065,0.0
+14972548,02/12/2025,Chester,Radcliffe,Dylan Mottley Henry,head,corner,save,0.04809,0.1221
+14972548,02/12/2025,Chester,Radcliffe,Dylan Mottley Henry,left-foot,regular,miss,0.1995,0.0
+14168779,10/01/2026,Chester,Scarborough,Dylan Mottley Henry,right-foot,throw-in-set-piece,miss,0.1149,0.0
+14168779,10/01/2026,Chester,Scarborough,Dylan Mottley Henry,head,regular,miss,0.2075,0.0
+14168779,10/01/2026,Chester,Scarborough,Dylan Mottley Henry,right-foot,set-piece,save,0.6283,0.8447
+14168779,10/01/2026,Chester,Scarborough,Dylan Mottley Henry,right-foot,throw-in-set-piece,block,0.00241,0.0
+14168514,23/08/2025,Chester,South Shields,Dylan Mottley Henry,right-foot,regular,save,0.3724,0.2859
+14168514,23/08/2025,Chester,South Shields,Dylan Mottley Henry,right-foot,throw-in-set-piece,save,0.1405,0.2064
+14168539,30/08/2025,Chester,Worksop,Dylan Mottley Henry,right-foot,regular,block,0.0213,0.0

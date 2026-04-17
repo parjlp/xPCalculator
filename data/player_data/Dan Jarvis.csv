@@ -1,0 +1,37 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168879,24/02/2026,Peterborough,Bedford,Dan Jarvis,right-foot,regular,save,0.08918,0.3318
+14168485,09/08/2025,Peterborough,Chester,Dan Jarvis,left-foot,regular,save,0.06976,0.1681
+14168485,09/08/2025,Peterborough,Chester,Dan Jarvis,right-foot,throw-in-set-piece,block,0.00996,0.0
+14168485,09/08/2025,Peterborough,Chester,Dan Jarvis,right-foot,regular,block,0.0297,0.0
+14168485,09/08/2025,Peterborough,Chester,Dan Jarvis,right-foot,regular,save,0.0938,0.1327
+14168631,25/10/2025,Peterborough,Curzon Ashton,Dan Jarvis,right-foot,regular,miss,0.03298,0.0
+14168631,25/10/2025,Peterborough,Curzon Ashton,Dan Jarvis,left-foot,regular,miss,0.03524,0.0
+14878242,18/11/2025,Peterborough,Darlington,Dan Jarvis,right-foot,regular,block,0.003521,0.0
+14878242,18/11/2025,Peterborough,Darlington,Dan Jarvis,right-foot,regular,goal,0.02614,0.1958
+14878242,18/11/2025,Peterborough,Darlington,Dan Jarvis,right-foot,regular,miss,0.0003597,0.0
+14168738,26/12/2025,Peterborough,King's Lynn,Dan Jarvis,left-foot,regular,block,0.02829,0.0
+14168738,26/12/2025,Peterborough,King's Lynn,Dan Jarvis,head,regular,save,0.029,0.02318
+14168738,26/12/2025,Peterborough,King's Lynn,Dan Jarvis,head,set-piece,save,0.05494,0.1436
+14168958,28/03/2026,Peterborough,Leamington,Dan Jarvis,right-foot,throw-in-set-piece,block,0.1622,0.0
+14168958,28/03/2026,Peterborough,Leamington,Dan Jarvis,right-foot,regular,post,0.02621,0.0
+14168958,28/03/2026,Peterborough,Leamington,Dan Jarvis,head,regular,save,0.1416,0.4735
+14168958,28/03/2026,Peterborough,Leamington,Dan Jarvis,right-foot,throw-in-set-piece,block,0.06044,0.0
+14168490,16/08/2025,Peterborough,Merthyr,Dan Jarvis,left-foot,regular,save,0.2969,0.3851
+14168490,16/08/2025,Peterborough,Merthyr,Dan Jarvis,right-foot,regular,block,0.2426,0.0
+14168490,16/08/2025,Peterborough,Merthyr,Dan Jarvis,right-foot,throw-in-set-piece,save,0.08601,0.09942
+14168585,04/10/2025,Peterborough,Kidderminster,Dan Jarvis,right-foot,regular,block,0.1049,0.0
+14168609,18/10/2025,Peterborough,Alfreton,Dan Jarvis,right-foot,regular,goal,0.05283,0.6774
+14168609,18/10/2025,Peterborough,Alfreton,Dan Jarvis,left-foot,throw-in-set-piece,save,0.02694,0.2546
+14168616,21/10/2025,Peterborough,Buxton,Dan Jarvis,left-foot,regular,block,0.1919,0.0
+14168616,21/10/2025,Peterborough,Buxton,Dan Jarvis,left-foot,regular,save,0.1074,0.1621
+14168616,21/10/2025,Peterborough,Buxton,Dan Jarvis,right-foot,throw-in-set-piece,miss,0.01208,0.0
+14168645,01/11/2025,Peterborough,Chorley,Dan Jarvis,right-foot,regular,goal,0.02151,0.2359
+14168645,01/11/2025,Peterborough,Chorley,Dan Jarvis,right-foot,regular,miss,0.04287,0.0
+14168682,22/11/2025,Peterborough,Radcliffe,Dan Jarvis,left-foot,throw-in-set-piece,miss,0.01593,0.0
+14168682,22/11/2025,Peterborough,Radcliffe,Dan Jarvis,right-foot,regular,block,0.004971,0.0
+14168730,20/12/2025,Peterborough,Scarborough,Dan Jarvis,right-foot,regular,save,0.1466,0.7147
+14168730,20/12/2025,Peterborough,Scarborough,Dan Jarvis,right-foot,regular,block,0.01894,0.0
+14169015,06/12/2025,Peterborough,Hereford,Dan Jarvis,right-foot,regular,miss,0.03588,0.0
+14168515,23/08/2025,Peterborough,Scarborough,Dan Jarvis,right-foot,regular,save,0.1627,0.1244
+14168515,23/08/2025,Peterborough,Scarborough,Dan Jarvis,left-foot,regular,block,0.1155,0.0
+14168672,08/11/2025,Peterborough,Spennymoor,Dan Jarvis,head,set-piece,save,0.05166,0.1699

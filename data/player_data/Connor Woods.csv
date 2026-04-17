@@ -1,0 +1,50 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168485,09/08/2025,Chester,Peterborough,Connor Woods,right-foot,free-kick,miss,0.0004259,0.0
+14168485,09/08/2025,Chester,Peterborough,Connor Woods,right-foot,regular,miss,0.004211,0.0
+14168484,19/08/2025,Chester,Curzon Ashton,Connor Woods,left-foot,regular,save,0.05711,0.05285
+14168484,19/08/2025,Chester,Curzon Ashton,Connor Woods,right-foot,regular,miss,0.009018,0.0
+14168484,19/08/2025,Chester,Curzon Ashton,Connor Woods,right-foot,penalty,goal,0.76,0.81
+14168484,19/08/2025,Chester,Curzon Ashton,Connor Woods,right-foot,regular,block,0.1716,0.0
+14168484,19/08/2025,Chester,Curzon Ashton,Connor Woods,head,throw-in-set-piece,miss,0.05864,0.0
+14168484,19/08/2025,Chester,Curzon Ashton,Connor Woods,right-foot,regular,save,0.006083,0.0254
+14168519,25/08/2025,Chester,Oxford,Connor Woods,right-foot,regular,save,0.1653,0.1137
+14168519,25/08/2025,Chester,Oxford,Connor Woods,left-foot,regular,save,0.06274,0.02248
+14168578,04/10/2025,Chester,Merthyr,Connor Woods,right-foot,set-piece,block,0.04039,0.0
+14168652,04/11/2025,Chester,Marine,Connor Woods,right-foot,corner,block,0.03432,0.0
+14168687,25/11/2025,Chester,Hereford,Connor Woods,right-foot,regular,goal,0.05229,0.03409
+14168726,20/12/2025,Chester,South Shields,Connor Woods,right-foot,penalty,goal,0.76,0.81
+14168726,20/12/2025,Chester,South Shields,Connor Woods,right-foot,regular,block,0.05362,0.0
+14168785,17/01/2026,Chester,Chorley,Connor Woods,right-foot,regular,save,0.03861,0.2369
+14168785,17/01/2026,Chester,Chorley,Connor Woods,right-foot,free-kick,block,0.002221,0.0
+14168785,17/01/2026,Chester,Chorley,Connor Woods,right-foot,regular,miss,0.08186,0.0
+14168785,17/01/2026,Chester,Chorley,Connor Woods,right-foot,corner,save,0.02095,0.02019
+14168785,17/01/2026,Chester,Chorley,Connor Woods,right-foot,regular,save,0.1759,0.1142
+14168785,17/01/2026,Chester,Chorley,Connor Woods,left-foot,regular,save,0.04883,0.2848
+14168822,31/01/2026,Chester,Radcliffe,Connor Woods,right-foot,regular,block,0.01382,0.0
+14168822,31/01/2026,Chester,Radcliffe,Connor Woods,head,corner,miss,0.2022,0.0
+14168844,10/02/2026,Chester,Alfreton,Connor Woods,right-foot,penalty,goal,0.76,0.81
+14168856,14/02/2026,Chester,Buxton,Connor Woods,right-foot,regular,block,0.1341,0.0
+14168893,28/02/2026,Chester,Spennymoor,Connor Woods,left-foot,regular,save,0.2252,0.08366
+14168893,28/02/2026,Chester,Spennymoor,Connor Woods,right-foot,free-kick,miss,0.0004309,0.0
+14168893,28/02/2026,Chester,Spennymoor,Connor Woods,right-foot,corner,save,0.1065,0.07672
+14168893,28/02/2026,Chester,Spennymoor,Connor Woods,right-foot,throw-in-set-piece,block,0.008514,0.0
+14168893,28/02/2026,Chester,Spennymoor,Connor Woods,right-foot,regular,save,0.01091,0.1931
+14168903,07/03/2026,Chester,Darlington,Connor Woods,right-foot,regular,save,0.1934,0.1924
+14168493,16/08/2025,Chester,Chorley,Connor Woods,head,regular,save,0.0447,0.01589
+14168569,20/09/2025,Chester,Darlington,Connor Woods,head,regular,save,0.3247,0.5945
+14168882,24/02/2026,Chester,Hereford,Connor Woods,right-foot,penalty,goal,0.76,0.81
+14168714,06/12/2025,Chester,King's Lynn,Connor Woods,right-foot,regular,save,0.2987,0.2664
+14168714,06/12/2025,Chester,King's Lynn,Connor Woods,left-foot,regular,block,0.1848,0.0
+14168714,06/12/2025,Chester,King's Lynn,Connor Woods,right-foot,regular,miss,0.1101,0.0
+14168873,21/02/2026,Chester,Leamington,Connor Woods,right-foot,regular,save,0.03552,0.08796
+14168873,21/02/2026,Chester,Leamington,Connor Woods,right-foot,throw-in-set-piece,save,0.0678,0.09378
+14168873,21/02/2026,Chester,Leamington,Connor Woods,left-foot,throw-in-set-piece,save,0.09401,0.1371
+14168873,21/02/2026,Chester,Leamington,Connor Woods,right-foot,regular,save,0.08857,0.2738
+14168810,27/01/2026,Chester,Marine,Connor Woods,right-foot,penalty,goal,0.76,0.81
+14972548,02/12/2025,Chester,Radcliffe,Connor Woods,right-foot,regular,save,0.1055,0.06697
+14168779,10/01/2026,Chester,Scarborough,Connor Woods,right-foot,regular,block,0.1053,0.0
+14168779,10/01/2026,Chester,Scarborough,Connor Woods,right-foot,corner,save,0.01804,0.02942
+14877776,11/11/2025,Chester,Southport,Connor Woods,right-foot,regular,goal,0.7869,0.8825
+14877776,11/11/2025,Chester,Southport,Connor Woods,right-foot,regular,block,0.02383,0.0
+15212553,20/01/2026,Chester,Spennymoor,Connor Woods,left-foot,throw-in-set-piece,block,0.1633,0.0
+14168735,26/12/2025,Chester,Telford,Connor Woods,right-foot,throw-in-set-piece,save,0.06106,0.04173

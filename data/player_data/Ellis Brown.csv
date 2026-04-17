@@ -1,0 +1,49 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168488,09/08/2025,Bedford,Alfreton,Ellis Brown,right-foot,set-piece,block,0.09883,0.0
+14168496,19/08/2025,Bedford,Telford,Ellis Brown,right-foot,regular,goal,0.1646,0.1281
+14168555,06/09/2025,Bedford,Curzon Ashton,Ellis Brown,right-foot,regular,miss,0.1381,0.0
+14168555,06/09/2025,Bedford,Curzon Ashton,Ellis Brown,right-foot,regular,miss,0.02333,0.0
+14168555,06/09/2025,Bedford,Curzon Ashton,Ellis Brown,right-foot,regular,block,0.1461,0.0
+14168555,06/09/2025,Bedford,Curzon Ashton,Ellis Brown,right-foot,regular,miss,0.01483,0.0
+14168555,06/09/2025,Bedford,Curzon Ashton,Ellis Brown,right-foot,regular,goal,0.3598,0.5777
+14168555,06/09/2025,Bedford,Curzon Ashton,Ellis Brown,right-foot,regular,save,0.2114,0.1112
+14168555,06/09/2025,Bedford,Curzon Ashton,Ellis Brown,left-foot,regular,block,0.009201,0.0
+14168555,06/09/2025,Bedford,Curzon Ashton,Ellis Brown,right-foot,regular,miss,0.1473,0.0
+14168568,20/09/2025,Bedford,Spennymoor,Ellis Brown,right-foot,regular,save,0.05569,0.05809
+14168658,08/11/2025,Bedford,Merthyr,Ellis Brown,right-foot,set-piece,block,0.00342,0.0
+14168658,08/11/2025,Bedford,Merthyr,Ellis Brown,right-foot,regular,miss,0.1293,0.0
+14168658,08/11/2025,Bedford,Merthyr,Ellis Brown,right-foot,regular,save,0.03844,0.4881
+14168699,29/11/2025,Bedford,Darlington,Ellis Brown,left-foot,regular,goal,0.1416,0.1841
+14168699,29/11/2025,Bedford,Darlington,Ellis Brown,right-foot,regular,miss,0.1523,0.0
+14168866,21/02/2026,Bedford,Chorley,Ellis Brown,right-foot,set-piece,block,0.003683,0.0
+14168879,24/02/2026,Bedford,Peterborough,Ellis Brown,right-foot,regular,save,0.05717,0.1169
+14168879,24/02/2026,Bedford,Peterborough,Ellis Brown,right-foot,regular,save,0.1687,0.466
+14168916,10/03/2026,Bedford,Worksop,Ellis Brown,right-foot,regular,post,0.3289,0.0
+14168928,14/03/2026,Bedford,Radcliffe,Ellis Brown,left-foot,regular,block,0.06247,0.0
+14168928,14/03/2026,Bedford,Radcliffe,Ellis Brown,right-foot,regular,save,0.02817,0.2266
+14168928,14/03/2026,Bedford,Radcliffe,Ellis Brown,right-foot,throw-in-set-piece,block,0.3106,0.0
+14168939,21/03/2026,Bedford,Buxton,Ellis Brown,right-foot,corner,miss,0.005758,0.0
+14168678,22/11/2025,Bedford,Chorley,Ellis Brown,right-foot,regular,save,0.1377,0.5948
+14168678,22/11/2025,Bedford,Chorley,Ellis Brown,right-foot,regular,block,0.005901,0.0
+14168678,22/11/2025,Bedford,Chorley,Ellis Brown,right-foot,regular,save,0.03664,0.1789
+14168678,22/11/2025,Bedford,Chorley,Ellis Brown,right-foot,corner,miss,0.04067,0.0
+14168895,28/02/2026,Bedford,Darlington,Ellis Brown,right-foot,regular,save,0.4029,0.6264
+14168895,28/02/2026,Bedford,Darlington,Ellis Brown,right-foot,regular,block,0.3052,0.0
+14168895,28/02/2026,Bedford,Darlington,Ellis Brown,right-foot,regular,block,0.006692,0.0
+14168895,28/02/2026,Bedford,Darlington,Ellis Brown,right-foot,regular,block,0.005089,0.0
+14168895,28/02/2026,Bedford,Darlington,Ellis Brown,right-foot,regular,block,0.009582,0.0
+14168532,30/08/2025,Bedford,Fylde,Ellis Brown,right-foot,regular,block,0.005369,0.0
+14168545,02/09/2025,Bedford,Hereford,Ellis Brown,right-foot,corner,save,0.0274,0.05188
+14168545,02/09/2025,Bedford,Hereford,Ellis Brown,right-foot,regular,block,0.1952,0.0
+14168657,04/11/2025,Bedford,Kidderminster,Ellis Brown,right-foot,regular,save,0.01792,0.007767
+14168657,04/11/2025,Bedford,Kidderminster,Ellis Brown,right-foot,regular,goal,0.0779,0.6764
+14168510,23/08/2025,Bedford,Marine,Ellis Brown,right-foot,throw-in-set-piece,save,0.02459,0.3184
+14168510,23/08/2025,Bedford,Marine,Ellis Brown,right-foot,regular,goal,0.1153,0.5163
+14168846,01/11/2025,Bedford,Oxford,Ellis Brown,right-foot,corner,block,0.02235,0.0
+14168608,18/10/2025,Bedford,Radcliffe,Ellis Brown,right-foot,corner,miss,0.01166,0.0
+14168608,18/10/2025,Bedford,Radcliffe,Ellis Brown,right-foot,regular,miss,0.1258,0.0
+14168608,18/10/2025,Bedford,Radcliffe,Ellis Brown,right-foot,regular,block,0.05614,0.0
+14168481,16/08/2025,Bedford,Southport,Ellis Brown,right-foot,throw-in-set-piece,miss,0.00294,0.0
+14168912,07/03/2026,Bedford,Spennymoor,Ellis Brown,right-foot,regular,block,0.02693,0.0
+14168912,07/03/2026,Bedford,Spennymoor,Ellis Brown,right-foot,corner,block,0.004969,0.0
+14168912,07/03/2026,Bedford,Spennymoor,Ellis Brown,right-foot,regular,block,0.09581,0.0

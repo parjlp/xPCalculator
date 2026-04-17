@@ -1,0 +1,30 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+15029190,16/12/2025,Macclesfield,Bedford,Josh Kay,left-foot,regular,save,0.04388,0.2684
+14168570,20/09/2025,Macclesfield,Chorley,Josh Kay,right-foot,regular,block,0.01655,0.0
+15341358,03/03/2026,Macclesfield,Darlington,Josh Kay,left-foot,regular,save,0.1538,0.04559
+15341358,03/03/2026,Macclesfield,Darlington,Josh Kay,right-foot,regular,save,0.07002,0.02929
+15341358,03/03/2026,Macclesfield,Darlington,Josh Kay,right-foot,regular,miss,0.445,0.0
+15168214,10/12/2025,Macclesfield,King's Lynn,Josh Kay,right-foot,set-piece,save,0.03699,0.02462
+14168583,04/10/2025,Macclesfield,Marine,Josh Kay,right-foot,regular,block,0.09459,0.0
+14168635,25/10/2025,Macclesfield,South Shields,Josh Kay,right-foot,regular,save,0.09357,0.114
+14168635,25/10/2025,Macclesfield,South Shields,Josh Kay,right-foot,regular,block,0.005729,0.0
+14168793,17/01/2026,Macclesfield,Oxford,Josh Kay,right-foot,regular,save,0.05714,0.01437
+14168827,31/01/2026,Macclesfield,Bedford,Josh Kay,left-foot,regular,miss,0.03738,0.0
+14168827,31/01/2026,Macclesfield,Bedford,Josh Kay,right-foot,regular,goal,0.3557,0.8199
+14168852,10/02/2026,Macclesfield,Leamington,Josh Kay,right-foot,regular,save,0.1553,0.1596
+14168872,21/02/2026,Macclesfield,King's Lynn,Josh Kay,right-foot,regular,block,0.05472,0.0
+14168872,21/02/2026,Macclesfield,King's Lynn,Josh Kay,right-foot,regular,save,0.01107,0.03325
+14168872,21/02/2026,Macclesfield,King's Lynn,Josh Kay,right-foot,throw-in-set-piece,save,0.01559,0.04222
+14168883,24/02/2026,Macclesfield,Fylde,Josh Kay,right-foot,regular,block,0.1547,0.0
+14168883,24/02/2026,Macclesfield,Fylde,Josh Kay,right-foot,regular,miss,0.01871,0.0
+14168908,07/03/2026,Macclesfield,Chorley,Josh Kay,right-foot,regular,miss,0.001618,0.0
+14168921,10/03/2026,Macclesfield,Marine,Josh Kay,right-foot,throw-in-set-piece,goal,0.1852,0.4807
+14168921,10/03/2026,Macclesfield,Marine,Josh Kay,right-foot,set-piece,block,0.01156,0.0
+14168921,10/03/2026,Macclesfield,Marine,Josh Kay,right-foot,regular,miss,0.345,0.0
+14168812,27/01/2026,Macclesfield,Peterborough,Josh Kay,left-foot,regular,miss,0.01903,0.0
+14168899,28/02/2026,Macclesfield,Scarborough,Josh Kay,left-foot,regular,save,0.08833,0.1223
+14168899,28/02/2026,Macclesfield,Scarborough,Josh Kay,right-foot,regular,save,0.1447,0.07867
+14168899,28/02/2026,Macclesfield,Scarborough,Josh Kay,right-foot,corner,block,0.02614,0.0
+14168805,24/01/2026,Macclesfield,Worksop,Josh Kay,right-foot,regular,miss,0.08742,0.0
+14168805,24/01/2026,Macclesfield,Worksop,Josh Kay,right-foot,regular,block,0.00509,0.0
+14168805,24/01/2026,Macclesfield,Worksop,Josh Kay,right-foot,regular,save,0.02754,0.1453

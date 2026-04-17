@@ -1,0 +1,50 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168915,10/03/2026,Radcliffe,Alfreton,Michael Afuye,left-foot,free-kick,save,0.1048,0.03409
+14168928,14/03/2026,Radcliffe,Bedford,Michael Afuye,left-foot,regular,miss,0.0323,0.0
+14168855,14/02/2026,Radcliffe,Chorley,Michael Afuye,left-foot,regular,miss,0.03545,0.0
+14168736,26/12/2025,Radcliffe,Curzon Ashton,Michael Afuye,left-foot,regular,save,0.2293,0.5565
+14168634,25/10/2025,Radcliffe,King's Lynn,Michael Afuye,left-foot,regular,miss,0.005267,0.0
+15122242,06/01/2026,Radcliffe,Macclesfield,Michael Afuye,left-foot,regular,miss,0.00181,0.0
+15234057,20/01/2026,Radcliffe,Marine,Michael Afuye,left-foot,free-kick,block,0.001138,0.0
+14168574,20/09/2025,Radcliffe,Merthyr,Michael Afuye,left-foot,free-kick,save,0.08642,0.1267
+14168574,20/09/2025,Radcliffe,Merthyr,Michael Afuye,left-foot,regular,block,0.02022,0.0
+14168535,30/08/2025,Radcliffe,Oxford,Michael Afuye,left-foot,regular,miss,0.00386,0.0
+14168562,06/09/2025,Radcliffe,Marine,Michael Afuye,left-foot,regular,save,0.00843,0.004412
+14168562,06/09/2025,Radcliffe,Marine,Michael Afuye,left-foot,throw-in-set-piece,block,0.006215,0.0
+14168586,04/10/2025,Radcliffe,Alfreton,Michael Afuye,left-foot,set-piece,goal,0.02073,0.06611
+14168608,18/10/2025,Radcliffe,Bedford,Michael Afuye,right-foot,throw-in-set-piece,miss,0.03631,0.0
+14168618,21/10/2025,Radcliffe,Darlington,Michael Afuye,left-foot,regular,goal,0.07068,0.0
+14168618,21/10/2025,Radcliffe,Darlington,Michael Afuye,left-foot,regular,block,0.1156,0.0
+14168618,21/10/2025,Radcliffe,Darlington,Michael Afuye,right-foot,regular,miss,0.01539,0.0
+14168711,29/11/2025,Radcliffe,Telford,Michael Afuye,left-foot,corner,save,0.01581,0.4464
+14168711,29/11/2025,Radcliffe,Telford,Michael Afuye,left-foot,regular,block,0.0227,0.0
+14972548,02/12/2025,Radcliffe,Chester,Michael Afuye,left-foot,regular,goal,0.03918,0.5203
+14972548,02/12/2025,Radcliffe,Chester,Michael Afuye,left-foot,regular,block,0.03494,0.0
+14168731,20/12/2025,Radcliffe,Leamington,Michael Afuye,left-foot,regular,block,0.001586,0.0
+14168731,20/12/2025,Radcliffe,Leamington,Michael Afuye,left-foot,regular,block,0.4082,0.0
+14168731,20/12/2025,Radcliffe,Leamington,Michael Afuye,left-foot,regular,save,0.07557,0.03637
+14168731,20/12/2025,Radcliffe,Leamington,Michael Afuye,left-foot,regular,post,0.03928,0.0
+14168762,30/12/2025,Radcliffe,Fylde,Michael Afuye,left-foot,corner,block,0.002269,0.0
+14168798,24/01/2026,Radcliffe,Buxton,Michael Afuye,left-foot,regular,save,0.0396,0.01537
+14168798,24/01/2026,Radcliffe,Buxton,Michael Afuye,left-foot,regular,save,0.01112,0.1278
+14168814,27/01/2026,Radcliffe,Scarborough,Michael Afuye,left-foot,set-piece,block,0.007149,0.0
+14168814,27/01/2026,Radcliffe,Scarborough,Michael Afuye,left-foot,regular,save,0.02923,0.01009
+14168835,07/02/2026,Radcliffe,King's Lynn,Michael Afuye,left-foot,regular,miss,0.1199,0.0
+14168835,07/02/2026,Radcliffe,King's Lynn,Michael Afuye,left-foot,regular,miss,0.02848,0.0
+14168835,07/02/2026,Radcliffe,King's Lynn,Michael Afuye,right-foot,regular,block,0.07952,0.0
+14168874,21/02/2026,Radcliffe,Peterborough,Michael Afuye,left-foot,regular,block,0.1497,0.0
+14168888,24/02/2026,Radcliffe,Southport,Michael Afuye,right-foot,regular,save,0.176,0.2543
+14168906,07/03/2026,Radcliffe,Merthyr,Michael Afuye,left-foot,free-kick,miss,0.0011,0.0
+14168906,07/03/2026,Radcliffe,Merthyr,Michael Afuye,left-foot,regular,save,0.02887,0.0167
+14969967,16/12/2025,Radcliffe,Scarborough,Michael Afuye,left-foot,regular,block,0.167,0.0
+14969967,16/12/2025,Radcliffe,Scarborough,Michael Afuye,right-foot,regular,miss,0.1049,0.0
+14969967,16/12/2025,Radcliffe,Scarborough,Michael Afuye,left-foot,regular,miss,0.1583,0.0
+14969967,16/12/2025,Radcliffe,Scarborough,Michael Afuye,left-foot,regular,block,0.05593,0.0
+14168551,02/09/2025,Radcliffe,South Shields,Michael Afuye,left-foot,throw-in-set-piece,block,0.07115,0.0
+14168551,02/09/2025,Radcliffe,South Shields,Michael Afuye,left-foot,regular,save,0.1103,0.5303
+14168790,17/01/2026,Radcliffe,Spennymoor,Michael Afuye,left-foot,throw-in-set-piece,miss,0.0007098,0.0
+14168790,17/01/2026,Radcliffe,Spennymoor,Michael Afuye,left-foot,regular,goal,0.07789,0.7999
+14168790,17/01/2026,Radcliffe,Spennymoor,Michael Afuye,right-foot,regular,save,0.1042,0.1284
+14168790,17/01/2026,Radcliffe,Spennymoor,Michael Afuye,left-foot,regular,block,0.03198,0.0
+14168891,28/02/2026,Radcliffe,Telford,Michael Afuye,left-foot,throw-in-set-piece,miss,0.1805,0.0
+14168891,28/02/2026,Radcliffe,Telford,Michael Afuye,left-foot,regular,miss,0.005989,0.0

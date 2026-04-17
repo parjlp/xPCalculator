@@ -1,0 +1,57 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168916,10/03/2026,Worksop,Bedford,Lewis James Whitham,right-foot,throw-in-set-piece,save,0.06868,0.3234
+14168916,10/03/2026,Worksop,Bedford,Lewis James Whitham,right-foot,regular,miss,0.01772,0.0
+14168916,10/03/2026,Worksop,Bedford,Lewis James Whitham,right-foot,regular,block,0.0009513,0.0
+14168916,10/03/2026,Worksop,Bedford,Lewis James Whitham,right-foot,regular,block,0.005063,0.0
+14168751,30/12/2025,Worksop,Buxton,Lewis James Whitham,right-foot,regular,save,0.4027,0.3657
+14168656,04/11/2025,Worksop,Darlington,Lewis James Whitham,right-foot,regular,miss,0.08183,0.0
+14168788,17/01/2026,Worksop,Kidderminster,Lewis James Whitham,head,regular,save,0.06214,0.06052
+14168788,17/01/2026,Worksop,Kidderminster,Lewis James Whitham,left-foot,regular,miss,0.01049,0.0
+14168788,17/01/2026,Worksop,Kidderminster,Lewis James Whitham,right-foot,corner,block,0.04365,2.113e-05
+14168788,17/01/2026,Worksop,Kidderminster,Lewis James Whitham,right-foot,regular,save,0.04547,0.1894
+14168788,17/01/2026,Worksop,Kidderminster,Lewis James Whitham,right-foot,regular,goal,0.2173,0.4695
+14168487,09/08/2025,Worksop,Macclesfield,Lewis James Whitham,head,throw-in-set-piece,save,0.05991,0.04775
+14168937,14/03/2026,Worksop,Marine,Lewis James Whitham,right-foot,corner,goal,0.3837,0.0
+14168937,14/03/2026,Worksop,Marine,Lewis James Whitham,right-foot,regular,save,0.03725,0.03745
+14168937,14/03/2026,Worksop,Marine,Lewis James Whitham,right-foot,regular,block,0.04516,0.0
+14168671,08/11/2025,Worksop,Oxford,Lewis James Whitham,left-foot,regular,miss,0.03934,0.0
+14168671,08/11/2025,Worksop,Oxford,Lewis James Whitham,right-foot,regular,block,0.01064,0.0
+14168526,25/08/2025,Worksop,Peterborough,Lewis James Whitham,left-foot,regular,miss,0.2057,0.0
+14168526,25/08/2025,Worksop,Peterborough,Lewis James Whitham,right-foot,regular,block,0.07121,0.0
+14168526,25/08/2025,Worksop,Peterborough,Lewis James Whitham,left-foot,regular,block,0.0624,0.0
+14168829,31/01/2026,Worksop,Scarborough,Lewis James Whitham,right-foot,free-kick,miss,0.0009032,0.0
+14168732,20/12/2025,Worksop,Southport,Lewis James Whitham,left-foot,regular,block,0.1334,0.0
+14168885,24/02/2026,Worksop,South Shields,Lewis James Whitham,left-foot,regular,save,0.06889,0.08152
+14168518,23/08/2025,Worksop,Southport,Lewis James Whitham,left-foot,throw-in-set-piece,miss,0.0173,0.0
+14168518,23/08/2025,Worksop,Southport,Lewis James Whitham,left-foot,regular,goal,0.3743,0.414
+14168518,23/08/2025,Worksop,Southport,Lewis James Whitham,right-foot,regular,block,0.02404,0.0
+14168539,30/08/2025,Worksop,Chester,Lewis James Whitham,right-foot,corner,miss,0.2842,0.0
+14168539,30/08/2025,Worksop,Chester,Lewis James Whitham,right-foot,regular,block,0.03885,0.0
+14168625,21/10/2025,Worksop,King's Lynn,Lewis James Whitham,right-foot,regular,block,0.05683,0.0
+14168625,21/10/2025,Worksop,King's Lynn,Lewis James Whitham,right-foot,regular,save,0.1869,0.179
+14168625,21/10/2025,Worksop,King's Lynn,Lewis James Whitham,head,corner,miss,0.3227,0.0
+14168651,01/11/2025,Worksop,Scarborough,Lewis James Whitham,left-foot,regular,block,0.08974,0.0
+14168651,01/11/2025,Worksop,Scarborough,Lewis James Whitham,right-foot,regular,block,0.1416,0.0
+14168651,01/11/2025,Worksop,Scarborough,Lewis James Whitham,right-foot,regular,block,0.009159,0.0
+14168697,25/11/2025,Worksop,South Shields,Lewis James Whitham,right-foot,regular,miss,0.1676,0.0
+14168720,06/11/2025,Worksop,Chorley,Lewis James Whitham,right-foot,throw-in-set-piece,block,0.002053,0.0
+14168720,06/11/2025,Worksop,Chorley,Lewis James Whitham,left-foot,corner,block,0.002361,0.0
+14168720,06/11/2025,Worksop,Chorley,Lewis James Whitham,right-foot,regular,save,0.02827,0.0102
+14168744,26/12/2025,Worksop,Alfreton,Lewis James Whitham,left-foot,regular,save,0.1954,0.3572
+14168744,26/12/2025,Worksop,Alfreton,Lewis James Whitham,right-foot,regular,save,0.03981,0.05063
+14168805,24/01/2026,Worksop,Macclesfield,Lewis James Whitham,right-foot,corner,block,0.009095,0.0
+14168805,24/01/2026,Worksop,Macclesfield,Lewis James Whitham,right-foot,regular,save,0.04011,0.03695
+14168805,24/01/2026,Worksop,Macclesfield,Lewis James Whitham,right-foot,regular,save,0.1748,0.6834
+14168805,24/01/2026,Worksop,Macclesfield,Lewis James Whitham,right-foot,regular,goal,0.07117,0.5808
+14168817,27/01/2026,Worksop,Darlington,Lewis James Whitham,right-foot,throw-in-set-piece,miss,0.006509,0.0
+14168817,27/01/2026,Worksop,Darlington,Lewis James Whitham,right-foot,regular,save,0.07045,0.08722
+14168842,07/02/2026,Worksop,Telford,Lewis James Whitham,right-foot,regular,miss,0.2406,0.0
+14168842,07/02/2026,Worksop,Telford,Lewis James Whitham,left-foot,regular,block,0.2196,0.0
+14168842,07/02/2026,Worksop,Telford,Lewis James Whitham,right-foot,regular,miss,0.04051,0.0
+14168867,14/02/2026,Worksop,Oxford,Lewis James Whitham,right-foot,set-piece,block,0.01761,0.0
+14168867,14/02/2026,Worksop,Oxford,Lewis James Whitham,right-foot,regular,block,0.0397,0.0
+14168867,14/02/2026,Worksop,Oxford,Lewis James Whitham,right-foot,throw-in-set-piece,save,0.04922,0.01397
+14168867,14/02/2026,Worksop,Oxford,Lewis James Whitham,right-foot,regular,save,0.04609,0.5043
+14168913,07/03/2026,Worksop,Hereford,Lewis James Whitham,right-foot,regular,block,0.02887,0.0
+14168913,07/03/2026,Worksop,Hereford,Lewis James Whitham,right-foot,regular,goal,0.07188,0.08457
+14168948,21/03/2026,Worksop,Fylde,Lewis James Whitham,right-foot,regular,goal,0.03452,0.3879

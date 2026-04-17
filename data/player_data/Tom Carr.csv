@@ -1,0 +1,57 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168785,17/01/2026,Chorley,Chester,Tom Carr,left-foot,regular,save,0.09554,0.07748
+14168493,16/08/2025,Chorley,Chester,Tom Carr,left-foot,regular,block,0.06909,0.0
+14168493,16/08/2025,Chorley,Chester,Tom Carr,head,regular,miss,0.1481,0.0
+14168493,16/08/2025,Chorley,Chester,Tom Carr,right-foot,regular,miss,0.2321,0.0
+14168493,16/08/2025,Chorley,Chester,Tom Carr,left-foot,regular,miss,0.1657,0.0
+14168493,16/08/2025,Chorley,Chester,Tom Carr,right-foot,throw-in-set-piece,miss,0.3813,0.0
+14168498,19/08/2025,Chorley,Scarborough,Tom Carr,left-foot,throw-in-set-piece,goal,0.6468,0.8419
+14168498,19/08/2025,Chorley,Scarborough,Tom Carr,head,regular,block,0.2318,0.0
+14168522,25/08/2025,Chorley,King's Lynn,Tom Carr,left-foot,regular,save,0.564,0.8053
+14168522,25/08/2025,Chorley,King's Lynn,Tom Carr,right-foot,regular,save,0.04285,0.05298
+14168522,25/08/2025,Chorley,King's Lynn,Tom Carr,right-foot,regular,miss,0.03421,0.0
+14168558,06/09/2025,Chorley,Telford,Tom Carr,right-foot,regular,goal,0.5358,0.7327
+14168570,20/09/2025,Chorley,Macclesfield,Tom Carr,right-foot,regular,save,0.04782,0.1149
+14168570,20/09/2025,Chorley,Macclesfield,Tom Carr,right-foot,throw-in-set-piece,save,0.361,0.5421
+14168653,04/11/2025,Chorley,Alfreton,Tom Carr,right-foot,throw-in-set-piece,block,0.06172,2.51e-05
+14168653,04/11/2025,Chorley,Alfreton,Tom Carr,right-foot,regular,miss,0.02374,0.0
+14168678,22/11/2025,Chorley,Bedford,Tom Carr,head,regular,miss,0.1769,0.0
+14168690,25/11/2025,Chorley,Spennymoor,Tom Carr,right-foot,regular,save,0.08302,0.1397
+14168690,25/11/2025,Chorley,Spennymoor,Tom Carr,left-foot,regular,block,0.004261,0.0
+14168690,25/11/2025,Chorley,Spennymoor,Tom Carr,head,regular,save,0.08916,0.1122
+14168722,20/12/2025,Chorley,Hereford,Tom Carr,right-foot,regular,miss,0.02987,0.0
+14168722,20/12/2025,Chorley,Hereford,Tom Carr,head,regular,post,0.5337,0.0
+14168722,20/12/2025,Chorley,Hereford,Tom Carr,right-foot,regular,save,0.197,0.14
+14168722,20/12/2025,Chorley,Hereford,Tom Carr,right-foot,set-piece,save,0.133,0.1227
+14168749,30/12/2025,Chorley,Marine,Tom Carr,head,regular,miss,0.09762,0.0
+14168749,30/12/2025,Chorley,Marine,Tom Carr,right-foot,regular,miss,0.1294,0.0
+14168792,24/01/2026,Chorley,Darlington,Tom Carr,right-foot,regular,save,0.1629,0.1467
+15326174,03/02/2026,Chorley,Leamington,Tom Carr,right-foot,throw-in-set-piece,save,0.111,0.3475
+14168841,10/02/2026,Chorley,Southport,Tom Carr,right-foot,regular,save,0.03718,0.02232
+14168841,10/02/2026,Chorley,Southport,Tom Carr,left-foot,regular,block,0.09055,0.0
+14168841,10/02/2026,Chorley,Southport,Tom Carr,right-foot,regular,miss,0.1026,0.0
+14168841,10/02/2026,Chorley,Southport,Tom Carr,head,regular,miss,0.2141,0.0
+14168841,10/02/2026,Chorley,Southport,Tom Carr,head,throw-in-set-piece,goal,0.3064,0.7424
+14168855,14/02/2026,Chorley,Radcliffe,Tom Carr,head,set-piece,miss,0.01996,0.0
+14168543,02/09/2025,Chorley,Curzon Ashton,Tom Carr,right-foot,regular,block,0.01991,0.0
+14168543,02/09/2025,Chorley,Curzon Ashton,Tom Carr,right-foot,regular,post,0.1115,0.0
+14168543,02/09/2025,Chorley,Curzon Ashton,Tom Carr,right-foot,regular,miss,0.03932,0.0
+14168494,09/08/2025,Chorley,Darlington,Tom Carr,right-foot,regular,goal,0.4245,0.8679
+14168734,26/12/2025,Chorley,Fylde,Tom Carr,left-foot,set-piece,save,0.2953,0.1745
+14168734,26/12/2025,Chorley,Fylde,Tom Carr,right-foot,regular,block,0.0878,0.0
+14168506,23/08/2025,Chorley,Hereford,Tom Carr,right-foot,regular,save,0.2875,0.2923
+14168506,23/08/2025,Chorley,Hereford,Tom Carr,left-foot,regular,save,0.1843,0.1369
+14168540,30/08/2025,Chorley,Leamington,Tom Carr,left-foot,regular,block,0.2395,0.0
+14168540,30/08/2025,Chorley,Leamington,Tom Carr,right-foot,regular,block,0.1565,0.0
+14168540,30/08/2025,Chorley,Leamington,Tom Carr,right-foot,regular,miss,0.02059,0.0
+14168836,07/02/2026,Chorley,Merthyr,Tom Carr,right-foot,regular,goal,0.09415,0.5425
+14168836,07/02/2026,Chorley,Merthyr,Tom Carr,left-foot,regular,save,0.303,0.3597
+14168645,01/11/2025,Chorley,Peterborough,Tom Carr,right-foot,regular,miss,0.02061,0.0
+14168645,01/11/2025,Chorley,Peterborough,Tom Carr,right-foot,regular,goal,0.1571,0.4653
+14168645,01/11/2025,Chorley,Peterborough,Tom Carr,right-foot,regular,save,0.09392,0.04592
+14168674,08/11/2025,Chorley,Radcliffe,Tom Carr,right-foot,throw-in-set-piece,save,0.2908,0.5043
+14168674,08/11/2025,Chorley,Radcliffe,Tom Carr,right-foot,regular,save,0.04866,0.04777
+14168621,21/10/2025,Chorley,Southport,Tom Carr,left-foot,regular,miss,0.02782,0.0
+14168890,24/02/2026,Chorley,Spennymoor,Tom Carr,right-foot,regular,block,0.08096,0.0
+14168720,06/11/2025,Chorley,Worksop,Tom Carr,head,regular,save,0.2324,0.206
+14168720,06/11/2025,Chorley,Worksop,Tom Carr,right-foot,regular,save,0.08216,0.03359

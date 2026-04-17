@@ -6,7 +6,7 @@ from pathlib import Path
 from pathlib import Path
 
 BASE_DIR = Path(__file__).parent.parent  # goes up from pages/ to project root
-DATA_DIR = BASE_DIR / "player_data"
+DATA_DIR = BASE_DIR 
 
 st.set_page_config(layout="wide")
 
@@ -16,7 +16,7 @@ players = players_df["Player Name"].unique()
 player_select = st.selectbox(label="Select Player", options=players, index=0)
 
 if player_select:
-    selected_df = pd.read_csv(DATA_DIR / f"{player_select}.csv")
+    selected_df = pd.read_csv(DATA_DIR / "player_data" / f"{player_select}.csv")
 
     summary_data = {
         "Player Name": selected_df["Player Name"].iloc[0],

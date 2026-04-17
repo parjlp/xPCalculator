@@ -1,0 +1,37 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168554,06/09/2025,King's Lynn,Alfreton,Michael Gyasi,right-foot,throw-in-set-piece,block,0.01088,0.0
+14168479,16/08/2025,King's Lynn,Hereford,Michael Gyasi,right-foot,corner,miss,0.2922,0.0
+14168479,16/08/2025,King's Lynn,Hereford,Michael Gyasi,right-foot,regular,save,0.3094,0.2471
+14168667,08/11/2025,Kidderminster,Darlington,Michael Gyasi,left-foot,regular,block,0.1235,0.0
+14168667,08/11/2025,Kidderminster,Darlington,Michael Gyasi,right-foot,regular,miss,0.03079,0.0
+14168473,09/08/2025,King's Lynn,Telford,Michael Gyasi,right-foot,regular,miss,0.1689,0.0
+14168473,09/08/2025,King's Lynn,Telford,Michael Gyasi,right-foot,regular,miss,0.08302,0.0
+14168473,09/08/2025,King's Lynn,Telford,Michael Gyasi,right-foot,throw-in-set-piece,goal,0.02627,0.2747
+14168513,23/08/2025,King's Lynn,Darlington,Michael Gyasi,right-foot,regular,miss,0.01732,0.0
+14168513,23/08/2025,King's Lynn,Darlington,Michael Gyasi,right-foot,regular,goal,0.2704,0.7967
+14168513,23/08/2025,King's Lynn,Darlington,Michael Gyasi,right-foot,regular,save,0.1325,0.2513
+14168513,23/08/2025,King's Lynn,Darlington,Michael Gyasi,right-foot,regular,miss,0.0488,0.0
+14168533,30/08/2025,King's Lynn,Merthyr,Michael Gyasi,left-foot,regular,block,0.1337,0.0
+14168533,30/08/2025,King's Lynn,Merthyr,Michael Gyasi,right-foot,regular,miss,0.1634,0.0
+14168533,30/08/2025,King's Lynn,Merthyr,Michael Gyasi,right-foot,regular,save,0.4663,0.6852
+14168533,30/08/2025,King's Lynn,Merthyr,Michael Gyasi,right-foot,regular,goal,0.2106,0.5448
+14168533,30/08/2025,King's Lynn,Merthyr,Michael Gyasi,left-foot,regular,goal,0.1997,0.5825
+14168533,30/08/2025,King's Lynn,Merthyr,Michael Gyasi,left-foot,regular,miss,0.05271,0.0
+14168533,30/08/2025,King's Lynn,Merthyr,Michael Gyasi,left-foot,throw-in-set-piece,miss,0.04846,0.0
+14168544,02/09/2025,King's Lynn,Kidderminster,Michael Gyasi,left-foot,regular,miss,0.0288,0.0
+14168604,18/10/2025,King's Lynn,Fylde,Michael Gyasi,right-foot,regular,miss,0.078,0.0
+14168604,18/10/2025,King's Lynn,Fylde,Michael Gyasi,left-foot,regular,block,0.0308,0.0
+14168577,20/09/2025,King's Lynn,Marine,Michael Gyasi,right-foot,regular,block,0.002703,0.0
+14168577,20/09/2025,King's Lynn,Marine,Michael Gyasi,left-foot,corner,save,0.5271,0.7782
+14168692,25/11/2025,Kidderminster,Marine,Michael Gyasi,right-foot,regular,miss,0.1404,0.0
+14168692,25/11/2025,Kidderminster,Marine,Michael Gyasi,left-foot,regular,miss,0.0581,0.0
+14168684,22/11/2025,Kidderminster,Southport,Michael Gyasi,right-foot,regular,save,0.2442,0.2285
+14168684,22/11/2025,Kidderminster,Southport,Michael Gyasi,right-foot,regular,miss,0.03771,0.0
+14168503,19/08/2025,King's Lynn,Spennymoor,Michael Gyasi,right-foot,regular,goal,0.3316,0.1483
+14168503,19/08/2025,King's Lynn,Spennymoor,Michael Gyasi,right-foot,regular,save,0.134,0.09348
+14168503,19/08/2025,King's Lynn,Spennymoor,Michael Gyasi,right-foot,corner,goal,0.06734,0.3871
+14168503,19/08/2025,King's Lynn,Spennymoor,Michael Gyasi,right-foot,regular,goal,0.2631,0.4806
+14168503,19/08/2025,King's Lynn,Spennymoor,Michael Gyasi,left-foot,regular,miss,0.0418,0.0
+14168625,21/10/2025,King's Lynn,Worksop,Michael Gyasi,right-foot,regular,save,0.147,0.1234
+14168625,21/10/2025,King's Lynn,Worksop,Michael Gyasi,right-foot,regular,save,0.01688,0.06137
+14168625,21/10/2025,King's Lynn,Worksop,Michael Gyasi,right-foot,regular,block,0.05314,0.0

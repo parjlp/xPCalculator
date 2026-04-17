@@ -1,0 +1,14 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168736,26/12/2025,Radcliffe,Curzon Ashton,Rick Smith,head,corner,block,0.06136,0.0
+14168736,26/12/2025,Radcliffe,Curzon Ashton,Rick Smith,head,corner,goal,0.1398,0.0
+14168597,11/10/2025,Radcliffe,Kidderminster,Rick Smith,head,corner,block,0.06503,0.0
+14168634,25/10/2025,Radcliffe,King's Lynn,Rick Smith,right-foot,regular,save,0.03449,0.01783
+14168477,16/08/2025,Radcliffe,Spennymoor,Rick Smith,head,corner,miss,0.07377,0.0
+14168523,25/08/2025,Radcliffe,Hereford,Rick Smith,right-foot,corner,block,0.002718,0.0
+14168523,25/08/2025,Radcliffe,Hereford,Rick Smith,right-foot,corner,goal,0.435,0.7323
+14972548,02/12/2025,Radcliffe,Chester,Rick Smith,other,own-goal,goal,,0.0
+15326170,03/02/2026,Radcliffe,Oxford,Rick Smith,head,corner,miss,0.1056,0.0
+14168888,24/02/2026,Radcliffe,Southport,Rick Smith,left-foot,regular,block,0.02368,0.0
+14168888,24/02/2026,Radcliffe,Southport,Rick Smith,right-foot,corner,save,0.281,0.4576
+14969967,16/12/2025,Radcliffe,Scarborough,Rick Smith,head,corner,goal,0.3396,0.7375
+14168698,25/11/2025,Radcliffe,Southport,Rick Smith,head,set-piece,miss,0.05613,0.0

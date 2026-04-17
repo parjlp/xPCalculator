@@ -1,0 +1,78 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168617,21/10/2025,Chester,Alfreton,Patrick Jones,right-foot,regular,save,0.07273,0.0356
+14168617,21/10/2025,Chester,Alfreton,Patrick Jones,left-foot,throw-in-set-piece,block,0.00353,0.0
+14168831,07/02/2026,Chester,Bedford,Patrick Jones,left-foot,throw-in-set-piece,block,0.001844,0.0
+14168831,07/02/2026,Chester,Bedford,Patrick Jones,left-foot,regular,miss,0.0659,0.0
+14168831,07/02/2026,Chester,Bedford,Patrick Jones,right-foot,throw-in-set-piece,block,0.00382,0.0
+14168831,07/02/2026,Chester,Bedford,Patrick Jones,right-foot,regular,miss,0.01672,0.0
+14168662,08/11/2025,Chester,Buxton,Patrick Jones,right-foot,regular,save,0.09102,0.04867
+14168662,08/11/2025,Chester,Buxton,Patrick Jones,left-foot,regular,block,0.02029,0.0
+14168484,19/08/2025,Chester,Curzon Ashton,Patrick Jones,right-foot,regular,miss,0.02151,0.0
+14168556,06/09/2025,Chester,Scarborough,Patrick Jones,right-foot,regular,block,0.03246,0.0
+14168556,06/09/2025,Chester,Scarborough,Patrick Jones,left-foot,regular,block,0.1464,0.0
+14168556,06/09/2025,Chester,Scarborough,Patrick Jones,right-foot,regular,save,0.08633,0.05564
+14168556,06/09/2025,Chester,Scarborough,Patrick Jones,left-foot,regular,block,0.1697,0.0
+14168578,04/10/2025,Chester,Merthyr,Patrick Jones,right-foot,regular,block,0.1116,0.0
+14168578,04/10/2025,Chester,Merthyr,Patrick Jones,right-foot,penalty,save,0.76,0.81
+14168578,04/10/2025,Chester,Merthyr,Patrick Jones,right-foot,throw-in-set-piece,miss,0.002677,0.0
+14168603,18/10/2025,Chester,Kidderminster,Patrick Jones,left-foot,regular,miss,0.02976,0.0
+14168626,25/10/2025,Chester,Bedford,Patrick Jones,right-foot,regular,block,0.127,0.0
+14168652,04/11/2025,Chester,Marine,Patrick Jones,left-foot,throw-in-set-piece,miss,0.06305,0.0
+14168652,04/11/2025,Chester,Marine,Patrick Jones,right-foot,regular,save,0.09076,0.03652
+14168652,04/11/2025,Chester,Marine,Patrick Jones,right-foot,regular,save,0.05318,0.02866
+14168652,04/11/2025,Chester,Marine,Patrick Jones,right-foot,regular,miss,0.01603,0.0
+14168677,22/11/2025,Chester,Leamington,Patrick Jones,right-foot,regular,save,0.07465,0.04939
+14168677,22/11/2025,Chester,Leamington,Patrick Jones,left-foot,regular,goal,0.06594,0.2386
+14168687,25/11/2025,Chester,Hereford,Patrick Jones,right-foot,regular,miss,0.3932,0.0
+14168687,25/11/2025,Chester,Hereford,Patrick Jones,right-foot,regular,block,0.009264,0.0
+14168687,25/11/2025,Chester,Hereford,Patrick Jones,right-foot,regular,block,0.1151,0.0
+14168687,25/11/2025,Chester,Hereford,Patrick Jones,left-foot,regular,block,0.03835,0.0
+14168687,25/11/2025,Chester,Hereford,Patrick Jones,right-foot,regular,save,0.2104,0.2394
+14168726,20/12/2025,Chester,South Shields,Patrick Jones,left-foot,regular,miss,0.01345,0.0
+14168726,20/12/2025,Chester,South Shields,Patrick Jones,right-foot,regular,save,0.08491,0.04336
+14168726,20/12/2025,Chester,South Shields,Patrick Jones,left-foot,regular,block,0.08493,0.0
+14168726,20/12/2025,Chester,South Shields,Patrick Jones,left-foot,regular,save,0.09537,0.4344
+14168726,20/12/2025,Chester,South Shields,Patrick Jones,left-foot,set-piece,block,0.1699,0.0
+14168759,03/01/2026,Chester,Worksop,Patrick Jones,right-foot,regular,save,0.06704,0.1146
+14168759,03/01/2026,Chester,Worksop,Patrick Jones,right-foot,throw-in-set-piece,block,0.004112,0.0
+14168759,03/01/2026,Chester,Worksop,Patrick Jones,right-foot,corner,save,0.03717,0.06506
+14168759,03/01/2026,Chester,Worksop,Patrick Jones,right-foot,regular,save,0.08742,0.03993
+14168785,17/01/2026,Chester,Chorley,Patrick Jones,right-foot,regular,save,0.2111,0.1194
+14168785,17/01/2026,Chester,Chorley,Patrick Jones,left-foot,regular,post,0.08406,5.615e-05
+14168785,17/01/2026,Chester,Chorley,Patrick Jones,right-foot,corner,miss,0.08436,0.0
+14168785,17/01/2026,Chester,Chorley,Patrick Jones,right-foot,regular,block,0.01223,0.0
+14168785,17/01/2026,Chester,Chorley,Patrick Jones,right-foot,throw-in-set-piece,block,0.001837,0.0
+14168822,31/01/2026,Chester,Radcliffe,Patrick Jones,right-foot,regular,save,0.03597,0.1145
+14168822,31/01/2026,Chester,Radcliffe,Patrick Jones,right-foot,corner,save,0.04065,0.08982
+14168822,31/01/2026,Chester,Radcliffe,Patrick Jones,right-foot,regular,block,0.005645,0.0
+14168822,31/01/2026,Chester,Radcliffe,Patrick Jones,right-foot,regular,block,0.01983,0.0
+14168844,10/02/2026,Chester,Alfreton,Patrick Jones,right-foot,regular,block,0.02574,0.0
+14168844,10/02/2026,Chester,Alfreton,Patrick Jones,right-foot,regular,miss,0.03399,0.0
+14168844,10/02/2026,Chester,Alfreton,Patrick Jones,right-foot,regular,block,0.1042,0.0
+14168856,14/02/2026,Chester,Buxton,Patrick Jones,right-foot,regular,save,0.07209,0.04287
+14168893,28/02/2026,Chester,Spennymoor,Patrick Jones,right-foot,throw-in-set-piece,save,0.006566,0.01033
+14168569,20/09/2025,Chester,Darlington,Patrick Jones,right-foot,corner,goal,0.1374,0.1481
+14168542,02/09/2025,Chester,Fylde,Patrick Jones,left-foot,regular,save,0.1373,0.1144
+14168542,02/09/2025,Chester,Fylde,Patrick Jones,right-foot,regular,goal,0.1067,0.5128
+14168542,02/09/2025,Chester,Fylde,Patrick Jones,right-foot,regular,save,0.1558,0.09241
+14168542,02/09/2025,Chester,Fylde,Patrick Jones,left-foot,regular,goal,0.04868,0.03064
+14168542,02/09/2025,Chester,Fylde,Patrick Jones,right-foot,set-piece,block,0.005698,0.0
+14168882,24/02/2026,Chester,Hereford,Patrick Jones,right-foot,regular,miss,0.007121,0.0
+14168882,24/02/2026,Chester,Hereford,Patrick Jones,right-foot,throw-in-set-piece,block,0.004806,0.0
+14168882,24/02/2026,Chester,Hereford,Patrick Jones,left-foot,regular,save,0.09834,0.3615
+14168882,24/02/2026,Chester,Hereford,Patrick Jones,right-foot,regular,block,0.1312,0.0
+14168714,06/12/2025,Chester,King's Lynn,Patrick Jones,right-foot,regular,block,0.1116,0.0
+14168714,06/12/2025,Chester,King's Lynn,Patrick Jones,right-foot,throw-in-set-piece,save,0.02611,0.034
+14168714,06/12/2025,Chester,King's Lynn,Patrick Jones,right-foot,regular,save,0.05222,0.04923
+14168873,21/02/2026,Chester,Leamington,Patrick Jones,left-foot,regular,save,0.08514,0.1371
+14168873,21/02/2026,Chester,Leamington,Patrick Jones,right-foot,regular,miss,0.0603,0.0
+14168873,21/02/2026,Chester,Leamington,Patrick Jones,left-foot,regular,block,0.02556,0.0
+14168873,21/02/2026,Chester,Leamington,Patrick Jones,left-foot,throw-in-set-piece,goal,0.2812,0.6832
+14972548,02/12/2025,Chester,Radcliffe,Patrick Jones,right-foot,regular,block,0.08671,0.0
+14972548,02/12/2025,Chester,Radcliffe,Patrick Jones,left-foot,regular,miss,0.1318,0.0
+14972548,02/12/2025,Chester,Radcliffe,Patrick Jones,right-foot,regular,goal,0.0189,0.005726
+14168779,10/01/2026,Chester,Scarborough,Patrick Jones,left-foot,throw-in-set-piece,miss,0.004082,0.0
+14168779,10/01/2026,Chester,Scarborough,Patrick Jones,head,regular,save,0.06631,0.3401
+15212553,20/01/2026,Chester,Spennymoor,Patrick Jones,right-foot,corner,goal,0.04778,0.2111
+15212553,20/01/2026,Chester,Spennymoor,Patrick Jones,left-foot,regular,miss,0.06002,0.0
+14168539,30/08/2025,Chester,Worksop,Patrick Jones,right-foot,regular,save,0.05984,0.1902

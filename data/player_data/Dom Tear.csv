@@ -1,0 +1,44 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168880,24/02/2026,Scarborough,Alfreton,Dom Tear,head,throw-in-set-piece,miss,0.04266,0.0
+14168498,19/08/2025,Scarborough,Chorley,Dom Tear,right-foot,corner,block,0.7922,0.0
+14168498,19/08/2025,Scarborough,Chorley,Dom Tear,head,corner,miss,0.2883,0.0
+14168498,19/08/2025,Scarborough,Chorley,Dom Tear,right-foot,regular,save,0.07022,0.1631
+14168498,19/08/2025,Scarborough,Chorley,Dom Tear,left-foot,regular,goal,0.317,0.5178
+14168666,08/11/2025,Scarborough,Curzon Ashton,Dom Tear,head,corner,save,0.1717,0.2081
+14168870,21/02/2026,Scarborough,Hereford,Dom Tear,right-foot,set-piece,miss,0.1121,0.0
+14168870,21/02/2026,Scarborough,Hereford,Dom Tear,left-foot,regular,miss,0.01819,0.0
+14168870,21/02/2026,Scarborough,Hereford,Dom Tear,right-foot,regular,block,0.1987,0.0
+14168870,21/02/2026,Scarborough,Hereford,Dom Tear,right-foot,regular,miss,0.03797,0.0
+14168581,04/10/2025,Scarborough,King's Lynn,Dom Tear,right-foot,corner,goal,0.4509,0.7898
+14168708,29/11/2025,Scarborough,Macclesfield,Dom Tear,right-foot,regular,goal,0.1708,0.2726
+14168834,07/02/2026,Scarborough,Marine,Dom Tear,left-foot,throw-in-set-piece,miss,0.01696,0.0
+14168834,07/02/2026,Scarborough,Marine,Dom Tear,right-foot,regular,block,0.1478,0.0
+14168834,07/02/2026,Scarborough,Marine,Dom Tear,left-foot,throw-in-set-piece,save,0.4454,0.3537
+14168834,07/02/2026,Scarborough,Marine,Dom Tear,left-foot,regular,save,0.08449,0.05031
+14168525,25/08/2025,Scarborough,Merthyr,Dom Tear,left-foot,regular,block,0.0399,0.0
+14168525,25/08/2025,Scarborough,Merthyr,Dom Tear,left-foot,corner,miss,0.07479,0.0
+14168909,07/03/2026,Scarborough,Oxford,Dom Tear,right-foot,regular,block,0.09815,0.0
+14168909,07/03/2026,Scarborough,Oxford,Dom Tear,head,corner,miss,0.2905,0.0
+14168730,20/12/2025,Scarborough,Peterborough,Dom Tear,right-foot,regular,save,0.1702,0.2191
+14168730,20/12/2025,Scarborough,Peterborough,Dom Tear,right-foot,throw-in-set-piece,goal,0.1249,0.3382
+14168730,20/12/2025,Scarborough,Peterborough,Dom Tear,left-foot,regular,miss,0.5407,0.0
+14168607,16/08/2025,Scarborough,Fylde,Dom Tear,left-foot,regular,save,0.6393,0.7032
+14168607,16/08/2025,Scarborough,Fylde,Dom Tear,right-foot,regular,miss,0.06979,0.0
+14168515,23/08/2025,Scarborough,Peterborough,Dom Tear,left-foot,regular,save,0.1499,0.1131
+14168515,23/08/2025,Scarborough,Peterborough,Dom Tear,left-foot,regular,goal,0.8392,0.9177
+14168552,02/09/2025,Scarborough,Buxton,Dom Tear,head,corner,miss,0.4413,0.0
+14168573,20/09/2025,Scarborough,Oxford,Dom Tear,head,regular,miss,0.203,0.0
+14168637,25/10/2025,Scarborough,Marine,Dom Tear,left-foot,regular,save,0.04792,0.09534
+14168718,06/12/2025,Scarborough,Bedford,Dom Tear,left-foot,throw-in-set-piece,block,0.01057,0.0
+14168718,06/12/2025,Scarborough,Bedford,Dom Tear,left-foot,regular,miss,0.05469,0.0
+14168742,26/12/2025,Scarborough,Darlington,Dom Tear,head,regular,miss,0.2676,0.0
+14168779,10/01/2026,Scarborough,Chester,Dom Tear,right-foot,regular,save,0.1391,0.3079
+14168779,10/01/2026,Scarborough,Chester,Dom Tear,head,regular,miss,0.1073,0.0
+14168779,10/01/2026,Scarborough,Chester,Dom Tear,left-foot,throw-in-set-piece,block,0.001529,0.0
+14168829,31/01/2026,Scarborough,Worksop,Dom Tear,left-foot,throw-in-set-piece,miss,0.2534,0.0
+14168854,10/02/2026,Scarborough,South Shields,Dom Tear,right-foot,regular,block,0.002725,0.0
+14168854,10/02/2026,Scarborough,South Shields,Dom Tear,right-foot,regular,block,0.03596,0.0
+14168863,14/02/2026,Scarborough,Curzon Ashton,Dom Tear,right-foot,regular,block,0.009003,0.0
+15326173,03/03/2026,Scarborough,Hereford,Dom Tear,left-foot,set-piece,block,0.09251,0.0
+15326173,03/03/2026,Scarborough,Hereford,Dom Tear,head,throw-in-set-piece,save,0.06287,0.3256
+14168922,10/03/2026,Scarborough,King's Lynn,Dom Tear,right-foot,regular,miss,0.5181,0.0

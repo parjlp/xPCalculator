@@ -1,0 +1,48 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168664,08/11/2025,Fylde,Alfreton,Charlie Jolley,left-foot,regular,save,0.2246,0.4262
+14168664,08/11/2025,Fylde,Alfreton,Charlie Jolley,left-foot,regular,miss,0.3495,0.0
+14168664,08/11/2025,Fylde,Alfreton,Charlie Jolley,left-foot,regular,block,0.02296,0.0
+14168723,20/12/2025,Marine,Bedford,Charlie Jolley,left-foot,regular,block,0.0658,0.0
+14168723,20/12/2025,Marine,Bedford,Charlie Jolley,head,regular,goal,0.2036,0.6799
+14168783,17/01/2026,Marine,Buxton,Charlie Jolley,left-foot,regular,save,0.04059,0.01563
+14168749,30/12/2025,Marine,Chorley,Charlie Jolley,left-foot,regular,miss,0.3724,0.0
+14168749,30/12/2025,Marine,Chorley,Charlie Jolley,left-foot,regular,miss,0.09026,0.0
+14168847,10/02/2026,Marine,Curzon Ashton,Charlie Jolley,left-foot,regular,block,0.01671,0.0
+14168847,10/02/2026,Marine,Curzon Ashton,Charlie Jolley,right-foot,set-piece,block,0.01713,0.0
+14168847,10/02/2026,Marine,Curzon Ashton,Charlie Jolley,left-foot,regular,miss,0.0247,0.0
+14168847,10/02/2026,Marine,Curzon Ashton,Charlie Jolley,left-foot,regular,miss,0.006299,0.0
+14168847,10/02/2026,Marine,Curzon Ashton,Charlie Jolley,left-foot,throw-in-set-piece,save,0.01101,0.01912
+14168499,19/08/2025,Fylde,Darlington,Charlie Jolley,left-foot,regular,block,0.07165,0.0
+14168499,19/08/2025,Fylde,Darlington,Charlie Jolley,left-foot,regular,miss,0.1073,0.0
+14168499,19/08/2025,Fylde,Darlington,Charlie Jolley,left-foot,throw-in-set-piece,save,0.1865,0.2982
+14168482,09/08/2025,Fylde,Oxford,Charlie Jolley,right-foot,regular,block,0.04115,0.0
+14168482,09/08/2025,Fylde,Oxford,Charlie Jolley,head,regular,miss,0.138,0.0
+14168482,09/08/2025,Fylde,Oxford,Charlie Jolley,left-foot,regular,block,0.1073,0.0
+14168482,09/08/2025,Fylde,Oxford,Charlie Jolley,head,regular,save,0.1392,0.4162
+14168532,30/08/2025,Fylde,Bedford,Charlie Jolley,left-foot,regular,save,0.03651,0.01537
+14168590,11/10/2025,Fylde,Worksop,Charlie Jolley,head,regular,miss,0.3441,0.0
+14168884,24/02/2026,Marine,Kidderminster,Charlie Jolley,left-foot,regular,miss,0.1706,0.0
+14168604,18/10/2025,Fylde,King's Lynn,Charlie Jolley,right-foot,corner,miss,0.07395,0.0
+14168642,01/11/2025,Fylde,Marine,Charlie Jolley,left-foot,regular,block,0.2965,0.0
+14168642,01/11/2025,Fylde,Marine,Charlie Jolley,left-foot,regular,save,0.2487,0.6384
+14168680,22/11/2025,Marine,Oxford,Charlie Jolley,left-foot,corner,save,0.1843,0.0805
+14168680,22/11/2025,Marine,Oxford,Charlie Jolley,left-foot,regular,save,0.2699,0.3097
+14168717,06/12/2025,Marine,Spennymoor,Charlie Jolley,left-foot,regular,save,0.03738,0.01444
+15234057,20/01/2026,Marine,Radcliffe,Charlie Jolley,right-foot,regular,save,0.04193,0.02006
+15234057,20/01/2026,Marine,Radcliffe,Charlie Jolley,right-foot,regular,goal,0.897,0.9527
+15234057,20/01/2026,Marine,Radcliffe,Charlie Jolley,left-foot,regular,save,0.1287,0.4781
+15234057,20/01/2026,Marine,Radcliffe,Charlie Jolley,left-foot,regular,block,0.1402,0.0
+14168834,07/02/2026,Marine,Scarborough,Charlie Jolley,left-foot,regular,goal,0.04421,0.1177
+14168859,14/02/2026,Marine,Leamington,Charlie Jolley,left-foot,regular,goal,0.2933,0.4129
+14168859,14/02/2026,Marine,Leamington,Charlie Jolley,left-foot,regular,miss,0.05696,0.0
+14168921,10/03/2026,Marine,Macclesfield,Charlie Jolley,right-foot,regular,goal,0.5684,0.8093
+14168937,14/03/2026,Marine,Worksop,Charlie Jolley,left-foot,regular,goal,0.2768,0.4774
+14168937,14/03/2026,Marine,Worksop,Charlie Jolley,left-foot,regular,save,0.03123,0.01191
+14168937,14/03/2026,Marine,Worksop,Charlie Jolley,left-foot,throw-in-set-piece,save,0.01382,0.08327
+14168875,21/02/2026,Marine,Oxford,Charlie Jolley,left-foot,regular,goal,0.342,0.4778
+14168607,16/08/2025,Fylde,Scarborough,Charlie Jolley,left-foot,throw-in-set-piece,block,0.003683,0.0
+14168607,16/08/2025,Fylde,Scarborough,Charlie Jolley,head,corner,miss,0.3415,0.0
+14168607,16/08/2025,Fylde,Scarborough,Charlie Jolley,left-foot,regular,save,0.3778,0.4995
+14168529,25/08/2025,Fylde,Southport,Charlie Jolley,left-foot,throw-in-set-piece,miss,0.1573,0.0
+14168529,25/08/2025,Fylde,Southport,Charlie Jolley,left-foot,regular,block,0.1209,0.0
+14168576,04/10/2025,Fylde,Telford,Charlie Jolley,left-foot,regular,goal,0.2677,0.7107

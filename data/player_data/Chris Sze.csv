@@ -1,0 +1,41 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+15174859,16/12/2025,Southport,Alfreton,Chris Sze,right-foot,regular,miss,0.1345,0.0
+14168784,17/01/2026,Southport,Bedford,Chris Sze,right-foot,regular,save,0.1068,0.0452
+14168784,17/01/2026,Southport,Bedford,Chris Sze,right-foot,corner,save,0.1007,0.4453
+14168940,21/03/2026,Southport,Chester,Chris Sze,head,corner,goal,0.1464,0.5172
+15399965,03/02/2026,Southport,King's Lynn,Chris Sze,left-foot,regular,save,0.1252,0.08214
+15399965,03/02/2026,Southport,King's Lynn,Chris Sze,right-foot,regular,miss,0.01204,0.0
+14168910,07/03/2026,Southport,Peterborough,Chris Sze,left-foot,regular,save,0.1493,0.3538
+14168756,30/12/2025,Southport,Curzon Ashton,Chris Sze,right-foot,regular,save,0.0122,0.003481
+14168767,03/01/2026,Southport,Scarborough,Chris Sze,right-foot,corner,block,0.09808,0.0
+14168767,03/01/2026,Southport,Scarborough,Chris Sze,right-foot,regular,save,0.3762,0.8249
+14168767,03/01/2026,Southport,Scarborough,Chris Sze,right-foot,regular,save,0.405,0.4688
+14168767,03/01/2026,Southport,Scarborough,Chris Sze,right-foot,regular,save,0.02194,0.01538
+14168767,03/01/2026,Southport,Scarborough,Chris Sze,right-foot,regular,save,0.03002,0.01328
+14168840,07/02/2026,Southport,Darlington,Chris Sze,right-foot,corner,block,0.01608,0.0
+14168840,07/02/2026,Southport,Darlington,Chris Sze,right-foot,regular,block,0.06876,0.0
+14168840,07/02/2026,Southport,Darlington,Chris Sze,left-foot,regular,save,0.1563,0.3679
+14168840,07/02/2026,Southport,Darlington,Chris Sze,right-foot,throw-in-set-piece,block,0.008948,0.0
+14168864,14/02/2026,Southport,Hereford,Chris Sze,right-foot,regular,goal,0.2187,0.4437
+14168864,14/02/2026,Southport,Hereford,Chris Sze,right-foot,regular,goal,0.7409,0.7326
+14168864,14/02/2026,Southport,Hereford,Chris Sze,right-foot,regular,save,0.2531,0.4816
+15447028,17/02/2026,Southport,Buxton,Chris Sze,right-foot,regular,miss,0.07608,0.0
+15447028,17/02/2026,Southport,Buxton,Chris Sze,right-foot,regular,save,0.08791,0.03368
+15447028,17/02/2026,Southport,Buxton,Chris Sze,right-foot,regular,block,0.2973,0.0
+15447028,17/02/2026,Southport,Buxton,Chris Sze,right-foot,corner,miss,0.09712,0.0
+15447028,17/02/2026,Southport,Buxton,Chris Sze,right-foot,regular,save,0.03964,0.0456
+15447028,17/02/2026,Southport,Buxton,Chris Sze,right-foot,regular,save,0.05764,0.05898
+15447028,17/02/2026,Southport,Buxton,Chris Sze,left-foot,regular,miss,0.07728,0.0
+14168925,10/03/2026,Southport,Spennymoor,Chris Sze,right-foot,regular,block,0.005865,0.0
+14168925,10/03/2026,Southport,Spennymoor,Chris Sze,right-foot,regular,save,0.2661,0.487
+14168925,10/03/2026,Southport,Spennymoor,Chris Sze,right-foot,regular,save,0.3883,0.3721
+14168925,10/03/2026,Southport,Spennymoor,Chris Sze,right-foot,regular,miss,0.06872,0.0
+14168938,14/03/2026,Southport,Oxford,Chris Sze,right-foot,corner,save,0.2987,0.3501
+15495083,17/03/2026,Southport,Alfreton,Chris Sze,right-foot,regular,block,0.008239,0.0
+15495083,17/03/2026,Southport,Alfreton,Chris Sze,left-foot,throw-in-set-piece,block,0.007806,0.0
+15495083,17/03/2026,Southport,Alfreton,Chris Sze,right-foot,regular,miss,0.03916,0.0
+15495083,17/03/2026,Southport,Alfreton,Chris Sze,left-foot,regular,save,0.1121,0.2027
+15495083,17/03/2026,Southport,Alfreton,Chris Sze,right-foot,regular,save,0.08178,0.04835
+15495083,17/03/2026,Southport,Alfreton,Chris Sze,right-foot,regular,block,0.05215,0.0
+14168712,06/12/2025,Southport,Telford,Chris Sze,right-foot,free-kick,block,0.3122,0.0
+14168712,06/12/2025,Southport,Telford,Chris Sze,right-foot,regular,goal,0.09686,0.1055

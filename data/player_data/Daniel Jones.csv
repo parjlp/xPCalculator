@@ -1,0 +1,18 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168820,31/10/2025,Spennymoor,Buxton,Daniel Jones,left-foot,free-kick,save,0.05349,0.04637
+14168820,31/10/2025,Spennymoor,Buxton,Daniel Jones,right-foot,corner,goal,0.8646,0.9059
+14168679,22/11/2025,Spennymoor,Darlington,Daniel Jones,left-foot,regular,save,0.1035,0.04147
+14168857,10/02/2026,Spennymoor,Fylde,Daniel Jones,left-foot,throw-in-set-piece,block,0.04883,0.0
+14168857,10/02/2026,Spennymoor,Fylde,Daniel Jones,other,own-goal,goal,,0.0
+14168633,25/10/2025,Spennymoor,Kidderminster,Daniel Jones,left-foot,regular,save,0.0308,0.03047
+14168934,14/03/2026,Spennymoor,Merthyr,Daniel Jones,right-foot,corner,miss,0.006615,0.0
+14168565,06/08/2025,Spennymoor,Leamington,Daniel Jones,right-foot,corner,miss,0.104,0.0
+14168592,04/10/2025,Spennymoor,Southport,Daniel Jones,left-foot,corner,miss,0.3342,0.0
+14168672,08/11/2025,Spennymoor,Peterborough,Daniel Jones,left-foot,corner,block,0.02041,0.0
+15341361,03/02/2026,Spennymoor,Telford,Daniel Jones,left-foot,regular,save,0.0005502,0.01132
+14168912,07/03/2026,Spennymoor,Bedford,Daniel Jones,head,corner,miss,0.1992,0.0
+15447033,17/03/2026,Spennymoor,Curzon Ashton,Daniel Jones,left-foot,throw-in-set-piece,block,0.08076,0.0
+15447033,17/03/2026,Spennymoor,Curzon Ashton,Daniel Jones,head,corner,save,0.3054,0.5691
+15447033,17/03/2026,Spennymoor,Curzon Ashton,Daniel Jones,head,corner,miss,0.1809,0.0
+15447033,17/03/2026,Spennymoor,Curzon Ashton,Daniel Jones,head,corner,miss,0.1517,0.0
+14168949,21/03/2026,Spennymoor,Alfreton,Daniel Jones,head,corner,miss,0.05323,0.0

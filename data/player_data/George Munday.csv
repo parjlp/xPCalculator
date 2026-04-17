@@ -1,0 +1,42 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+15659749,19/03/2026,Hereford,Alfreton,George Munday,left-foot,regular,block,0.1003,0.0
+15659749,19/03/2026,Hereford,Alfreton,George Munday,left-foot,regular,block,0.0511,0.0
+15659749,19/03/2026,Hereford,Alfreton,George Munday,left-foot,regular,block,0.02193,0.0
+15659749,19/03/2026,Hereford,Alfreton,George Munday,left-foot,regular,goal,0.122,0.09227
+15659749,19/03/2026,Hereford,Alfreton,George Munday,left-foot,regular,miss,0.06507,0.0
+15659749,19/03/2026,Hereford,Alfreton,George Munday,right-foot,regular,miss,0.1165,0.0
+15659749,19/03/2026,Hereford,Alfreton,George Munday,left-foot,throw-in-set-piece,block,0.03344,0.0
+14168870,21/02/2026,Hereford,Scarborough,George Munday,left-foot,throw-in-set-piece,miss,0.03943,0.0
+14168870,21/02/2026,Hereford,Scarborough,George Munday,right-foot,regular,block,0.09297,0.0
+14168870,21/02/2026,Hereford,Scarborough,George Munday,head,regular,miss,0.1428,0.0
+14168882,24/02/2026,Hereford,Chester,George Munday,left-foot,regular,goal,0.1777,0.1112
+14168882,24/02/2026,Hereford,Chester,George Munday,left-foot,regular,miss,0.1719,0.0
+14168882,24/02/2026,Hereford,Chester,George Munday,left-foot,regular,miss,0.03357,0.0
+14168882,24/02/2026,Hereford,Chester,George Munday,left-foot,corner,block,0.01832,0.0
+14168920,10/03/2026,Hereford,Leamington,George Munday,right-foot,regular,goal,0.2254,0.4844
+14168920,10/03/2026,Hereford,Leamington,George Munday,right-foot,regular,miss,0.02183,0.0
+14168920,10/03/2026,Hereford,Leamington,George Munday,left-foot,regular,save,0.1614,0.04566
+14168920,10/03/2026,Hereford,Leamington,George Munday,right-foot,regular,goal,0.6816,0.7502
+14168920,10/03/2026,Hereford,Leamington,George Munday,left-foot,regular,miss,0.2209,0.0
+14168920,10/03/2026,Hereford,Leamington,George Munday,right-foot,regular,goal,0.3609,0.7873
+14168932,14/03/2026,Hereford,South Shields,George Munday,right-foot,regular,miss,0.329,0.0
+14168932,14/03/2026,Hereford,South Shields,George Munday,right-foot,throw-in-set-piece,block,0.1233,0.0
+15447029,24/03/2026,Hereford,Spennymoor,George Munday,left-foot,throw-in-set-piece,miss,0.05455,0.0
+15447029,24/03/2026,Hereford,Spennymoor,George Munday,left-foot,throw-in-set-piece,block,0.003578,0.0
+14168953,28/03/2026,Hereford,Buxton,George Munday,right-foot,regular,save,0.05794,0.2248
+14168953,28/03/2026,Hereford,Buxton,George Munday,head,corner,miss,0.09966,0.0
+14168953,28/03/2026,Hereford,Buxton,George Munday,right-foot,throw-in-set-piece,save,0.1444,0.3502
+14168953,28/03/2026,Hereford,Buxton,George Munday,right-foot,regular,save,0.0197,0.01201
+15399968,31/03/2026,Hereford,Macclesfield,George Munday,right-foot,regular,miss,0.02012,0.0
+14168943,21/03/2026,Hereford,Macclesfield,George Munday,left-foot,regular,goal,0.1489,0.6336
+14168943,21/03/2026,Hereford,Macclesfield,George Munday,right-foot,regular,save,0.04324,0.1787
+14168943,21/03/2026,Hereford,Macclesfield,George Munday,right-foot,throw-in-set-piece,block,0.002812,0.0
+14168943,21/03/2026,Hereford,Macclesfield,George Munday,left-foot,throw-in-set-piece,block,0.06148,0.0
+15326173,03/03/2026,Hereford,Scarborough,George Munday,left-foot,throw-in-set-piece,save,0.0695,0.08836
+15326173,03/03/2026,Hereford,Scarborough,George Munday,right-foot,regular,miss,0.1167,0.0
+14168864,14/02/2026,Hereford,Southport,George Munday,right-foot,penalty,goal,0.76,0.81
+14168864,14/02/2026,Hereford,Southport,George Munday,left-foot,set-piece,save,0.0623,0.1041
+14168864,14/02/2026,Hereford,Southport,George Munday,right-foot,regular,save,0.3995,0.3748
+14168864,14/02/2026,Hereford,Southport,George Munday,head,corner,miss,0.4282,0.0
+14168913,07/03/2026,Hereford,Worksop,George Munday,left-foot,regular,save,0.0433,0.03
+14168913,07/03/2026,Hereford,Worksop,George Munday,head,set-piece,miss,0.1406,0.0

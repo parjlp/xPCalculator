@@ -1,0 +1,61 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168880,24/02/2026,Scarborough,Alfreton,Harry Green,right-foot,set-piece,block,0.05362,0.0
+14168556,06/09/2025,Scarborough,Chester,Harry Green,right-foot,free-kick,block,0.0003255,0.0
+14168556,06/09/2025,Scarborough,Chester,Harry Green,right-foot,regular,miss,0.002338,0.0
+14168498,19/08/2025,Scarborough,Chorley,Harry Green,right-foot,regular,block,0.1721,0.0
+14168870,21/02/2026,Scarborough,Hereford,Harry Green,right-foot,regular,save,0.09427,0.3451
+14168870,21/02/2026,Scarborough,Hereford,Harry Green,right-foot,throw-in-set-piece,block,0.003414,0.0
+14168474,09/08/2025,Scarborough,Kidderminster,Harry Green,right-foot,corner,miss,0.06004,0.0
+14168581,04/10/2025,Scarborough,King's Lynn,Harry Green,head,regular,miss,0.06817,0.0
+14168581,04/10/2025,Scarborough,King's Lynn,Harry Green,right-foot,regular,block,0.03632,0.0
+14168581,04/10/2025,Scarborough,King's Lynn,Harry Green,right-foot,free-kick,block,0.03053,0.0
+14168581,04/10/2025,Scarborough,King's Lynn,Harry Green,right-foot,regular,miss,0.1064,0.0
+14168581,04/10/2025,Scarborough,King's Lynn,Harry Green,left-foot,regular,miss,0.05097,0.0
+14168942,21/03/2026,Scarborough,Leamington,Harry Green,right-foot,regular,save,0.05731,0.07437
+14168942,21/03/2026,Scarborough,Leamington,Harry Green,right-foot,throw-in-set-piece,miss,0.01367,0.0
+14168942,21/03/2026,Scarborough,Leamington,Harry Green,right-foot,regular,block,0.14,0.0
+14168708,29/11/2025,Scarborough,Macclesfield,Harry Green,left-foot,throw-in-set-piece,save,0.1199,0.2614
+14168708,29/11/2025,Scarborough,Macclesfield,Harry Green,right-foot,regular,miss,0.0208,0.0
+14168708,29/11/2025,Scarborough,Macclesfield,Harry Green,right-foot,free-kick,miss,0.0007509,0.0
+14168834,07/02/2026,Scarborough,Marine,Harry Green,right-foot,regular,block,0.06668,0.0
+14168834,07/02/2026,Scarborough,Marine,Harry Green,right-foot,regular,block,0.08919,0.0
+14168525,25/08/2025,Scarborough,Merthyr,Harry Green,right-foot,regular,miss,0.03606,0.0
+14168909,07/03/2026,Scarborough,Oxford,Harry Green,right-foot,regular,save,0.02483,0.08229
+14168909,07/03/2026,Scarborough,Oxford,Harry Green,right-foot,regular,save,0.1627,0.1195
+14168607,16/08/2025,Scarborough,Fylde,Harry Green,right-foot,corner,miss,0.1572,0.0
+14168607,16/08/2025,Scarborough,Fylde,Harry Green,right-foot,regular,save,0.08741,0.2786
+14168515,23/08/2025,Scarborough,Peterborough,Harry Green,right-foot,regular,miss,0.08663,0.0
+14168515,23/08/2025,Scarborough,Peterborough,Harry Green,left-foot,regular,miss,0.08703,0.0
+14168515,23/08/2025,Scarborough,Peterborough,Harry Green,right-foot,regular,save,0.2243,0.1273
+14168515,23/08/2025,Scarborough,Peterborough,Harry Green,right-foot,throw-in-set-piece,block,0.03632,0.0
+14168515,23/08/2025,Scarborough,Peterborough,Harry Green,right-foot,regular,block,0.1295,0.0
+14168515,23/08/2025,Scarborough,Peterborough,Harry Green,left-foot,regular,miss,0.002445,0.0
+14168573,20/09/2025,Scarborough,Oxford,Harry Green,left-foot,regular,save,0.05383,0.05762
+14168600,11/10/2025,Scarborough,Leamington,Harry Green,right-foot,regular,block,0.005767,0.0
+14168600,11/10/2025,Scarborough,Leamington,Harry Green,left-foot,regular,goal,0.4541,0.5334
+14168637,25/10/2025,Scarborough,Marine,Harry Green,right-foot,throw-in-set-piece,block,0.002819,0.0
+14168637,25/10/2025,Scarborough,Marine,Harry Green,right-foot,regular,miss,0.02157,0.0
+14168695,25/11/2025,Scarborough,Alfreton,Harry Green,right-foot,regular,miss,0.0008779,0.0
+14168718,06/12/2025,Scarborough,Bedford,Harry Green,right-foot,throw-in-set-piece,block,0.007792,0.0
+14168718,06/12/2025,Scarborough,Bedford,Harry Green,right-foot,throw-in-set-piece,post,0.01684,0.0
+14168718,06/12/2025,Scarborough,Bedford,Harry Green,right-foot,regular,block,0.1225,0.0
+14168718,06/12/2025,Scarborough,Bedford,Harry Green,right-foot,throw-in-set-piece,goal,0.03775,0.1585
+14969967,16/12/2025,Scarborough,Radcliffe,Harry Green,head,throw-in-set-piece,miss,0.04767,0.0
+14168742,26/12/2025,Scarborough,Darlington,Harry Green,head,throw-in-set-piece,block,0.04511,0.0
+14168742,26/12/2025,Scarborough,Darlington,Harry Green,right-foot,regular,save,0.03874,0.04168
+14168742,26/12/2025,Scarborough,Darlington,Harry Green,left-foot,regular,save,0.04211,0.05134
+14168779,10/01/2026,Scarborough,Chester,Harry Green,right-foot,regular,miss,0.01205,0.0
+14168779,10/01/2026,Scarborough,Chester,Harry Green,right-foot,regular,save,0.102,0.1579
+14168799,24/01/2026,Scarborough,Kidderminster,Harry Green,right-foot,regular,block,0.01724,0.0
+14168799,24/01/2026,Scarborough,Kidderminster,Harry Green,right-foot,throw-in-set-piece,miss,0.181,0.0
+14168829,31/01/2026,Scarborough,Worksop,Harry Green,right-foot,set-piece,block,0.006443,0.0
+14168854,10/02/2026,Scarborough,South Shields,Harry Green,right-foot,regular,block,0.0346,0.0
+14168854,10/02/2026,Scarborough,South Shields,Harry Green,right-foot,free-kick,save,0.04839,0.03543
+14168863,14/02/2026,Scarborough,Curzon Ashton,Harry Green,right-foot,free-kick,save,0.05477,0.09242
+14168899,28/02/2026,Scarborough,Macclesfield,Harry Green,right-foot,regular,block,0.4871,0.0
+14168899,28/02/2026,Scarborough,Macclesfield,Harry Green,right-foot,regular,block,0.02818,0.0
+15326173,03/03/2026,Scarborough,Hereford,Harry Green,right-foot,regular,save,0.06446,0.2251
+14168623,21/10/2025,Scarborough,South Shields,Harry Green,right-foot,regular,block,0.44,0.0
+14168760,30/12/2025,Scarborough,Spennymoor,Harry Green,left-foot,regular,block,0.1329,0.0
+14168760,30/12/2025,Scarborough,Spennymoor,Harry Green,right-foot,regular,block,0.03296,0.0
+14168760,30/12/2025,Scarborough,Spennymoor,Harry Green,right-foot,regular,miss,0.03296,0.0

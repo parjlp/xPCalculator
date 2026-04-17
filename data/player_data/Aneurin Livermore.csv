@@ -1,0 +1,8 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168865,21/02/2026,Merthyr,Alfreton,Aneurin Livermore,left-foot,regular,block,0.01414,0.0
+14168507,23/08/2025,Merthyr,Curzon Ashton,Aneurin Livermore,right-foot,regular,save,0.04203,0.2263
+14168507,23/08/2025,Merthyr,Curzon Ashton,Aneurin Livermore,right-foot,regular,miss,0.003221,0.0
+14168501,19/08/2025,Merthyr,Marine,Aneurin Livermore,right-foot,regular,miss,0.01735,0.0
+14168501,19/08/2025,Merthyr,Marine,Aneurin Livermore,right-foot,corner,miss,0.0463,0.0
+14168525,25/08/2025,Merthyr,Scarborough,Aneurin Livermore,right-foot,throw-in-set-piece,block,0.02024,0.0
+14168574,20/09/2025,Merthyr,Radcliffe,Aneurin Livermore,right-foot,regular,miss,0.01557,0.0

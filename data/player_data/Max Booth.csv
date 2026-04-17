@@ -1,0 +1,39 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168927,14/03/2026,Peterborough,Alfreton,Max Booth,left-foot,regular,goal,0.1883,0.5417
+14168927,14/03/2026,Peterborough,Alfreton,Max Booth,left-foot,regular,save,0.06572,0.09013
+14168879,24/02/2026,Peterborough,Bedford,Max Booth,head,regular,save,0.09549,0.1591
+14168879,24/02/2026,Peterborough,Bedford,Max Booth,right-foot,regular,block,0.3184,0.0
+14168879,24/02/2026,Peterborough,Bedford,Max Booth,right-foot,regular,goal,0.2086,0.1396
+14168821,31/01/2026,Peterborough,Chorley,Max Booth,head,regular,miss,0.2324,0.0
+14168821,31/01/2026,Peterborough,Chorley,Max Booth,right-foot,regular,save,0.06133,0.06824
+14168821,31/01/2026,Peterborough,Chorley,Max Booth,right-foot,regular,goal,0.391,0.397
+14168631,25/10/2025,Peterborough,Curzon Ashton,Max Booth,right-foot,regular,block,0.02932,0.0
+14168631,25/10/2025,Peterborough,Curzon Ashton,Max Booth,left-foot,regular,miss,0.04351,0.0
+14168923,10/03/2026,Peterborough,Kidderminster,Max Booth,left-foot,regular,save,0.1126,0.1176
+14168923,10/03/2026,Peterborough,Kidderminster,Max Booth,right-foot,free-kick,block,0.07589,0.0
+14168958,28/03/2026,Peterborough,Leamington,Max Booth,right-foot,throw-in-set-piece,goal,0.08017,0.1413
+14168958,28/03/2026,Peterborough,Leamington,Max Booth,right-foot,regular,block,0.08212,0.0
+14168490,16/08/2025,Peterborough,Merthyr,Max Booth,right-foot,throw-in-set-piece,save,0.003278,0.006678
+14168490,16/08/2025,Peterborough,Merthyr,Max Booth,head,regular,block,0.08387,0.0
+14168502,19/08/2025,Peterborough,Leamington,Max Booth,right-foot,free-kick,block,0.003144,0.0
+14168526,25/08/2025,Peterborough,Worksop,Max Booth,left-foot,throw-in-set-piece,miss,0.02995,0.0
+14168526,25/08/2025,Peterborough,Worksop,Max Booth,right-foot,regular,save,0.6207,0.8725
+14168585,04/10/2025,Peterborough,Kidderminster,Max Booth,right-foot,regular,miss,0.3614,0.0
+14168585,04/10/2025,Peterborough,Kidderminster,Max Booth,left-foot,regular,block,0.1514,0.0
+14168585,04/10/2025,Peterborough,Kidderminster,Max Booth,right-foot,regular,block,0.05362,0.0
+14168585,04/10/2025,Peterborough,Kidderminster,Max Booth,right-foot,regular,goal,0.1603,0.5039
+14168609,18/10/2025,Peterborough,Alfreton,Max Booth,head,corner,miss,0.2434,0.0
+14168609,18/10/2025,Peterborough,Alfreton,Max Booth,left-foot,regular,miss,0.04425,0.0
+14168812,27/01/2026,Peterborough,Macclesfield,Max Booth,other,own-goal,goal,,0.0
+14168812,27/01/2026,Peterborough,Macclesfield,Max Booth,right-foot,regular,goal,0.122,0.0636
+14168837,07/02/2026,Peterborough,Curzon Ashton,Max Booth,right-foot,corner,save,0.3683,0.244
+14168837,07/02/2026,Peterborough,Curzon Ashton,Max Booth,right-foot,regular,block,0.04393,0.0
+14168837,07/02/2026,Peterborough,Curzon Ashton,Max Booth,right-foot,throw-in-set-piece,block,0.07333,0.0
+14168837,07/02/2026,Peterborough,Curzon Ashton,Max Booth,right-foot,throw-in-set-piece,goal,0.2914,0.7597
+14168862,14/02/2026,Peterborough,Spennymoor,Max Booth,right-foot,regular,block,0.1739,0.0
+14168862,14/02/2026,Peterborough,Spennymoor,Max Booth,left-foot,regular,block,0.01684,0.0
+14168910,07/03/2026,Peterborough,Southport,Max Booth,right-foot,regular,save,0.01635,0.02171
+14169015,06/12/2025,Peterborough,Hereford,Max Booth,left-foot,corner,miss,0.1242,0.0
+15366761,17/03/2026,Peterborough,Marine,Max Booth,left-foot,throw-in-set-piece,miss,0.0351,0.0
+14168874,21/02/2026,Peterborough,Radcliffe,Max Booth,right-foot,regular,save,0.1311,0.1926
+15184997,18/12/2025,Peterborough,South Shields,Max Booth,left-foot,regular,block,0.02283,0.0

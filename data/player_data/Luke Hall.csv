@@ -1,0 +1,15 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168788,17/01/2026,Worksop,Kidderminster,Luke Hall,left-foot,regular,miss,0.0502,0.0
+14168937,14/03/2026,Worksop,Marine,Luke Hall,left-foot,regular,miss,0.005415,0.0
+14168829,31/01/2026,Worksop,Scarborough,Luke Hall,left-foot,corner,block,0.00237,0.0
+14168829,31/01/2026,Worksop,Scarborough,Luke Hall,left-foot,regular,block,0.02686,0.0
+14168829,31/01/2026,Worksop,Scarborough,Luke Hall,left-foot,regular,miss,0.2585,0.0
+14168885,24/02/2026,Worksop,South Shields,Luke Hall,left-foot,regular,miss,0.1033,0.0
+14168781,10/01/2026,Worksop,Merthyr,Luke Hall,left-foot,regular,miss,0.1447,0.0
+14168781,10/01/2026,Worksop,Merthyr,Luke Hall,right-foot,throw-in-set-piece,post,0.1006,0.0
+14168805,24/01/2026,Worksop,Macclesfield,Luke Hall,left-foot,throw-in-set-piece,miss,0.02407,0.0
+14168817,27/01/2026,Worksop,Darlington,Luke Hall,left-foot,regular,save,0.04492,0.01585
+14168867,14/02/2026,Worksop,Oxford,Luke Hall,left-foot,regular,save,0.02511,0.2062
+14168867,14/02/2026,Worksop,Oxford,Luke Hall,left-foot,regular,block,0.004255,0.0
+14168902,28/02/2026,Worksop,Leamington,Luke Hall,left-foot,regular,miss,0.136,0.0
+14168902,28/02/2026,Worksop,Leamington,Luke Hall,right-foot,regular,save,0.378,0.7483

@@ -1,0 +1,35 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+15029190,16/12/2025,Macclesfield,Bedford,James Edmondson,left-foot,regular,miss,0.02362,0.0
+14168929,14/03/2026,Macclesfield,Curzon Ashton,James Edmondson,right-foot,regular,miss,0.03267,0.0
+14168929,14/03/2026,Macclesfield,Curzon Ashton,James Edmondson,left-foot,throw-in-set-piece,post,0.2035,0.0
+14168929,14/03/2026,Macclesfield,Curzon Ashton,James Edmondson,left-foot,corner,miss,0.00956,0.0
+14168929,14/03/2026,Macclesfield,Curzon Ashton,James Edmondson,right-foot,regular,goal,0.2271,0.757
+14168929,14/03/2026,Macclesfield,Curzon Ashton,James Edmondson,left-foot,regular,miss,0.0541,0.0
+15341358,03/03/2026,Macclesfield,Darlington,James Edmondson,left-foot,regular,miss,0.01303,0.0
+15399968,31/03/2026,Macclesfield,Hereford,James Edmondson,left-foot,regular,block,0.008004,0.0
+15399968,31/03/2026,Macclesfield,Hereford,James Edmondson,left-foot,corner,block,0.02518,0.0
+14168561,06/09/2025,Macclesfield,Kidderminster,James Edmondson,left-foot,free-kick,save,0.2528,0.08889
+14168622,21/10/2025,Macclesfield,Leamington,James Edmondson,left-foot,regular,miss,0.02288,0.0
+14168583,04/10/2025,Macclesfield,Marine,James Edmondson,left-foot,free-kick,miss,0.002267,0.0
+14168615,18/10/2025,Macclesfield,Curzon Ashton,James Edmondson,left-foot,regular,miss,0.05787,0.0
+14168635,25/10/2025,Macclesfield,South Shields,James Edmondson,left-foot,regular,save,0.1563,0.1171
+14168665,04/11/2025,Macclesfield,Peterborough,James Edmondson,left-foot,free-kick,block,0.1141,0.0
+14168665,04/11/2025,Macclesfield,Peterborough,James Edmondson,left-foot,regular,save,0.002049,0.008963
+15122242,06/01/2026,Macclesfield,Radcliffe,James Edmondson,left-foot,regular,save,0.1092,0.1483
+14168827,31/01/2026,Macclesfield,Bedford,James Edmondson,left-foot,corner,save,0.03577,0.0206
+15227997,03/02/2026,Macclesfield,Kidderminster,James Edmondson,left-foot,regular,goal,0.8935,0.9463
+15227997,03/02/2026,Macclesfield,Kidderminster,James Edmondson,left-foot,regular,miss,0.1555,0.0
+15227997,03/02/2026,Macclesfield,Kidderminster,James Edmondson,right-foot,regular,save,0.2825,0.3235
+15227997,03/02/2026,Macclesfield,Kidderminster,James Edmondson,left-foot,throw-in-set-piece,goal,0.09076,0.3973
+14168852,10/02/2026,Macclesfield,Leamington,James Edmondson,left-foot,regular,save,0.043,0.08031
+14168852,10/02/2026,Macclesfield,Leamington,James Edmondson,left-foot,throw-in-set-piece,block,0.01403,0.0
+14168852,10/02/2026,Macclesfield,Leamington,James Edmondson,left-foot,regular,save,0.0587,0.1502
+14168872,21/02/2026,Macclesfield,King's Lynn,James Edmondson,left-foot,free-kick,save,0.08617,0.05624
+14168883,24/02/2026,Macclesfield,Fylde,James Edmondson,left-foot,free-kick,block,0.007192,0.0
+14168908,07/03/2026,Macclesfield,Chorley,James Edmondson,left-foot,regular,miss,0.01754,0.0
+14168908,07/03/2026,Macclesfield,Chorley,James Edmondson,head,regular,miss,0.05004,0.0
+14168943,21/03/2026,Macclesfield,Hereford,James Edmondson,left-foot,regular,save,0.01565,0.1913
+14168921,10/03/2026,Macclesfield,Marine,James Edmondson,left-foot,free-kick,block,0.1489,0.0
+14168921,10/03/2026,Macclesfield,Marine,James Edmondson,left-foot,regular,save,0.05014,0.1464
+14168921,10/03/2026,Macclesfield,Marine,James Edmondson,left-foot,free-kick,miss,0.0009275,0.0
+14168899,28/02/2026,Macclesfield,Scarborough,James Edmondson,left-foot,free-kick,save,0.1819,0.3785

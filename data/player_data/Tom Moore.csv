@@ -1,0 +1,19 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168654,04/11/2025,Southport,Buxton,Tom Moore,head,set-piece,miss,0.00868,0.0
+14168940,21/03/2026,Southport,Chester,Tom Moore,head,corner,block,0.1292,0.0
+14168630,25/10/2025,Southport,Darlington,Tom Moore,right-foot,corner,save,0.04974,0.1148
+14168871,21/02/2026,Southport,Kidderminster,Tom Moore,left-foot,regular,goal,0.146,0.2559
+15399965,03/02/2026,Southport,King's Lynn,Tom Moore,head,set-piece,post,0.1356,0.0
+14168910,07/03/2026,Southport,Peterborough,Tom Moore,head,set-piece,save,0.1463,0.09853
+14168534,30/08/2025,Southport,Scarborough,Tom Moore,right-foot,corner,save,0.6448,0.8082
+14168481,16/08/2025,Southport,Bedford,Tom Moore,right-foot,set-piece,goal,0.3604,0.8324
+14168481,16/08/2025,Southport,Bedford,Tom Moore,head,corner,miss,0.06915,0.0
+14168481,16/08/2025,Southport,Bedford,Tom Moore,right-foot,set-piece,save,0.3683,0.3921
+14168529,25/08/2025,Southport,Fylde,Tom Moore,head,corner,save,0.5155,0.9122
+14168529,25/08/2025,Southport,Fylde,Tom Moore,right-foot,regular,miss,0.006008,0.0
+14168732,20/12/2025,Southport,Worksop,Tom Moore,head,corner,miss,0.1984,0.0
+14168732,20/12/2025,Southport,Worksop,Tom Moore,left-foot,corner,save,0.1027,0.2772
+14168732,20/12/2025,Southport,Worksop,Tom Moore,head,corner,goal,0.1288,0.2544
+14168804,24/01/2026,Southport,Merthyr,Tom Moore,head,corner,save,0.07294,0.03986
+14168938,14/03/2026,Southport,Oxford,Tom Moore,right-foot,corner,miss,0.2671,0.0
+15495083,17/03/2026,Southport,Alfreton,Tom Moore,head,corner,miss,0.1749,0.0

@@ -1,0 +1,31 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14837121,11/11/2025,Buxton,Bedford,Callum Ebanks,head,regular,save,0.1431,0.2949
+15029190,16/12/2025,Bedford,Macclesfield,Callum Ebanks,left-foot,regular,miss,0.09685,0.0
+15029190,16/12/2025,Bedford,Macclesfield,Callum Ebanks,left-foot,regular,block,0.0321,0.0
+15029190,16/12/2025,Bedford,Macclesfield,Callum Ebanks,right-foot,regular,goal,0.08995,0.03888
+14168723,20/12/2025,Bedford,Marine,Callum Ebanks,head,set-piece,post,0.1573,0.0
+14168723,20/12/2025,Bedford,Marine,Callum Ebanks,head,set-piece,save,0.156,0.15
+14168723,20/12/2025,Bedford,Marine,Callum Ebanks,right-foot,regular,miss,0.03815,0.0
+14168748,30/12/2025,Bedford,King's Lynn,Callum Ebanks,left-foot,regular,goal,0.2395,0.0
+14168748,30/12/2025,Bedford,King's Lynn,Callum Ebanks,head,regular,save,0.1755,0.155
+14168755,03/01/2026,Bedford,Fylde,Callum Ebanks,head,regular,miss,0.1744,0.0
+14168755,03/01/2026,Bedford,Fylde,Callum Ebanks,head,regular,save,0.1873,0.6078
+14168807,27/01/2026,Bedford,Kidderminster,Callum Ebanks,right-foot,regular,miss,0.1335,0.0
+14168916,10/03/2026,Bedford,Worksop,Callum Ebanks,right-foot,regular,block,0.265,0.0
+14168916,10/03/2026,Bedford,Worksop,Callum Ebanks,left-foot,set-piece,block,0.1391,0.0
+14168492,19/08/2025,Buxton,Hereford,Callum Ebanks,right-foot,regular,miss,0.137,0.0
+14168492,19/08/2025,Buxton,Hereford,Callum Ebanks,right-foot,regular,miss,0.1894,0.0
+14168492,19/08/2025,Buxton,Hereford,Callum Ebanks,right-foot,regular,miss,0.08101,0.0
+14169188,18/10/2025,Buxton,Chorley,Callum Ebanks,head,throw-in-set-piece,save,0.1379,0.2051
+14168628,25/10/2025,Buxton,Alfreton,Callum Ebanks,head,regular,miss,0.1716,0.0
+14168895,28/02/2026,Bedford,Darlington,Callum Ebanks,head,regular,miss,0.08519,0.0
+14168575,20/09/2025,Buxton,Kidderminster,Callum Ebanks,right-foot,regular,block,0.08684,0.0
+14168740,26/12/2025,Bedford,Leamington,Callum Ebanks,left-foot,regular,save,0.3772,0.312
+14168740,26/12/2025,Bedford,Leamington,Callum Ebanks,left-foot,regular,miss,0.0468,0.0
+14168740,26/12/2025,Bedford,Leamington,Callum Ebanks,right-foot,regular,block,0.005278,0.0
+14168740,26/12/2025,Bedford,Leamington,Callum Ebanks,right-foot,throw-in-set-piece,save,0.1376,0.3474
+14168861,14/02/2026,Bedford,Merthyr,Callum Ebanks,head,regular,miss,0.1969,0.0
+14168616,21/10/2025,Buxton,Peterborough,Callum Ebanks,head,regular,save,0.1104,0.2205
+14168718,06/12/2025,Bedford,Scarborough,Callum Ebanks,right-foot,regular,block,0.4512,0.0
+14168950,28/03/2026,Bedford,Telford,Callum Ebanks,right-foot,regular,miss,0.2178,0.0
+14168950,28/03/2026,Bedford,Telford,Callum Ebanks,left-foot,regular,miss,0.06055,0.0

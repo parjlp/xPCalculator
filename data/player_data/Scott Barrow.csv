@@ -1,0 +1,35 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168470,16/08/2025,Darlington,Alfreton,Scott Barrow,left-foot,regular,block,0.04739,0.0
+14168470,16/08/2025,Darlington,Alfreton,Scott Barrow,left-foot,regular,save,0.05071,0.0949
+14168470,16/08/2025,Darlington,Alfreton,Scott Barrow,left-foot,regular,miss,0.004321,0.0
+14168903,07/03/2026,Darlington,Chester,Scott Barrow,left-foot,regular,miss,0.01487,0.0
+14168494,09/08/2025,Darlington,Chorley,Scott Barrow,right-foot,regular,block,0.0038,0.0
+14168494,09/08/2025,Darlington,Chorley,Scott Barrow,left-foot,throw-in-set-piece,block,0.001551,0.0
+14168499,19/08/2025,Darlington,Fylde,Scott Barrow,left-foot,regular,miss,0.001967,0.0
+14168499,19/08/2025,Darlington,Fylde,Scott Barrow,left-foot,throw-in-set-piece,block,0.002813,0.0
+14168564,06/09/2025,Darlington,Hereford,Scott Barrow,left-foot,regular,block,0.002,0.0
+14168569,20/09/2025,Darlington,Chester,Scott Barrow,left-foot,corner,miss,0.1226,0.0
+14168569,20/09/2025,Darlington,Chester,Scott Barrow,left-foot,corner,block,0.0142,0.0
+14168656,04/11/2025,Darlington,Worksop,Scott Barrow,left-foot,regular,block,0.02917,0.0
+14168656,04/11/2025,Darlington,Worksop,Scott Barrow,right-foot,set-piece,block,0.07288,0.0
+14168679,22/11/2025,Darlington,Spennymoor,Scott Barrow,left-foot,regular,miss,0.03328,0.0
+14168689,25/11/2025,Darlington,Curzon Ashton,Scott Barrow,left-foot,regular,block,0.02149,0.0
+14168689,25/11/2025,Darlington,Curzon Ashton,Scott Barrow,other,own-goal,goal,,0.0
+14168727,20/12/2025,Darlington,King's Lynn,Scott Barrow,left-foot,regular,save,0.02133,0.08853
+14168752,30/12/2025,Darlington,South Shields,Scott Barrow,left-foot,regular,miss,0.007736,0.0
+14168752,30/12/2025,Darlington,South Shields,Scott Barrow,left-foot,free-kick,block,0.2642,0.0
+14168752,30/12/2025,Darlington,South Shields,Scott Barrow,right-foot,set-piece,block,0.1349,0.0
+14168823,31/01/2026,Darlington,Merthyr,Scott Barrow,left-foot,regular,block,0.007853,0.0
+14168918,10/03/2026,Darlington,Buxton,Scott Barrow,left-foot,corner,miss,0.01049,0.0
+14168918,10/03/2026,Darlington,Buxton,Scott Barrow,left-foot,free-kick,save,0.05773,0.09966
+14168951,28/03/2026,Darlington,Fylde,Scott Barrow,left-foot,regular,save,0.003514,0.005738
+15261863,17/02/2026,Darlington,Hereford,Scott Barrow,left-foot,throw-in-set-piece,save,0.01312,0.05039
+15261863,17/02/2026,Darlington,Hereford,Scott Barrow,left-foot,regular,miss,0.05401,0.0
+15261863,17/02/2026,Darlington,Hereford,Scott Barrow,left-foot,throw-in-set-piece,save,0.03897,0.1058
+14168605,18/10/2025,Darlington,Leamington,Scott Barrow,left-foot,regular,save,0.03983,0.07846
+14168640,01/11/2025,Darlington,Merthyr,Scott Barrow,head,corner,save,0.1178,0.4394
+14168618,21/10/2025,Darlington,Radcliffe,Scott Barrow,right-foot,corner,miss,0.01803,0.0
+14168742,26/12/2025,Darlington,Scarborough,Scott Barrow,right-foot,regular,block,0.01974,0.0
+14168742,26/12/2025,Darlington,Scarborough,Scott Barrow,left-foot,free-kick,save,0.03767,0.1019
+14168840,07/02/2026,Darlington,Southport,Scott Barrow,left-foot,regular,block,0.05565,0.0
+14168840,07/02/2026,Darlington,Southport,Scott Barrow,left-foot,regular,block,0.06613,0.0

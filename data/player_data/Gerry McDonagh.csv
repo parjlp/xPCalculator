@@ -1,0 +1,9 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168470,16/08/2025,Alfreton,Darlington,Gerry McDonagh,head,throw-in-set-piece,save,0.1495,0.3475
+15489563,31/03/2026,Alfreton,Chorley,Gerry McDonagh,head,throw-in-set-piece,miss,0.02877,0.0
+15489563,31/03/2026,Alfreton,Chorley,Gerry McDonagh,head,regular,miss,0.09345,0.0
+15489563,31/03/2026,Alfreton,Chorley,Gerry McDonagh,left-foot,set-piece,block,0.008563,0.0
+14168844,10/02/2026,Alfreton,Chester,Gerry McDonagh,right-foot,regular,block,0.03058,0.0
+15379770,31/10/2025,Alfreton,King's Lynn,Gerry McDonagh,right-foot,throw-in-set-piece,block,0.08922,0.0
+14168509,23/08/2025,Alfreton,Macclesfield,Gerry McDonagh,right-foot,corner,block,0.6642,0.0
+14168550,02/09/2025,Alfreton,Oxford,Gerry McDonagh,left-foot,regular,post,0.285,0.0

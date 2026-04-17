@@ -1,0 +1,22 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168699,29/11/2025,Bedford,Darlington,Jago  Godden,right-foot,regular,goal,0.1005,0.07907
+15029190,16/12/2025,Bedford,Macclesfield,Jago  Godden,right-foot,regular,save,0.1451,0.07496
+15029190,16/12/2025,Bedford,Macclesfield,Jago  Godden,head,regular,miss,0.05439,0.0
+15029190,16/12/2025,Bedford,Macclesfield,Jago  Godden,right-foot,regular,block,0.01533,0.0
+14168723,20/12/2025,Bedford,Marine,Jago  Godden,right-foot,regular,goal,0.07964,0.235
+14168723,20/12/2025,Bedford,Marine,Jago  Godden,right-foot,regular,block,0.08494,0.0
+14168748,30/12/2025,Bedford,King's Lynn,Jago  Godden,left-foot,regular,goal,0.169,0.372
+14168748,30/12/2025,Bedford,King's Lynn,Jago  Godden,head,regular,miss,0.1478,0.0
+14168755,03/01/2026,Bedford,Fylde,Jago  Godden,right-foot,corner,save,0.05448,0.05989
+14168755,03/01/2026,Bedford,Fylde,Jago  Godden,head,regular,save,0.1643,0.3932
+14168755,03/01/2026,Bedford,Fylde,Jago  Godden,other,own-goal,goal,,0.0
+14168755,03/01/2026,Bedford,Fylde,Jago  Godden,right-foot,regular,block,0.01203,0.0
+14168784,17/01/2026,Bedford,Southport,Jago  Godden,right-foot,regular,save,0.07014,0.2309
+14168807,27/01/2026,Bedford,Kidderminster,Jago  Godden,head,regular,miss,0.09078,0.0
+14168740,26/12/2025,Bedford,Leamington,Jago  Godden,head,corner,miss,0.09944,0.0
+14168740,26/12/2025,Bedford,Leamington,Jago  Godden,left-foot,regular,save,0.1039,0.06002
+14168827,31/01/2026,Bedford,Macclesfield,Jago  Godden,right-foot,regular,miss,0.04403,0.0
+14168718,06/12/2025,Bedford,Scarborough,Jago  Godden,right-foot,regular,post,0.08086,0.0
+14168718,06/12/2025,Bedford,Scarborough,Jago  Godden,right-foot,regular,block,0.002675,0.0
+14168718,06/12/2025,Bedford,Scarborough,Jago  Godden,left-foot,throw-in-set-piece,goal,0.03906,0.49
+14168718,06/12/2025,Bedford,Scarborough,Jago  Godden,left-foot,regular,block,0.008303,0.0

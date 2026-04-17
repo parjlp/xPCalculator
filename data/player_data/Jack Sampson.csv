@@ -1,0 +1,35 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168493,16/08/2025,Chorley,Chester,Jack Sampson,left-foot,regular,miss,0.2269,0.0
+14168493,16/08/2025,Chorley,Chester,Jack Sampson,left-foot,regular,goal,0.1308,0.4908
+14168493,16/08/2025,Chorley,Chester,Jack Sampson,left-foot,regular,save,0.04955,0.08504
+14168498,19/08/2025,Chorley,Scarborough,Jack Sampson,left-foot,regular,save,0.242,0.5719
+14168653,04/11/2025,Chorley,Alfreton,Jack Sampson,head,corner,miss,0.1398,0.0
+14168678,22/11/2025,Chorley,Bedford,Jack Sampson,head,set-piece,goal,0.2082,0.7402
+14168678,22/11/2025,Chorley,Bedford,Jack Sampson,left-foot,regular,block,0.02327,0.0
+14168678,22/11/2025,Chorley,Bedford,Jack Sampson,left-foot,regular,miss,0.02131,0.0
+14168841,10/02/2026,Chorley,Southport,Jack Sampson,head,regular,post,0.1778,0.0
+14168855,14/02/2026,Chorley,Radcliffe,Jack Sampson,head,regular,save,0.2659,0.2498
+14168917,10/03/2026,Chorley,South Shields,Jack Sampson,left-foot,regular,goal,0.3019,0.6282
+14168930,14/03/2026,Chorley,Buxton,Jack Sampson,left-foot,regular,miss,0.01901,0.0
+14168930,14/03/2026,Chorley,Buxton,Jack Sampson,head,throw-in-set-piece,save,0.1099,0.2363
+14168930,14/03/2026,Chorley,Buxton,Jack Sampson,head,set-piece,goal,0.3898,0.7461
+14168930,14/03/2026,Chorley,Buxton,Jack Sampson,head,regular,miss,0.2155,0.0
+14168543,02/09/2025,Chorley,Curzon Ashton,Jack Sampson,left-foot,regular,miss,0.02672,0.0
+14168543,02/09/2025,Chorley,Curzon Ashton,Jack Sampson,head,regular,save,0.2905,0.6967
+14168494,09/08/2025,Chorley,Darlington,Jack Sampson,left-foot,corner,goal,0.09602,0.3998
+14168494,09/08/2025,Chorley,Darlington,Jack Sampson,left-foot,regular,block,0.003814,0.0
+14168506,23/08/2025,Chorley,Hereford,Jack Sampson,left-foot,set-piece,goal,0.6459,0.748
+14168506,23/08/2025,Chorley,Hereford,Jack Sampson,head,set-piece,miss,0.09159,0.0
+14168540,30/08/2025,Chorley,Leamington,Jack Sampson,head,set-piece,save,0.2943,0.5609
+14168540,30/08/2025,Chorley,Leamington,Jack Sampson,head,corner,miss,0.08108,0.0
+14168540,30/08/2025,Chorley,Leamington,Jack Sampson,head,set-piece,block,0.1161,0.0
+14168540,30/08/2025,Chorley,Leamington,Jack Sampson,left-foot,regular,block,0.01807,0.0
+14168944,21/03/2026,Chorley,Oxford,Jack Sampson,left-foot,throw-in-set-piece,save,0.04415,0.2024
+14168645,01/11/2025,Chorley,Peterborough,Jack Sampson,head,set-piece,miss,0.1242,0.0
+14168674,08/11/2025,Chorley,Radcliffe,Jack Sampson,left-foot,regular,block,0.004997,0.0
+14168959,28/03/2026,Chorley,Scarborough,Jack Sampson,head,regular,post,0.2108,0.002811
+14168959,28/03/2026,Chorley,Scarborough,Jack Sampson,left-foot,regular,save,0.01591,0.008096
+14168959,28/03/2026,Chorley,Scarborough,Jack Sampson,head,corner,miss,0.05315,0.0
+14168890,24/02/2026,Chorley,Spennymoor,Jack Sampson,left-foot,regular,save,0.03538,0.03621
+15452627,17/02/2026,Chorley,Telford,Jack Sampson,left-foot,regular,miss,0.06354,0.0
+15452627,17/02/2026,Chorley,Telford,Jack Sampson,head,throw-in-set-piece,save,0.3029,0.6788

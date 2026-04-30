@@ -1,0 +1,87 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168748,30/12/2025,King's Lynn,Bedford,Ross Crane,left-foot,free-kick,block,0.001068,0.0
+14168748,30/12/2025,King's Lynn,Bedford,Ross Crane,head,regular,goal,0.2641,0.6331
+14168748,30/12/2025,King's Lynn,Bedford,Ross Crane,left-foot,regular,miss,0.003226,0.0
+14168748,30/12/2025,King's Lynn,Bedford,Ross Crane,left-foot,regular,miss,0.05967,0.0
+14168748,30/12/2025,King's Lynn,Bedford,Ross Crane,left-foot,regular,miss,0.09724,0.0
+14168878,24/02/2026,King's Lynn,Buxton,Ross Crane,left-foot,regular,miss,0.7301,0.0
+14168522,25/08/2025,King's Lynn,Chorley,Ross Crane,left-foot,regular,miss,0.05684,0.0
+14168522,25/08/2025,King's Lynn,Chorley,Ross Crane,left-foot,regular,miss,0.0224,0.0
+14813803,28/10/2025,King's Lynn,Curzon Ashton,Ross Crane,left-foot,regular,save,0.04878,0.09964
+14813803,28/10/2025,King's Lynn,Curzon Ashton,Ross Crane,left-foot,corner,save,0.02508,0.02554
+14168727,20/12/2025,King's Lynn,Darlington,Ross Crane,left-foot,regular,block,0.04097,0.0
+14168479,16/08/2025,King's Lynn,Hereford,Ross Crane,left-foot,regular,miss,0.002856,0.0
+14168479,16/08/2025,King's Lynn,Hereford,Ross Crane,left-foot,regular,goal,0.4316,0.4629
+14168479,16/08/2025,King's Lynn,Hereford,Ross Crane,head,throw-in-set-piece,goal,0.2655,0.6504
+14168473,09/08/2025,King's Lynn,Telford,Ross Crane,left-foot,regular,block,0.03885,0.0
+14168473,09/08/2025,King's Lynn,Telford,Ross Crane,left-foot,regular,save,0.1464,0.05487
+14168473,09/08/2025,King's Lynn,Telford,Ross Crane,left-foot,regular,miss,0.5782,0.0
+14168473,09/08/2025,King's Lynn,Telford,Ross Crane,left-foot,corner,block,0.02724,0.0
+14168533,30/08/2025,King's Lynn,Merthyr,Ross Crane,left-foot,regular,goal,0.164,0.8124
+14168533,30/08/2025,King's Lynn,Merthyr,Ross Crane,left-foot,regular,miss,0.1238,0.0
+14168533,30/08/2025,King's Lynn,Merthyr,Ross Crane,left-foot,regular,save,0.07023,0.05065
+14168544,02/09/2025,King's Lynn,Kidderminster,Ross Crane,left-foot,regular,miss,0.001191,0.0
+14168544,02/09/2025,King's Lynn,Kidderminster,Ross Crane,head,regular,miss,0.08462,0.0
+14168634,25/10/2025,King's Lynn,Radcliffe,Ross Crane,left-foot,free-kick,block,0.03672,0.0
+14168634,25/10/2025,King's Lynn,Radcliffe,Ross Crane,left-foot,regular,block,0.04092,0.0
+14168661,04/11/2025,King's Lynn,Leamington,Ross Crane,left-foot,regular,block,0.01459,0.0
+14168661,04/11/2025,King's Lynn,Leamington,Ross Crane,left-foot,regular,save,0.06195,0.05622
+14168661,04/11/2025,King's Lynn,Leamington,Ross Crane,left-foot,regular,save,0.1458,0.0953
+14168661,04/11/2025,King's Lynn,Leamington,Ross Crane,left-foot,corner,miss,0.01589,0.0
+14168661,04/11/2025,King's Lynn,Leamington,Ross Crane,left-foot,regular,block,0.09867,0.0
+14168691,25/11/2025,King's Lynn,Buxton,Ross Crane,right-foot,regular,block,0.008006,0.0
+14168691,25/11/2025,King's Lynn,Buxton,Ross Crane,left-foot,regular,block,0.002675,0.0
+14168714,06/12/2025,King's Lynn,Chester,Ross Crane,left-foot,regular,miss,0.08602,0.0
+14168714,06/12/2025,King's Lynn,Chester,Ross Crane,left-foot,regular,save,0.1233,0.06116
+14168714,06/12/2025,King's Lynn,Chester,Ross Crane,left-foot,regular,block,0.01206,0.0
+15168214,10/12/2025,King's Lynn,Macclesfield,Ross Crane,left-foot,regular,block,0.04746,0.0
+15168214,10/12/2025,King's Lynn,Macclesfield,Ross Crane,left-foot,throw-in-set-piece,goal,0.1625,0.7446
+14168794,17/01/2026,King's Lynn,Hereford,Ross Crane,left-foot,regular,save,0.06653,0.03643
+14168794,17/01/2026,King's Lynn,Hereford,Ross Crane,left-foot,set-piece,save,0.1214,0.05891
+14168894,28/02/2026,King's Lynn,Oxford,Ross Crane,left-foot,regular,miss,0.003646,0.0
+14168894,28/02/2026,King's Lynn,Oxford,Ross Crane,left-foot,regular,save,0.1176,0.07943
+14168894,28/02/2026,King's Lynn,Oxford,Ross Crane,right-foot,throw-in-set-piece,save,0.01923,0.07283
+14168907,07/03/2026,King's Lynn,Marine,Ross Crane,left-foot,throw-in-set-piece,miss,0.09052,0.0
+14168907,07/03/2026,King's Lynn,Marine,Ross Crane,left-foot,corner,miss,0.06074,0.0
+14168907,07/03/2026,King's Lynn,Marine,Ross Crane,left-foot,corner,block,0.01993,0.0
+14168907,07/03/2026,King's Lynn,Marine,Ross Crane,left-foot,set-piece,miss,0.1217,0.0
+14168907,07/03/2026,King's Lynn,Marine,Ross Crane,left-foot,regular,save,0.02005,0.08036
+15578956,17/03/2026,King's Lynn,South Shields,Ross Crane,left-foot,regular,block,0.1147,0.0
+15578956,17/03/2026,King's Lynn,South Shields,Ross Crane,left-foot,free-kick,block,0.001757,0.0
+14168941,21/03/2026,King's Lynn,Curzon Ashton,Ross Crane,left-foot,regular,miss,0.023,0.0
+14168941,21/03/2026,King's Lynn,Curzon Ashton,Ross Crane,head,set-piece,miss,0.06253,0.0
+14168941,21/03/2026,King's Lynn,Curzon Ashton,Ross Crane,left-foot,regular,miss,0.04961,0.0
+15495110,24/03/2026,King's Lynn,Leamington,Ross Crane,left-foot,regular,miss,0.02437,0.0
+15495110,24/03/2026,King's Lynn,Leamington,Ross Crane,left-foot,regular,miss,0.002915,0.0
+15495110,24/03/2026,King's Lynn,Leamington,Ross Crane,left-foot,throw-in-set-piece,goal,0.04757,0.1057
+15495110,24/03/2026,King's Lynn,Leamington,Ross Crane,left-foot,regular,goal,0.09775,0.123
+15495110,24/03/2026,King's Lynn,Leamington,Ross Crane,right-foot,regular,block,0.0966,0.0
+14168872,21/02/2026,King's Lynn,Macclesfield,Ross Crane,left-foot,regular,block,0.01131,0.0
+14168577,20/09/2025,King's Lynn,Marine,Ross Crane,left-foot,regular,save,0.02628,0.008015
+14168765,03/01/2026,King's Lynn,Merthyr,Ross Crane,left-foot,regular,save,0.02824,0.1192
+14168705,29/11/2025,King's Lynn,Oxford,Ross Crane,left-foot,regular,miss,0.006346,0.0
+14168835,07/02/2026,King's Lynn,Radcliffe,Ross Crane,left-foot,regular,save,0.1001,0.05468
+14168835,07/02/2026,King's Lynn,Radcliffe,Ross Crane,left-foot,regular,block,0.01339,0.0
+14168922,10/03/2026,King's Lynn,Scarborough,Ross Crane,left-foot,throw-in-set-piece,miss,0.003616,0.0
+14168922,10/03/2026,King's Lynn,Scarborough,Ross Crane,left-foot,regular,miss,0.001395,0.0
+14168647,01/11/2025,King's Lynn,Southport,Ross Crane,left-foot,regular,block,0.002908,0.0
+14168647,01/11/2025,King's Lynn,Southport,Ross Crane,right-foot,regular,miss,0.02327,0.0
+14168503,19/08/2025,King's Lynn,Spennymoor,Ross Crane,left-foot,regular,block,0.0307,0.0
+14168503,19/08/2025,King's Lynn,Spennymoor,Ross Crane,left-foot,throw-in-set-piece,save,0.03719,0.01458
+14168503,19/08/2025,King's Lynn,Spennymoor,Ross Crane,left-foot,regular,save,0.05099,0.1344
+14168625,21/10/2025,King's Lynn,Worksop,Ross Crane,left-foot,regular,goal,0.07825,0.3709
+14168625,21/10/2025,King's Lynn,Worksop,Ross Crane,left-foot,regular,miss,0.1019,0.0
+14168992,11/04/2026,King's Lynn,Kidderminster,Ross Crane,left-foot,corner,goal,0.07666,0.3196
+14168956,28/03/2026,King's Lynn,Spennymoor,Ross Crane,left-foot,regular,block,0.02326,0.0
+14168956,28/03/2026,King's Lynn,Spennymoor,Ross Crane,left-foot,regular,save,0.03826,0.03521
+14168956,28/03/2026,King's Lynn,Spennymoor,Ross Crane,left-foot,regular,block,0.1286,0.0
+14168956,28/03/2026,King's Lynn,Spennymoor,Ross Crane,left-foot,regular,miss,0.01791,0.0
+14168956,28/03/2026,King's Lynn,Spennymoor,Ross Crane,left-foot,throw-in-set-piece,miss,0.002701,0.0
+14168976,06/04/2026,King's Lynn,Bedford,Ross Crane,left-foot,regular,save,0.1475,0.4128
+14168976,06/04/2026,King's Lynn,Bedford,Ross Crane,left-foot,regular,miss,0.01056,0.0
+14168976,06/04/2026,King's Lynn,Bedford,Ross Crane,head,corner,miss,0.02177,0.0
+14169003,18/04/2026,King's Lynn,Chorley,Ross Crane,right-foot,regular,block,0.008955,0.0
+14169003,18/04/2026,King's Lynn,Chorley,Ross Crane,left-foot,regular,save,0.05644,0.08631
+14169003,18/04/2026,King's Lynn,Chorley,Ross Crane,left-foot,regular,block,0.011,0.0
+14169003,18/04/2026,King's Lynn,Chorley,Ross Crane,left-foot,regular,miss,0.07361,0.0
+14168982,03/04/2026,King's Lynn,Peterborough,Ross Crane,left-foot,regular,block,0.002128,0.0

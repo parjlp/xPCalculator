@@ -1,0 +1,65 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168880,24/02/2026,Scarborough,Alfreton,Stephen Walker,left-foot,regular,miss,0.6524,0.0
+14168880,24/02/2026,Scarborough,Alfreton,Stephen Walker,right-foot,regular,save,0.2974,0.6505
+14168880,24/02/2026,Scarborough,Alfreton,Stephen Walker,left-foot,regular,block,0.1305,0.0
+14168880,24/02/2026,Scarborough,Alfreton,Stephen Walker,right-foot,throw-in-set-piece,miss,0.003221,0.0
+14168556,06/09/2025,Scarborough,Chester,Stephen Walker,left-foot,regular,block,0.02867,0.0
+14168556,06/09/2025,Scarborough,Chester,Stephen Walker,right-foot,regular,miss,0.05819,0.0
+14168498,19/08/2025,Scarborough,Chorley,Stephen Walker,left-foot,regular,block,0.0502,0.0
+14168870,21/02/2026,Scarborough,Hereford,Stephen Walker,right-foot,regular,goal,0.5749,0.8683
+14168474,09/08/2025,Scarborough,Kidderminster,Stephen Walker,right-foot,regular,block,0.2435,0.0
+14168581,04/10/2025,Scarborough,King's Lynn,Stephen Walker,right-foot,regular,save,0.1629,0.1724
+14168581,04/10/2025,Scarborough,King's Lynn,Stephen Walker,left-foot,regular,save,0.1429,0.05797
+14168581,04/10/2025,Scarborough,King's Lynn,Stephen Walker,right-foot,throw-in-set-piece,block,0.01508,0.0
+14168581,04/10/2025,Scarborough,King's Lynn,Stephen Walker,left-foot,regular,miss,0.05428,0.0
+14168581,04/10/2025,Scarborough,King's Lynn,Stephen Walker,right-foot,regular,goal,0.2788,0.4418
+14168942,21/03/2026,Scarborough,Leamington,Stephen Walker,left-foot,regular,save,0.1307,0.04514
+14168942,21/03/2026,Scarborough,Leamington,Stephen Walker,left-foot,regular,block,0.189,0.0
+14168942,21/03/2026,Scarborough,Leamington,Stephen Walker,left-foot,regular,miss,0.1055,0.0
+14168942,21/03/2026,Scarborough,Leamington,Stephen Walker,left-foot,regular,miss,0.1419,0.0
+14168834,07/02/2026,Scarborough,Marine,Stephen Walker,right-foot,regular,save,0.1422,0.3455
+14168834,07/02/2026,Scarborough,Marine,Stephen Walker,left-foot,regular,block,0.04272,0.0
+14168834,07/02/2026,Scarborough,Marine,Stephen Walker,left-foot,regular,goal,0.415,0.3486
+14168525,25/08/2025,Scarborough,Merthyr,Stephen Walker,left-foot,regular,save,0.6087,0.612
+14168525,25/08/2025,Scarborough,Merthyr,Stephen Walker,left-foot,regular,goal,0.2136,0.4448
+14168909,07/03/2026,Scarborough,Oxford,Stephen Walker,left-foot,regular,save,0.1525,0.1034
+14168909,07/03/2026,Scarborough,Oxford,Stephen Walker,left-foot,regular,miss,0.1271,0.0
+14168909,07/03/2026,Scarborough,Oxford,Stephen Walker,left-foot,throw-in-set-piece,block,0.01398,0.0
+14168909,07/03/2026,Scarborough,Oxford,Stephen Walker,right-foot,set-piece,save,0.525,0.7347
+14168814,27/01/2026,Scarborough,Radcliffe,Stephen Walker,right-foot,regular,goal,0.4025,0.4497
+14168814,27/01/2026,Scarborough,Radcliffe,Stephen Walker,right-foot,regular,block,0.1107,0.0
+14168814,27/01/2026,Scarborough,Radcliffe,Stephen Walker,left-foot,throw-in-set-piece,goal,0.07916,0.4679
+14168814,27/01/2026,Scarborough,Radcliffe,Stephen Walker,left-foot,throw-in-set-piece,block,0.003716,0.0
+14168607,16/08/2025,Scarborough,Fylde,Stephen Walker,right-foot,regular,miss,0.1375,0.0
+14168607,16/08/2025,Scarborough,Fylde,Stephen Walker,right-foot,corner,goal,0.1366,0.5119
+14168534,30/08/2025,Scarborough,Southport,Stephen Walker,right-foot,regular,goal,0.1363,0.8899
+14168552,02/09/2025,Scarborough,Buxton,Stephen Walker,left-foot,regular,block,0.05839,0.0
+14168552,02/09/2025,Scarborough,Buxton,Stephen Walker,right-foot,regular,block,0.01403,0.0
+14168600,11/10/2025,Scarborough,Leamington,Stephen Walker,left-foot,regular,miss,0.1347,0.0
+14168600,11/10/2025,Scarborough,Leamington,Stephen Walker,left-foot,regular,goal,0.06119,0.0339
+14168637,25/10/2025,Scarborough,Marine,Stephen Walker,left-foot,regular,goal,0.8669,0.94
+14168829,31/01/2026,Scarborough,Worksop,Stephen Walker,right-foot,regular,miss,0.0757,0.0
+14168829,31/01/2026,Scarborough,Worksop,Stephen Walker,left-foot,regular,block,0.0351,0.0
+14168829,31/01/2026,Scarborough,Worksop,Stephen Walker,left-foot,regular,save,0.6562,0.7789
+14168829,31/01/2026,Scarborough,Worksop,Stephen Walker,left-foot,regular,save,0.1389,0.1099
+14168863,14/02/2026,Scarborough,Curzon Ashton,Stephen Walker,right-foot,regular,save,0.6153,0.5682
+14168899,28/02/2026,Scarborough,Macclesfield,Stephen Walker,right-foot,regular,save,0.1941,0.2201
+14168899,28/02/2026,Scarborough,Macclesfield,Stephen Walker,head,regular,miss,0.1726,0.0
+14168899,28/02/2026,Scarborough,Macclesfield,Stephen Walker,head,corner,goal,0.5771,0.7926
+14168899,28/02/2026,Scarborough,Macclesfield,Stephen Walker,right-foot,set-piece,block,0.1966,0.0
+14168899,28/02/2026,Scarborough,Macclesfield,Stephen Walker,right-foot,regular,goal,0.03041,0.255
+15326173,03/03/2026,Scarborough,Hereford,Stephen Walker,right-foot,regular,miss,0.01386,0.0
+14168935,14/03/2026,Scarborough,Telford,Stephen Walker,right-foot,corner,goal,0.332,0.6393
+14168935,14/03/2026,Scarborough,Telford,Stephen Walker,left-foot,regular,post,0.07931,0.0
+14168959,28/03/2026,Scarborough,Chorley,Stephen Walker,right-foot,regular,save,0.163,0.1301
+14168959,28/03/2026,Scarborough,Chorley,Stephen Walker,left-foot,throw-in-set-piece,block,0.01464,0.0
+14168767,03/01/2026,Scarborough,Southport,Stephen Walker,right-foot,regular,block,0.198,0.0
+14168760,30/12/2025,Scarborough,Spennymoor,Stephen Walker,right-foot,regular,miss,0.02986,0.0
+14168601,18/10/2025,Scarborough,Telford,Stephen Walker,left-foot,regular,block,0.01454,0.0
+14168651,01/11/2025,Scarborough,Worksop,Stephen Walker,left-foot,corner,block,0.3841,0.0
+14168651,01/11/2025,Scarborough,Worksop,Stephen Walker,left-foot,regular,block,0.1021,0.0
+14168967,03/04/2026,Scarborough,Darlington,Stephen Walker,right-foot,regular,block,0.0651,0.0
+14168967,03/04/2026,Scarborough,Darlington,Stephen Walker,right-foot,penalty,save,0.76,0.81
+14168977,06/04/2026,Scarborough,Spennymoor,Stephen Walker,right-foot,regular,goal,0.729,0.8223
+14168977,06/04/2026,Scarborough,Spennymoor,Stephen Walker,right-foot,regular,save,0.1802,0.1273
+14168977,06/04/2026,Scarborough,Spennymoor,Stephen Walker,right-foot,throw-in-set-piece,save,0.06722,0.6297

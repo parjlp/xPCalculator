@@ -1,0 +1,27 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168747,30/12/2025,Macclesfield,Chester,Sam Heathcote,head,regular,miss,0.1919,0.0
+14168747,30/12/2025,Macclesfield,Chester,Sam Heathcote,right-foot,free-kick,save,0.04643,0.0227
+14168929,14/03/2026,Macclesfield,Curzon Ashton,Sam Heathcote,right-foot,regular,miss,0.01315,0.0
+14168561,06/09/2025,Macclesfield,Kidderminster,Sam Heathcote,head,corner,miss,0.06453,0.0
+14168622,21/10/2025,Macclesfield,Leamington,Sam Heathcote,right-foot,throw-in-set-piece,miss,0.0006171,0.0
+14168583,04/10/2025,Macclesfield,Marine,Sam Heathcote,right-foot,regular,save,0.04256,0.2732
+14168665,04/11/2025,Macclesfield,Peterborough,Sam Heathcote,head,corner,block,0.02573,0.0
+14168708,29/11/2025,Macclesfield,Scarborough,Sam Heathcote,right-foot,regular,miss,0.004752,0.0
+14168708,29/11/2025,Macclesfield,Scarborough,Sam Heathcote,head,corner,miss,0.1507,0.0
+14168708,29/11/2025,Macclesfield,Scarborough,Sam Heathcote,right-foot,throw-in-set-piece,goal,0.01496,0.02309
+14168827,31/01/2026,Macclesfield,Bedford,Sam Heathcote,head,corner,save,0.1896,0.4249
+14168827,31/01/2026,Macclesfield,Bedford,Sam Heathcote,right-foot,set-piece,miss,0.003127,0.0
+14168908,07/03/2026,Macclesfield,Chorley,Sam Heathcote,left-foot,corner,block,0.00817,0.0
+14168908,07/03/2026,Macclesfield,Chorley,Sam Heathcote,right-foot,regular,block,0.002428,0.0
+14168908,07/03/2026,Macclesfield,Chorley,Sam Heathcote,other,own-goal,goal,,0.0
+14168908,07/03/2026,Macclesfield,Chorley,Sam Heathcote,right-foot,corner,block,0.006983,0.0
+14168908,07/03/2026,Macclesfield,Chorley,Sam Heathcote,right-foot,regular,miss,0.003091,0.0
+14168921,10/03/2026,Macclesfield,Marine,Sam Heathcote,right-foot,regular,block,0.008405,0.0
+14168921,10/03/2026,Macclesfield,Marine,Sam Heathcote,head,corner,goal,0.09378,0.3956
+14168812,27/01/2026,Macclesfield,Peterborough,Sam Heathcote,head,corner,block,0.04889,0.0
+15395692,17/03/2026,Macclesfield,Telford,Sam Heathcote,right-foot,regular,miss,0.03499,0.0
+15395692,17/03/2026,Macclesfield,Telford,Sam Heathcote,right-foot,corner,miss,0.1243,0.0
+14168805,24/01/2026,Macclesfield,Worksop,Sam Heathcote,other,own-goal,goal,,0.0
+14168805,24/01/2026,Macclesfield,Worksop,Sam Heathcote,right-foot,set-piece,miss,0.005672,0.0
+15716970,21/04/2026,Macclesfield,Southport,Sam Heathcote,head,set-piece,miss,0.2201,0.0
+15603253,14/04/2026,Macclesfield,South Shields,Sam Heathcote,head,set-piece,miss,0.04501,0.0

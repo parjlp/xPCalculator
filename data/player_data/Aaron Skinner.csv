@@ -1,0 +1,14 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168687,25/11/2025,Hereford,Chester,Aaron Skinner,head,regular,goal,0.09437,0.3284
+14168824,31/01/2026,Hereford,Curzon Ashton,Aaron Skinner,right-foot,throw-in-set-piece,save,0.03021,0.5283
+14168632,25/10/2025,Hereford,Fylde,Aaron Skinner,left-foot,regular,block,0.05276,0.0
+14168571,20/09/2025,Hereford,Worksop,Aaron Skinner,head,regular,miss,0.01868,0.0
+15261863,17/02/2026,Hereford,Darlington,Aaron Skinner,right-foot,regular,save,0.08051,0.1586
+14168582,04/10/2025,Hereford,Leamington,Aaron Skinner,right-foot,regular,block,0.0458,2.036e-05
+14168943,21/03/2026,Hereford,Macclesfield,Aaron Skinner,left-foot,regular,block,0.01964,0.0
+14168754,30/12/2025,Hereford,Merthyr,Aaron Skinner,right-foot,regular,block,0.0008988,0.0
+14168523,25/08/2025,Hereford,Radcliffe,Aaron Skinner,right-foot,throw-in-set-piece,block,0.01423,0.0
+14168864,14/02/2026,Hereford,Southport,Aaron Skinner,right-foot,throw-in-set-piece,miss,0.005689,0.0
+14168839,10/02/2026,Hereford,Telford,Aaron Skinner,other,own-goal,goal,,0.0
+14168996,11/04/2026,Hereford,Bedford,Aaron Skinner,left-foot,regular,miss,0.0451,0.0
+15519414,21/04/2026,Hereford,Marine,Aaron Skinner,right-foot,penalty,goal,0.76,0.81

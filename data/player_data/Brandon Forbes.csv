@@ -1,0 +1,11 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+15578956,17/03/2026,King's Lynn,South Shields,Brandon Forbes,right-foot,free-kick,save,0.1459,0.04997
+15578956,17/03/2026,King's Lynn,South Shields,Brandon Forbes,right-foot,free-kick,miss,0.0008143,0.0
+15578956,17/03/2026,King's Lynn,South Shields,Brandon Forbes,left-foot,corner,save,0.02743,0.02467
+14168941,21/03/2026,King's Lynn,Curzon Ashton,Brandon Forbes,right-foot,regular,block,0.004982,0.0
+14168941,21/03/2026,King's Lynn,Curzon Ashton,Brandon Forbes,right-foot,throw-in-set-piece,save,0.02596,0.01972
+14169017,25/04/2026,King's Lynn,Chester,Brandon Forbes,head,throw-in-set-piece,save,0.03968,0.04595
+14168976,06/04/2026,King's Lynn,Bedford,Brandon Forbes,right-foot,regular,miss,0.1087,0.0
+14168976,06/04/2026,King's Lynn,Bedford,Brandon Forbes,right-foot,regular,miss,0.03032,0.0
+14168976,06/04/2026,King's Lynn,Bedford,Brandon Forbes,right-foot,regular,save,0.08628,0.3761
+14168982,03/04/2026,King's Lynn,Peterborough,Brandon Forbes,right-foot,throw-in-set-piece,goal,0.04521,0.628

@@ -1,0 +1,61 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168865,21/02/2026,Merthyr,Alfreton,Cawley Cox,right-foot,regular,block,0.1947,0.0
+14168865,21/02/2026,Merthyr,Alfreton,Cawley Cox,right-foot,regular,block,0.009315,0.0
+14168658,08/11/2025,Merthyr,Bedford,Cawley Cox,head,corner,goal,0.1378,0.1692
+14168658,08/11/2025,Merthyr,Bedford,Cawley Cox,right-foot,regular,block,0.08088,0.0
+14168700,29/11/2025,Merthyr,Buxton,Cawley Cox,right-foot,regular,save,0.09319,0.2312
+14168823,31/01/2026,Merthyr,Darlington,Cawley Cox,right-foot,regular,goal,0.1321,0.4751
+14168713,06/12/2025,Merthyr,Fylde,Cawley Cox,right-foot,regular,save,0.1241,0.2595
+14168843,10/02/2026,Merthyr,Kidderminster,Cawley Cox,head,regular,miss,0.5207,0.0
+14168886,24/02/2026,Merthyr,Leamington,Cawley Cox,right-foot,regular,save,0.03018,0.0407
+14168548,02/09/2025,Merthyr,Macclesfield,Cawley Cox,right-foot,corner,save,0.04234,0.02449
+14168548,02/09/2025,Merthyr,Macclesfield,Cawley Cox,right-foot,regular,save,0.0839,0.05351
+14168548,02/09/2025,Merthyr,Macclesfield,Cawley Cox,right-foot,regular,block,0.6128,0.0
+14168560,06/09/2025,Merthyr,Worksop,Cawley Cox,right-foot,regular,block,0.07028,0.0
+14168620,21/10/2025,Merthyr,Kidderminster,Cawley Cox,right-foot,corner,save,0.02993,0.04505
+14168620,21/10/2025,Merthyr,Kidderminster,Cawley Cox,right-foot,set-piece,miss,0.006506,0.0
+14168640,01/11/2025,Merthyr,Darlington,Cawley Cox,right-foot,regular,goal,0.2113,0.1768
+14168640,01/11/2025,Merthyr,Darlington,Cawley Cox,right-foot,throw-in-set-piece,save,0.01738,0.07444
+14837162,11/11/2025,Merthyr,South Shields,Cawley Cox,left-foot,regular,block,0.2159,0.0
+14837162,11/11/2025,Merthyr,South Shields,Cawley Cox,right-foot,regular,goal,0.6779,0.6688
+14168681,22/11/2025,Merthyr,Alfreton,Cawley Cox,right-foot,regular,save,0.1807,0.1085
+14168681,22/11/2025,Merthyr,Alfreton,Cawley Cox,right-foot,regular,block,0.117,0.0
+14168681,22/11/2025,Merthyr,Alfreton,Cawley Cox,right-foot,regular,block,0.4055,0.0
+14168681,22/11/2025,Merthyr,Alfreton,Cawley Cox,left-foot,regular,save,0.4357,0.4868
+14168693,25/11/2025,Merthyr,Leamington,Cawley Cox,right-foot,corner,post,0.04042,0.0
+14168693,25/11/2025,Merthyr,Leamington,Cawley Cox,right-foot,regular,miss,0.04043,0.0
+14168693,25/11/2025,Merthyr,Leamington,Cawley Cox,right-foot,corner,miss,0.08758,0.0
+14168729,20/12/2025,Merthyr,Curzon Ashton,Cawley Cox,right-foot,regular,block,0.02545,0.0
+14168754,30/12/2025,Merthyr,Hereford,Cawley Cox,left-foot,regular,block,0.3039,0.0
+14168765,03/01/2026,Merthyr,King's Lynn,Cawley Cox,left-foot,regular,block,0.02566,0.0
+14168789,17/01/2026,Merthyr,Peterborough,Cawley Cox,right-foot,regular,miss,0.1563,0.0
+14168789,17/01/2026,Merthyr,Peterborough,Cawley Cox,right-foot,regular,save,0.04939,0.2259
+14168836,07/02/2026,Merthyr,Chorley,Cawley Cox,head,regular,miss,0.2547,0.0
+14168861,14/02/2026,Merthyr,Bedford,Cawley Cox,right-foot,regular,block,0.2375,0.0
+14168861,14/02/2026,Merthyr,Bedford,Cawley Cox,right-foot,throw-in-set-piece,save,0.1431,0.1986
+14168861,14/02/2026,Merthyr,Bedford,Cawley Cox,right-foot,regular,save,0.07662,0.0228
+14168861,14/02/2026,Merthyr,Bedford,Cawley Cox,left-foot,regular,goal,0.4922,0.7048
+14168861,14/02/2026,Merthyr,Bedford,Cawley Cox,right-foot,regular,miss,0.04311,0.0
+14168897,28/02/2026,Merthyr,Buxton,Cawley Cox,right-foot,regular,save,0.1035,0.04347
+14168897,28/02/2026,Merthyr,Buxton,Cawley Cox,right-foot,regular,block,0.01395,0.0
+14168897,28/02/2026,Merthyr,Buxton,Cawley Cox,right-foot,regular,save,0.1585,0.4553
+14168897,28/02/2026,Merthyr,Buxton,Cawley Cox,right-foot,regular,save,0.05648,0.04205
+14168934,14/03/2026,Merthyr,Spennymoor,Cawley Cox,right-foot,regular,goal,0.2884,0.6291
+14168906,07/03/2026,Merthyr,Radcliffe,Cawley Cox,right-foot,regular,save,0.2765,0.158
+14168906,07/03/2026,Merthyr,Radcliffe,Cawley Cox,right-foot,throw-in-set-piece,post,0.2968,0.0
+14168804,24/01/2026,Merthyr,Southport,Cawley Cox,right-foot,regular,block,0.01776,0.0
+14168947,21/03/2026,Merthyr,South Shields,Cawley Cox,right-foot,regular,block,0.3109,0.0
+14168614,18/10/2025,Merthyr,Spennymoor,Cawley Cox,right-foot,regular,save,0.06199,0.06388
+14168781,10/01/2026,Merthyr,Worksop,Cawley Cox,right-foot,corner,goal,0.3081,0.6307
+14168781,10/01/2026,Merthyr,Worksop,Cawley Cox,right-foot,regular,save,0.03735,0.3123
+14168781,10/01/2026,Merthyr,Worksop,Cawley Cox,right-foot,regular,goal,0.826,0.8643
+14168781,10/01/2026,Merthyr,Worksop,Cawley Cox,right-foot,regular,goal,0.2009,0.6589
+14168983,06/04/2026,Merthyr,Hereford,Cawley Cox,right-foot,regular,save,0.2227,0.1568
+14168971,03/04/2026,Merthyr,Oxford,Cawley Cox,head,regular,miss,0.1004,0.0
+14168971,03/04/2026,Merthyr,Oxford,Cawley Cox,head,regular,save,0.1104,0.08948
+14168971,03/04/2026,Merthyr,Oxford,Cawley Cox,right-foot,regular,miss,0.006322,0.0
+14168971,03/04/2026,Merthyr,Oxford,Cawley Cox,left-foot,regular,goal,0.1229,0.292
+14168997,18/04/2026,Merthyr,Scarborough,Cawley Cox,right-foot,throw-in-set-piece,miss,0.01959,0.0
+14168997,18/04/2026,Merthyr,Scarborough,Cawley Cox,left-foot,regular,save,0.04205,0.03164
+14168997,18/04/2026,Merthyr,Scarborough,Cawley Cox,right-foot,throw-in-set-piece,block,0.02831,0.0
+14168997,18/04/2026,Merthyr,Scarborough,Cawley Cox,right-foot,regular,goal,0.1161,0.125

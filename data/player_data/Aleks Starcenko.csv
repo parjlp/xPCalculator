@@ -1,0 +1,81 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168916,10/03/2026,Worksop,Bedford,Aleks Starcenko,right-foot,regular,block,0.08528,0.0
+14168916,10/03/2026,Worksop,Bedford,Aleks Starcenko,right-foot,regular,save,0.04726,0.07824
+14168916,10/03/2026,Worksop,Bedford,Aleks Starcenko,left-foot,regular,block,0.1563,0.0
+14168916,10/03/2026,Worksop,Bedford,Aleks Starcenko,right-foot,throw-in-set-piece,goal,0.1382,0.2405
+14168751,30/12/2025,Worksop,Buxton,Aleks Starcenko,right-foot,set-piece,block,0.01541,0.0
+14168751,30/12/2025,Worksop,Buxton,Aleks Starcenko,right-foot,set-piece,block,0.0153,0.0
+14168751,30/12/2025,Worksop,Buxton,Aleks Starcenko,right-foot,throw-in-set-piece,block,0.1155,0.0
+14168751,30/12/2025,Worksop,Buxton,Aleks Starcenko,left-foot,set-piece,save,0.1097,0.4117
+14168759,03/01/2026,Worksop,Chester,Aleks Starcenko,right-foot,regular,miss,0.03142,0.0
+14168759,03/01/2026,Worksop,Chester,Aleks Starcenko,left-foot,regular,save,0.02171,0.03894
+14168656,04/11/2025,Worksop,Darlington,Aleks Starcenko,right-foot,regular,save,0.06164,0.2683
+14168656,04/11/2025,Worksop,Darlington,Aleks Starcenko,left-foot,regular,miss,0.05442,0.0
+14168656,04/11/2025,Worksop,Darlington,Aleks Starcenko,right-foot,regular,block,0.1462,0.0
+14168590,11/10/2025,Worksop,Fylde,Aleks Starcenko,right-foot,set-piece,save,0.1326,0.4089
+14168590,11/10/2025,Worksop,Fylde,Aleks Starcenko,left-foot,regular,block,0.1233,0.0
+14168571,20/09/2025,Worksop,Hereford,Aleks Starcenko,left-foot,regular,miss,0.05429,0.0
+14168571,20/09/2025,Worksop,Hereford,Aleks Starcenko,left-foot,throw-in-set-piece,block,0.005714,0.0
+14168788,17/01/2026,Worksop,Kidderminster,Aleks Starcenko,right-foot,regular,save,0.03053,0.01412
+14168703,29/11/2025,Worksop,Leamington,Aleks Starcenko,right-foot,regular,block,0.004954,0.0
+14168703,29/11/2025,Worksop,Leamington,Aleks Starcenko,right-foot,regular,miss,0.1716,0.0
+14168703,29/11/2025,Worksop,Leamington,Aleks Starcenko,right-foot,regular,miss,0.008149,0.0
+14168487,09/08/2025,Worksop,Macclesfield,Aleks Starcenko,right-foot,regular,save,0.1636,0.09166
+14168487,09/08/2025,Worksop,Macclesfield,Aleks Starcenko,right-foot,regular,goal,0.6825,0.8167
+14168937,14/03/2026,Worksop,Marine,Aleks Starcenko,head,set-piece,miss,0.2652,0.0
+14168937,14/03/2026,Worksop,Marine,Aleks Starcenko,left-foot,regular,miss,0.02005,0.0
+14168560,06/09/2025,Worksop,Merthyr,Aleks Starcenko,head,regular,save,0.1164,0.5493
+14168560,06/09/2025,Worksop,Merthyr,Aleks Starcenko,right-foot,regular,save,0.08866,0.6364
+14168560,06/09/2025,Worksop,Merthyr,Aleks Starcenko,left-foot,throw-in-set-piece,miss,0.2436,0.0
+14168671,08/11/2025,Worksop,Oxford,Aleks Starcenko,left-foot,throw-in-set-piece,block,0.007806,0.0
+14168671,08/11/2025,Worksop,Oxford,Aleks Starcenko,head,throw-in-set-piece,miss,0.03997,0.0
+14168526,25/08/2025,Worksop,Peterborough,Aleks Starcenko,left-foot,throw-in-set-piece,block,0.009779,0.0
+14168504,19/08/2025,Worksop,Radcliffe,Aleks Starcenko,left-foot,throw-in-set-piece,save,0.01784,0.08437
+14168504,19/08/2025,Worksop,Radcliffe,Aleks Starcenko,right-foot,regular,save,0.08952,0.2855
+14168829,31/01/2026,Worksop,Scarborough,Aleks Starcenko,right-foot,throw-in-set-piece,block,0.003414,0.0
+14168732,20/12/2025,Worksop,Southport,Aleks Starcenko,left-foot,regular,miss,0.05154,0.0
+14168483,16/08/2025,Worksop,Kidderminster,Aleks Starcenko,head,corner,block,0.03234,0.0
+14168539,30/08/2025,Worksop,Chester,Aleks Starcenko,right-foot,regular,block,0.07744,0.0
+14168539,30/08/2025,Worksop,Chester,Aleks Starcenko,right-foot,regular,save,0.08824,0.08937
+14168553,02/09/2025,Worksop,Spennymoor,Aleks Starcenko,right-foot,regular,save,0.04323,0.06701
+14168553,02/09/2025,Worksop,Spennymoor,Aleks Starcenko,right-foot,regular,miss,0.687,0.0
+14168553,02/09/2025,Worksop,Spennymoor,Aleks Starcenko,left-foot,regular,block,0.189,0.0
+14168553,02/09/2025,Worksop,Spennymoor,Aleks Starcenko,left-foot,throw-in-set-piece,save,0.1663,0.2695
+14168553,02/09/2025,Worksop,Spennymoor,Aleks Starcenko,head,throw-in-set-piece,miss,0.06398,0.0
+14168553,02/09/2025,Worksop,Spennymoor,Aleks Starcenko,right-foot,throw-in-set-piece,block,0.06415,0.0
+14168587,04/10/2025,Worksop,Bedford,Aleks Starcenko,left-foot,throw-in-set-piece,miss,0.00355,0.0
+14168587,04/10/2025,Worksop,Bedford,Aleks Starcenko,right-foot,throw-in-set-piece,block,0.003383,0.0
+14168612,18/10/2025,Worksop,Marine,Aleks Starcenko,right-foot,regular,save,0.1139,0.1584
+14168625,21/10/2025,Worksop,King's Lynn,Aleks Starcenko,right-foot,throw-in-set-piece,miss,0.01354,0.0
+14168685,22/11/2025,Worksop,Curzon Ashton,Aleks Starcenko,right-foot,corner,save,0.03183,0.01107
+14168685,22/11/2025,Worksop,Curzon Ashton,Aleks Starcenko,right-foot,regular,miss,0.02313,0.0
+14168697,25/11/2025,Worksop,South Shields,Aleks Starcenko,left-foot,regular,block,0.2831,0.0
+14168697,25/11/2025,Worksop,South Shields,Aleks Starcenko,right-foot,corner,save,0.1753,0.6003
+14168697,25/11/2025,Worksop,South Shields,Aleks Starcenko,right-foot,regular,save,0.1105,0.0489
+14168697,25/11/2025,Worksop,South Shields,Aleks Starcenko,right-foot,set-piece,block,0.06522,0.0
+14168817,27/01/2026,Worksop,Darlington,Aleks Starcenko,left-foot,regular,miss,0.07023,0.0
+14168817,27/01/2026,Worksop,Darlington,Aleks Starcenko,left-foot,regular,miss,0.01792,0.0
+14168817,27/01/2026,Worksop,Darlington,Aleks Starcenko,head,regular,miss,0.1345,0.0
+14168842,07/02/2026,Worksop,Telford,Aleks Starcenko,head,regular,save,0.09428,0.5756
+14168842,07/02/2026,Worksop,Telford,Aleks Starcenko,left-foot,regular,block,0.03492,0.0
+14168867,14/02/2026,Worksop,Oxford,Aleks Starcenko,right-foot,regular,goal,0.3062,0.7658
+14168867,14/02/2026,Worksop,Oxford,Aleks Starcenko,head,set-piece,save,0.1543,0.08122
+14168867,14/02/2026,Worksop,Oxford,Aleks Starcenko,right-foot,regular,block,0.01355,0.0
+14168867,14/02/2026,Worksop,Oxford,Aleks Starcenko,right-foot,regular,miss,0.05508,0.0
+14168902,28/02/2026,Worksop,Leamington,Aleks Starcenko,left-foot,regular,miss,0.03992,0.0
+14168902,28/02/2026,Worksop,Leamington,Aleks Starcenko,head,regular,save,0.08202,0.0605
+14168913,07/03/2026,Worksop,Hereford,Aleks Starcenko,right-foot,regular,block,0.01395,0.0
+14168913,07/03/2026,Worksop,Hereford,Aleks Starcenko,right-foot,regular,block,0.03359,0.0
+14168948,21/03/2026,Worksop,Fylde,Aleks Starcenko,right-foot,regular,miss,0.04436,0.0
+14168962,03/04/2026,Worksop,Alfreton,Aleks Starcenko,right-foot,free-kick,save,0.06854,0.04718
+14168962,03/04/2026,Worksop,Alfreton,Aleks Starcenko,right-foot,regular,miss,0.0007049,0.0
+14168987,11/04/2026,Worksop,Spennymoor,Aleks Starcenko,right-foot,regular,miss,0.02227,0.0
+14168987,11/04/2026,Worksop,Spennymoor,Aleks Starcenko,right-foot,regular,block,0.002813,0.0
+14168961,28/03/2026,Worksop,Radcliffe,Aleks Starcenko,right-foot,regular,block,0.01848,0.0
+14168961,28/03/2026,Worksop,Radcliffe,Aleks Starcenko,right-foot,corner,goal,0.0704,0.07895
+14168961,28/03/2026,Worksop,Radcliffe,Aleks Starcenko,right-foot,throw-in-set-piece,block,0.03515,0.0
+14168975,06/04/2026,Worksop,Buxton,Aleks Starcenko,left-foot,regular,miss,0.0009857,0.0
+14168975,06/04/2026,Worksop,Buxton,Aleks Starcenko,right-foot,set-piece,save,0.02824,0.04351
+14168999,18/04/2026,Worksop,Peterborough,Aleks Starcenko,head,regular,miss,0.2322,0.0
+14168999,18/04/2026,Worksop,Peterborough,Aleks Starcenko,right-foot,free-kick,block,0.0007831,0.0
+14168999,18/04/2026,Worksop,Peterborough,Aleks Starcenko,right-foot,corner,miss,0.07797,0.0

@@ -1,0 +1,15 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168687,25/11/2025,Hereford,Chester,Callum McFarlane,head,corner,block,0.2619,0.0
+14168722,20/12/2025,Hereford,Chorley,Callum McFarlane,right-foot,throw-in-set-piece,block,0.03049,0.0
+14168663,08/11/2025,Hereford,Southport,Callum McFarlane,left-foot,regular,save,0.03553,0.01784
+14168833,07/02/2026,Oxford,Leamington,Callum McFarlane,left-foot,regular,block,0.02473,0.0
+14168659,04/11/2025,Hereford,Oxford,Callum McFarlane,head,corner,save,0.1045,0.05596
+14168659,04/11/2025,Hereford,Oxford,Callum McFarlane,left-foot,regular,miss,0.2246,0.0
+14168659,04/11/2025,Hereford,Oxford,Callum McFarlane,head,corner,miss,0.03722,0.0
+14168875,21/02/2026,Oxford,Marine,Callum McFarlane,left-foot,regular,miss,0.2947,0.0
+14168875,21/02/2026,Oxford,Marine,Callum McFarlane,head,regular,block,0.03832,0.0
+14168875,21/02/2026,Oxford,Marine,Callum McFarlane,right-foot,regular,miss,0.2351,0.0
+14168875,21/02/2026,Oxford,Marine,Callum McFarlane,right-foot,regular,block,0.09682,0.0
+14168938,14/03/2026,Oxford,Southport,Callum McFarlane,right-foot,regular,goal,0.1233,0.174
+14168938,14/03/2026,Oxford,Southport,Callum McFarlane,head,set-piece,miss,0.1102,0.0
+14168867,14/02/2026,Oxford,Worksop,Callum McFarlane,left-foot,regular,save,0.1488,0.1497

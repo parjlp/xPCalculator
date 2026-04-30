@@ -1,0 +1,37 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+15659749,19/03/2026,Hereford,Alfreton,Cormac Daly,right-foot,regular,miss,0.001992,0.0
+15659749,19/03/2026,Hereford,Alfreton,Cormac Daly,right-foot,regular,block,0.02628,0.0
+15659749,19/03/2026,Hereford,Alfreton,Cormac Daly,right-foot,regular,save,0.09446,0.0501
+14168824,31/01/2026,Hereford,Curzon Ashton,Cormac Daly,left-foot,regular,block,0.02614,0.0
+14168824,31/01/2026,Hereford,Curzon Ashton,Cormac Daly,right-foot,regular,block,0.002843,0.0
+15261863,17/02/2026,Hereford,Darlington,Cormac Daly,right-foot,regular,miss,0.009616,0.0
+15261863,17/02/2026,Hereford,Darlington,Cormac Daly,left-foot,throw-in-set-piece,miss,0.0178,0.0
+14168870,21/02/2026,Hereford,Scarborough,Cormac Daly,left-foot,regular,block,0.00557,0.0
+14168882,24/02/2026,Hereford,Chester,Cormac Daly,right-foot,regular,goal,0.7871,0.9258
+14168882,24/02/2026,Hereford,Chester,Cormac Daly,left-foot,regular,save,0.1399,0.1681
+14168882,24/02/2026,Hereford,Chester,Cormac Daly,right-foot,regular,save,0.1366,0.2363
+14168882,24/02/2026,Hereford,Chester,Cormac Daly,left-foot,regular,goal,0.2078,0.8152
+14168920,10/03/2026,Hereford,Leamington,Cormac Daly,left-foot,regular,miss,0.3437,0.0
+14168932,14/03/2026,Hereford,South Shields,Cormac Daly,right-foot,regular,block,0.1589,0.0
+14168953,28/03/2026,Hereford,Buxton,Cormac Daly,right-foot,regular,block,0.009568,0.0
+15399968,31/03/2026,Hereford,Macclesfield,Cormac Daly,right-foot,regular,save,0.08216,0.03359
+14168943,21/03/2026,Hereford,Macclesfield,Cormac Daly,left-foot,regular,save,0.122,0.5777
+15326173,03/03/2026,Hereford,Scarborough,Cormac Daly,right-foot,regular,save,0.03966,0.07243
+14168864,14/02/2026,Hereford,Southport,Cormac Daly,right-foot,regular,block,0.09237,0.0
+14168864,14/02/2026,Hereford,Southport,Cormac Daly,left-foot,regular,save,0.05103,0.07037
+14168864,14/02/2026,Hereford,Southport,Cormac Daly,right-foot,regular,save,0.06226,0.02853
+14168839,10/02/2026,Hereford,Telford,Cormac Daly,left-foot,regular,block,0.02649,0.0
+14168839,10/02/2026,Hereford,Telford,Cormac Daly,left-foot,regular,block,0.07341,0.0
+14168913,07/03/2026,Hereford,Worksop,Cormac Daly,right-foot,corner,save,0.06283,0.03516
+14168996,11/04/2026,Hereford,Bedford,Cormac Daly,right-foot,throw-in-set-piece,miss,0.01161,0.0
+14168983,06/04/2026,Hereford,Merthyr,Cormac Daly,left-foot,regular,block,0.0347,0.0
+15447038,14/04/2026,Hereford,Oxford,Cormac Daly,right-foot,regular,block,0.0406,0.000192
+15447038,14/04/2026,Hereford,Oxford,Cormac Daly,right-foot,throw-in-set-piece,block,0.006824,0.0
+14169007,18/04/2026,Hereford,Radcliffe,Cormac Daly,right-foot,regular,block,0.05011,0.0
+14169007,18/04/2026,Hereford,Radcliffe,Cormac Daly,left-foot,regular,save,0.0292,0.0646
+15519414,21/04/2026,Hereford,Marine,Cormac Daly,right-foot,regular,goal,0.2483,0.7145
+15519411,08/04/2026,Hereford,Marine,Cormac Daly,left-foot,regular,miss,0.1889,0.0
+15519411,08/04/2026,Hereford,Marine,Cormac Daly,right-foot,throw-in-set-piece,save,0.02084,0.01525
+15519411,08/04/2026,Hereford,Marine,Cormac Daly,left-foot,throw-in-set-piece,miss,0.08222,0.0
+15519411,08/04/2026,Hereford,Marine,Cormac Daly,right-foot,regular,miss,0.09018,0.0
+15519411,08/04/2026,Hereford,Marine,Cormac Daly,right-foot,regular,miss,0.03964,0.0

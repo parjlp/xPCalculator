@@ -1,0 +1,53 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14877540,11/11/2025,Spennymoor,Alfreton,Corey McKeown,right-foot,regular,block,0.03537,0.0
+14168820,31/10/2025,Spennymoor,Buxton,Corey McKeown,right-foot,regular,save,0.5539,0.9028
+14168893,28/02/2026,Spennymoor,Chester,Corey McKeown,right-foot,regular,block,0.02769,0.0
+14168893,28/02/2026,Spennymoor,Chester,Corey McKeown,head,corner,miss,0.3681,0.0
+14168893,28/02/2026,Spennymoor,Chester,Corey McKeown,left-foot,regular,block,0.1233,0.0
+14168690,25/11/2025,Spennymoor,Chorley,Corey McKeown,right-foot,regular,miss,0.1108,0.0
+14168655,04/11/2025,Spennymoor,Curzon Ashton,Corey McKeown,right-foot,regular,save,0.06984,0.1952
+14168655,04/11/2025,Spennymoor,Curzon Ashton,Corey McKeown,right-foot,regular,miss,0.07472,0.0
+14168655,04/11/2025,Spennymoor,Curzon Ashton,Corey McKeown,right-foot,regular,block,0.03124,0.0
+14168679,22/11/2025,Spennymoor,Darlington,Corey McKeown,right-foot,regular,block,0.04579,0.0
+14168679,22/11/2025,Spennymoor,Darlington,Corey McKeown,right-foot,regular,save,0.0753,0.2684
+15447029,24/03/2026,Spennymoor,Hereford,Corey McKeown,left-foot,regular,miss,0.1827,0.0
+15447029,24/03/2026,Spennymoor,Hereford,Corey McKeown,left-foot,regular,miss,0.3241,0.0
+15447029,24/03/2026,Spennymoor,Hereford,Corey McKeown,right-foot,throw-in-set-piece,miss,0.07472,0.0
+15447029,24/03/2026,Spennymoor,Hereford,Corey McKeown,left-foot,regular,goal,0.1833,0.1362
+14168717,06/12/2025,Spennymoor,Marine,Corey McKeown,right-foot,throw-in-set-piece,miss,0.1185,0.0
+14168717,06/12/2025,Spennymoor,Marine,Corey McKeown,head,regular,miss,0.4322,0.0
+14168934,14/03/2026,Spennymoor,Merthyr,Corey McKeown,right-foot,regular,block,0.05645,0.0
+14168516,23/08/2025,Spennymoor,Oxford,Corey McKeown,right-foot,regular,save,0.03005,0.05606
+14168516,23/08/2025,Spennymoor,Oxford,Corey McKeown,right-foot,throw-in-set-piece,save,0.0272,0.1816
+14168495,09/08/2025,Spennymoor,Hereford,Corey McKeown,right-foot,regular,block,0.02271,0.0
+14168565,06/08/2025,Spennymoor,Leamington,Corey McKeown,right-foot,regular,miss,0.01086,0.0
+14168624,21/10/2025,Spennymoor,Fylde,Corey McKeown,right-foot,regular,block,0.06937,0.0
+14168672,08/11/2025,Spennymoor,Peterborough,Corey McKeown,right-foot,regular,post,0.09123,0.0
+14168672,08/11/2025,Spennymoor,Peterborough,Corey McKeown,right-foot,throw-in-set-piece,block,0.007222,0.0
+15141451,13/12/2025,Spennymoor,Buxton,Corey McKeown,left-foot,regular,miss,0.4673,0.0
+14168760,30/12/2025,Spennymoor,Scarborough,Corey McKeown,right-foot,regular,miss,0.1065,0.0
+14168790,17/01/2026,Spennymoor,Radcliffe,Corey McKeown,right-foot,regular,save,0.09427,0.3126
+15212553,20/01/2026,Spennymoor,Chester,Corey McKeown,right-foot,regular,save,0.06226,0.0273
+15341361,03/02/2026,Spennymoor,Telford,Corey McKeown,right-foot,throw-in-set-piece,save,0.03304,0.01015
+14168877,21/02/2026,Spennymoor,Darlington,Corey McKeown,right-foot,regular,block,0.01043,0.0
+14168877,21/02/2026,Spennymoor,Darlington,Corey McKeown,left-foot,regular,miss,0.2552,0.0
+14168890,24/02/2026,Spennymoor,Chorley,Corey McKeown,right-foot,regular,save,0.04691,0.03765
+14168912,07/03/2026,Spennymoor,Bedford,Corey McKeown,right-foot,regular,miss,0.003245,0.0
+14168912,07/03/2026,Spennymoor,Bedford,Corey McKeown,right-foot,regular,save,0.5485,0.5222
+15447033,17/03/2026,Spennymoor,Curzon Ashton,Corey McKeown,right-foot,regular,miss,0.09477,0.0
+15447033,17/03/2026,Spennymoor,Curzon Ashton,Corey McKeown,right-foot,regular,goal,0.2224,0.4641
+15447033,17/03/2026,Spennymoor,Curzon Ashton,Corey McKeown,left-foot,regular,save,0.1231,0.09731
+15447033,17/03/2026,Spennymoor,Curzon Ashton,Corey McKeown,right-foot,regular,goal,0.6403,0.8775
+14168949,21/03/2026,Spennymoor,Alfreton,Corey McKeown,right-foot,regular,miss,0.06298,0.0
+14168949,21/03/2026,Spennymoor,Alfreton,Corey McKeown,right-foot,corner,block,0.001007,0.0
+15519410,31/03/2026,Spennymoor,Kidderminster,Corey McKeown,left-foot,throw-in-set-piece,goal,0.0259,0.1536
+14168956,28/03/2026,Spennymoor,King's Lynn,Corey McKeown,right-foot,regular,block,0.1638,0.0
+14168956,28/03/2026,Spennymoor,King's Lynn,Corey McKeown,right-foot,regular,save,0.08382,0.04192
+14169005,18/04/2026,Spennymoor,Macclesfield,Corey McKeown,left-foot,regular,goal,0.08952,0.5349
+14168970,03/04/2026,Spennymoor,South Shields,Corey McKeown,right-foot,regular,goal,0.4348,0.699
+14168987,11/04/2026,Spennymoor,Worksop,Corey McKeown,right-foot,regular,save,0.4788,0.7473
+14169010,25/04/2026,Spennymoor,Marine,Corey McKeown,right-foot,regular,block,0.08737,0.0
+14169010,25/04/2026,Spennymoor,Marine,Corey McKeown,right-foot,throw-in-set-piece,save,0.04135,0.02436
+14169010,25/04/2026,Spennymoor,Marine,Corey McKeown,left-foot,regular,save,0.1389,0.1028
+14169010,25/04/2026,Spennymoor,Marine,Corey McKeown,right-foot,regular,block,0.05669,0.0
+14169010,25/04/2026,Spennymoor,Marine,Corey McKeown,left-foot,regular,miss,0.213,0.0

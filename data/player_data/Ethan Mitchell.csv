@@ -1,0 +1,33 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168664,08/11/2025,Fylde,Alfreton,Ethan Mitchell,left-foot,regular,miss,0.02383,0.0
+14168499,19/08/2025,Fylde,Darlington,Ethan Mitchell,right-foot,regular,block,0.06013,0.0
+14168482,09/08/2025,Fylde,Oxford,Ethan Mitchell,right-foot,regular,save,0.02297,0.04076
+14168505,23/08/2025,Fylde,Kidderminster,Ethan Mitchell,head,throw-in-set-piece,miss,0.0571,0.0
+14168590,11/10/2025,Fylde,Worksop,Ethan Mitchell,right-foot,regular,miss,0.06674,0.0
+14168590,11/10/2025,Fylde,Worksop,Ethan Mitchell,left-foot,regular,save,0.1251,0.2883
+14168590,11/10/2025,Fylde,Worksop,Ethan Mitchell,right-foot,regular,block,0.003414,0.0
+14168632,25/10/2025,Fylde,Hereford,Ethan Mitchell,right-foot,regular,save,0.05384,0.04647
+14168649,05/11/2025,Fylde,South Shields,Ethan Mitchell,right-foot,regular,miss,0.03374,0.0
+14168675,22/11/2025,Fylde,Buxton,Ethan Mitchell,right-foot,regular,block,0.03429,0.0
+14168686,25/11/2025,Fylde,Macclesfield,Ethan Mitchell,head,corner,save,0.2222,0.6033
+14168734,26/12/2025,Fylde,Chorley,Ethan Mitchell,right-foot,regular,block,0.6878,0.0
+14168782,17/01/2026,Fylde,Scarborough,Ethan Mitchell,left-foot,throw-in-set-piece,block,0.007947,0.0
+14168782,17/01/2026,Fylde,Scarborough,Ethan Mitchell,left-foot,regular,miss,0.1079,0.0
+14168782,17/01/2026,Fylde,Scarborough,Ethan Mitchell,right-foot,regular,block,0.03565,0.0
+14168782,17/01/2026,Fylde,Scarborough,Ethan Mitchell,left-foot,regular,save,0.3709,0.5451
+14168889,28/02/2026,Fylde,Curzon Ashton,Ethan Mitchell,right-foot,regular,block,0.008488,0.0
+15864927,31/03/2026,Fylde,Marine,Ethan Mitchell,right-foot,regular,miss,0.01723,0.0
+15519409,17/03/2026,Fylde,Hereford,Ethan Mitchell,right-foot,regular,miss,0.3357,0.0
+14168642,01/11/2025,Fylde,Marine,Ethan Mitchell,left-foot,regular,block,0.0569,4.583e-05
+14168803,24/01/2026,Fylde,Oxford,Ethan Mitchell,right-foot,regular,save,0.03495,0.01275
+14168559,06/09/2025,Fylde,Peterborough,Ethan Mitchell,right-foot,regular,block,0.02315,0.0
+14168762,30/12/2025,Fylde,Radcliffe,Ethan Mitchell,right-foot,regular,save,0.03798,0.01828
+14168529,25/08/2025,Fylde,Southport,Ethan Mitchell,right-foot,regular,block,0.031,0.0
+14168576,04/10/2025,Fylde,Telford,Ethan Mitchell,right-foot,corner,miss,0.0122,0.0
+14168994,11/04/2026,Fylde,Chester,Ethan Mitchell,right-foot,regular,miss,0.1195,0.0
+14168981,06/04/2026,Fylde,Radcliffe,Ethan Mitchell,head,set-piece,goal,0.2174,0.4333
+14168981,06/04/2026,Fylde,Radcliffe,Ethan Mitchell,head,corner,block,0.007862,0.0
+14168981,06/04/2026,Fylde,Radcliffe,Ethan Mitchell,right-foot,regular,miss,0.003521,0.0
+14169008,18/04/2026,Fylde,Southport,Ethan Mitchell,right-foot,throw-in-set-piece,goal,0.02819,0.2803
+14169008,18/04/2026,Fylde,Southport,Ethan Mitchell,right-foot,regular,save,0.2195,0.7068
+14169008,18/04/2026,Fylde,Southport,Ethan Mitchell,right-foot,corner,miss,0.1552,0.0

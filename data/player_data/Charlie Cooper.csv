@@ -1,0 +1,33 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168663,08/11/2025,Hereford,Southport,Charlie Cooper,right-foot,regular,block,0.008428,0.0
+14168663,08/11/2025,Hereford,Southport,Charlie Cooper,right-foot,corner,miss,0.009869,0.0
+14168728,20/12/2025,Kidderminster,Fylde,Charlie Cooper,right-foot,throw-in-set-piece,miss,0.001429,0.0
+14168728,20/12/2025,Kidderminster,Fylde,Charlie Cooper,right-foot,regular,miss,0.008505,0.0
+14168750,30/12/2025,Kidderminster,Telford,Charlie Cooper,right-foot,throw-in-set-piece,goal,0.0404,0.1786
+14168764,03/01/2026,Kidderminster,Curzon Ashton,Charlie Cooper,right-foot,regular,block,0.05339,0.0
+14168764,03/01/2026,Kidderminster,Curzon Ashton,Charlie Cooper,right-foot,regular,miss,0.05297,0.0
+14168788,17/01/2026,Kidderminster,Worksop,Charlie Cooper,right-foot,regular,block,0.007895,0.0
+14168843,10/02/2026,Kidderminster,Merthyr,Charlie Cooper,right-foot,regular,miss,0.05167,0.0
+14168843,10/02/2026,Kidderminster,Merthyr,Charlie Cooper,right-foot,regular,block,0.000595,0.0
+14168871,21/02/2026,Kidderminster,Southport,Charlie Cooper,right-foot,throw-in-set-piece,miss,0.01367,0.0
+14168871,21/02/2026,Kidderminster,Southport,Charlie Cooper,right-foot,corner,goal,0.6058,0.9259
+14168871,21/02/2026,Kidderminster,Southport,Charlie Cooper,right-foot,corner,block,0.03651,0.0
+14168933,14/03/2026,Kidderminster,Chester,Charlie Cooper,right-foot,regular,goal,0.01209,0.0382
+15227997,03/02/2026,Kidderminster,Macclesfield,Charlie Cooper,right-foot,regular,block,0.07035,0.0
+14168659,04/11/2025,Hereford,Oxford,Charlie Cooper,right-foot,throw-in-set-piece,miss,0.005436,0.0
+14168659,04/11/2025,Hereford,Oxford,Charlie Cooper,right-foot,regular,miss,0.004647,0.0
+14168659,04/11/2025,Hereford,Oxford,Charlie Cooper,right-foot,corner,block,0.01921,0.0
+14168659,04/11/2025,Hereford,Oxford,Charlie Cooper,right-foot,throw-in-set-piece,block,0.004362,0.0
+14168659,04/11/2025,Hereford,Oxford,Charlie Cooper,right-foot,corner,miss,0.006813,0.0
+14168719,06/12/2025,Kidderminster,South Shields,Charlie Cooper,right-foot,regular,miss,0.05617,0.0
+15519410,31/03/2026,Kidderminster,Spennymoor,Charlie Cooper,right-foot,throw-in-set-piece,miss,0.006215,0.0
+15519410,31/03/2026,Kidderminster,Spennymoor,Charlie Cooper,right-foot,regular,miss,0.06353,0.0
+14168969,03/04/2026,Kidderminster,Hereford,Charlie Cooper,right-foot,corner,miss,0.001825,0.0
+14168992,11/04/2026,Kidderminster,King's Lynn,Charlie Cooper,right-foot,corner,miss,0.05044,0.0
+14169009,18/04/2026,Kidderminster,Leamington,Charlie Cooper,head,corner,miss,0.006031,0.0
+14169009,18/04/2026,Kidderminster,Leamington,Charlie Cooper,right-foot,corner,save,0.04041,0.03445
+14169009,18/04/2026,Kidderminster,Leamington,Charlie Cooper,right-foot,regular,block,0.04013,0.0
+14169009,18/04/2026,Kidderminster,Leamington,Charlie Cooper,right-foot,penalty,goal,0.76,0.81
+14168986,06/04/2026,Kidderminster,Telford,Charlie Cooper,right-foot,free-kick,save,0.1214,0.08771
+14168986,06/04/2026,Kidderminster,Telford,Charlie Cooper,right-foot,regular,goal,0.09685,0.7108
+14168986,06/04/2026,Kidderminster,Telford,Charlie Cooper,right-foot,throw-in-set-piece,miss,0.001768,0.0

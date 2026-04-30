@@ -1,0 +1,13 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+15559405,24/03/2026,Kidderminster,Darlington,George Walker,right-foot,corner,save,0.01324,0.09455
+15559405,24/03/2026,Kidderminster,Darlington,George Walker,right-foot,regular,block,0.03191,0.0
+14168561,06/09/2025,Kidderminster,Macclesfield,George Walker,right-foot,regular,save,0.06754,0.01655
+14168788,17/01/2026,Kidderminster,Worksop,George Walker,left-foot,throw-in-set-piece,block,0.04475,0.0
+14168871,21/02/2026,Kidderminster,Southport,George Walker,right-foot,set-piece,miss,0.03622,0.0
+14168871,21/02/2026,Kidderminster,Southport,George Walker,left-foot,regular,miss,0.4093,0.0
+14168799,24/01/2026,Kidderminster,Scarborough,George Walker,right-foot,regular,save,0.09628,0.4164
+14168799,24/01/2026,Kidderminster,Scarborough,George Walker,right-foot,regular,miss,0.2122,0.0
+14168799,24/01/2026,Kidderminster,Scarborough,George Walker,right-foot,regular,block,0.04605,0.0
+14168799,24/01/2026,Kidderminster,Scarborough,George Walker,right-foot,regular,miss,0.01178,0.0
+14168799,24/01/2026,Kidderminster,Scarborough,George Walker,head,throw-in-set-piece,miss,0.03068,0.0
+14168992,11/04/2026,Kidderminster,King's Lynn,George Walker,right-foot,regular,goal,0.5693,0.8589

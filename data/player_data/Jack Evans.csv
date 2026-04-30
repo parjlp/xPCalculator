@@ -1,0 +1,10 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168823,31/01/2026,Merthyr,Darlington,Jack Evans,right-foot,regular,save,0.00617,0.03287
+14168693,25/11/2025,Merthyr,Leamington,Jack Evans,right-foot,corner,miss,0.001048,0.0
+14168754,30/12/2025,Merthyr,Hereford,Jack Evans,right-foot,corner,save,0.1518,0.3342
+14168836,07/02/2026,Merthyr,Chorley,Jack Evans,right-foot,regular,miss,0.002609,0.0
+14168836,07/02/2026,Merthyr,Chorley,Jack Evans,right-foot,corner,miss,0.007511,0.0
+14168897,28/02/2026,Merthyr,Buxton,Jack Evans,right-foot,regular,block,0.003404,0.0
+14168947,21/03/2026,Merthyr,South Shields,Jack Evans,right-foot,corner,save,0.1071,0.4325
+14168971,03/04/2026,Merthyr,Oxford,Jack Evans,right-foot,corner,block,0.01201,0.0
+14168990,11/04/2026,Merthyr,Macclesfield,Jack Evans,head,corner,save,0.0579,0.1784

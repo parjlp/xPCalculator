@@ -1,0 +1,55 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168868,21/02/2026,Fylde,Buxton,Tom Whelan,left-foot,set-piece,miss,0.0281,0.0
+14168868,21/02/2026,Fylde,Buxton,Tom Whelan,right-foot,throw-in-set-piece,block,0.004481,0.0
+14168868,21/02/2026,Fylde,Buxton,Tom Whelan,right-foot,regular,miss,0.1005,0.0
+14168542,02/09/2025,Fylde,Chester,Tom Whelan,right-foot,corner,block,0.003075,0.0
+14168542,02/09/2025,Fylde,Chester,Tom Whelan,right-foot,regular,miss,0.1625,0.0
+14168590,11/10/2025,Fylde,Worksop,Tom Whelan,right-foot,regular,block,0.01029,0.0
+14168590,11/10/2025,Fylde,Worksop,Tom Whelan,right-foot,regular,miss,0.04744,0.0
+14168632,25/10/2025,Fylde,Hereford,Tom Whelan,right-foot,regular,miss,0.001559,0.0
+14168649,05/11/2025,Fylde,South Shields,Tom Whelan,right-foot,throw-in-set-piece,block,0.07447,0.0
+14168649,05/11/2025,Fylde,South Shields,Tom Whelan,left-foot,regular,save,0.1256,0.5905
+14168649,05/11/2025,Fylde,South Shields,Tom Whelan,right-foot,free-kick,miss,0.001352,0.0
+14168675,22/11/2025,Fylde,Buxton,Tom Whelan,left-foot,throw-in-set-piece,block,0.001649,0.0
+14168675,22/11/2025,Fylde,Buxton,Tom Whelan,right-foot,regular,miss,0.01573,0.0
+14168675,22/11/2025,Fylde,Buxton,Tom Whelan,right-foot,corner,miss,0.0199,0.0
+14168713,06/12/2025,Fylde,Merthyr,Tom Whelan,left-foot,regular,save,0.04103,0.05708
+14168713,06/12/2025,Fylde,Merthyr,Tom Whelan,right-foot,regular,miss,0.01062,0.0
+14168734,26/12/2025,Fylde,Chorley,Tom Whelan,right-foot,regular,save,0.04262,0.01965
+14168782,17/01/2026,Fylde,Scarborough,Tom Whelan,right-foot,regular,miss,0.001441,0.0
+14168782,17/01/2026,Fylde,Scarborough,Tom Whelan,right-foot,regular,block,0.004933,0.0
+14168782,17/01/2026,Fylde,Scarborough,Tom Whelan,right-foot,regular,miss,0.0473,0.0
+14168857,10/02/2026,Fylde,Spennymoor,Tom Whelan,right-foot,regular,save,0.04159,0.192
+14168857,10/02/2026,Fylde,Spennymoor,Tom Whelan,left-foot,regular,save,0.3126,0.7877
+14168857,10/02/2026,Fylde,Spennymoor,Tom Whelan,right-foot,regular,save,0.02911,0.02416
+14168857,10/02/2026,Fylde,Spennymoor,Tom Whelan,right-foot,regular,miss,0.07397,0.0
+14168889,28/02/2026,Fylde,Curzon Ashton,Tom Whelan,right-foot,regular,block,0.06645,0.0
+14168889,28/02/2026,Fylde,Curzon Ashton,Tom Whelan,left-foot,regular,save,0.03851,0.02173
+14168889,28/02/2026,Fylde,Curzon Ashton,Tom Whelan,right-foot,free-kick,save,0.1692,0.1263
+14168889,28/02/2026,Fylde,Curzon Ashton,Tom Whelan,right-foot,regular,save,0.04091,0.01764
+14168914,10/03/2026,Fylde,Telford,Tom Whelan,right-foot,regular,miss,0.03394,0.0
+14168914,10/03/2026,Fylde,Telford,Tom Whelan,right-foot,free-kick,save,0.04752,0.1634
+14168951,28/03/2026,Fylde,Darlington,Tom Whelan,left-foot,corner,goal,0.02531,0.2963
+14168951,28/03/2026,Fylde,Darlington,Tom Whelan,right-foot,regular,save,0.02363,0.1228
+15864927,31/03/2026,Fylde,Marine,Tom Whelan,right-foot,free-kick,miss,0.001183,0.0
+15864927,31/03/2026,Fylde,Marine,Tom Whelan,left-foot,regular,miss,0.05332,0.0
+15864927,31/03/2026,Fylde,Marine,Tom Whelan,right-foot,regular,save,0.2745,0.6702
+15864927,31/03/2026,Fylde,Marine,Tom Whelan,left-foot,regular,miss,0.0008332,0.0
+15864927,31/03/2026,Fylde,Marine,Tom Whelan,right-foot,corner,block,0.003362,0.0
+15519409,17/03/2026,Fylde,Hereford,Tom Whelan,right-foot,regular,miss,0.1061,0.0
+15519409,17/03/2026,Fylde,Hereford,Tom Whelan,right-foot,corner,goal,0.2369,0.4617
+14168728,20/12/2025,Fylde,Kidderminster,Tom Whelan,left-foot,regular,miss,0.03042,0.0
+14168604,18/10/2025,Fylde,King's Lynn,Tom Whelan,left-foot,regular,miss,0.1607,0.0
+14168904,07/03/2026,Fylde,Leamington,Tom Whelan,right-foot,regular,save,0.01623,0.01132
+14168904,07/03/2026,Fylde,Leamington,Tom Whelan,right-foot,regular,block,0.07679,0.0
+14168883,24/02/2026,Fylde,Macclesfield,Tom Whelan,right-foot,regular,save,0.078,0.2678
+14168803,24/01/2026,Fylde,Oxford,Tom Whelan,left-foot,regular,miss,0.005808,0.0
+14168803,24/01/2026,Fylde,Oxford,Tom Whelan,right-foot,regular,miss,0.0433,0.0
+14168803,24/01/2026,Fylde,Oxford,Tom Whelan,right-foot,free-kick,save,0.02272,0.04182
+14168529,25/08/2025,Fylde,Southport,Tom Whelan,right-foot,regular,block,0.01092,0.0
+15473420,03/03/2026,Fylde,South Shields,Tom Whelan,right-foot,regular,miss,0.02808,0.0
+15473420,03/03/2026,Fylde,South Shields,Tom Whelan,right-foot,regular,block,0.04899,0.0
+14168948,21/03/2026,Fylde,Worksop,Tom Whelan,right-foot,regular,save,0.02498,0.009902
+14168948,21/03/2026,Fylde,Worksop,Tom Whelan,right-foot,regular,block,0.03348,0.0
+14168981,06/04/2026,Fylde,Radcliffe,Tom Whelan,right-foot,throw-in-set-piece,goal,0.05257,0.05268
+14168981,06/04/2026,Fylde,Radcliffe,Tom Whelan,right-foot,regular,miss,0.02398,0.0

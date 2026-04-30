@@ -1,0 +1,15 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168942,21/03/2026,Leamington,Scarborough,Tyrone Lewthwaite,right-foot,regular,miss,0.0308,0.0
+14168942,21/03/2026,Leamington,Scarborough,Tyrone Lewthwaite,left-foot,regular,block,0.009505,0.0
+14168942,21/03/2026,Leamington,Scarborough,Tyrone Lewthwaite,head,regular,miss,0.08087,0.0
+14168942,21/03/2026,Leamington,Scarborough,Tyrone Lewthwaite,right-foot,regular,miss,0.07858,0.0
+15495110,24/03/2026,Leamington,King's Lynn,Tyrone Lewthwaite,right-foot,regular,miss,0.3067,0.0
+15495110,24/03/2026,Leamington,King's Lynn,Tyrone Lewthwaite,left-foot,regular,block,0.292,0.0
+14168958,28/03/2026,Leamington,Peterborough,Tyrone Lewthwaite,head,set-piece,goal,0.1479,0.3433
+14168963,03/04/2026,Leamington,Bedford,Tyrone Lewthwaite,right-foot,regular,block,0.0782,0.0
+14169021,25/04/2026,Leamington,Buxton,Tyrone Lewthwaite,head,throw-in-set-piece,miss,0.0553,0.0
+14168979,06/04/2026,Leamington,Alfreton,Tyrone Lewthwaite,head,regular,save,0.04549,0.009892
+14168979,06/04/2026,Leamington,Alfreton,Tyrone Lewthwaite,right-foot,corner,goal,0.4614,0.9315
+14169009,18/04/2026,Leamington,Kidderminster,Tyrone Lewthwaite,right-foot,regular,block,0.09644,0.0
+14169009,18/04/2026,Leamington,Kidderminster,Tyrone Lewthwaite,right-foot,regular,save,0.07151,0.06911
+14168984,11/04/2026,Leamington,Southport,Tyrone Lewthwaite,left-foot,regular,save,0.1304,0.1501

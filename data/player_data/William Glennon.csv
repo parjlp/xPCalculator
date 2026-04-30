@@ -1,0 +1,13 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+15399474,17/02/2026,Leamington,Spennymoor,William Glennon,right-foot,free-kick,save,0.1188,0.2903
+15399474,17/02/2026,Leamington,Spennymoor,William Glennon,left-foot,corner,block,0.04031,0.0
+14168873,21/02/2026,Leamington,Chester,William Glennon,right-foot,regular,miss,0.005653,0.0
+14168886,24/02/2026,Leamington,Merthyr,William Glennon,right-foot,free-kick,save,0.1196,0.03281
+14168886,24/02/2026,Leamington,Merthyr,William Glennon,left-foot,corner,goal,0.6713,0.8317
+14168886,24/02/2026,Leamington,Merthyr,William Glennon,right-foot,free-kick,miss,0.0003429,0.0
+14168904,07/03/2026,Leamington,Fylde,William Glennon,head,set-piece,post,0.1606,0.0
+14168859,14/02/2026,Leamington,Marine,William Glennon,right-foot,regular,block,0.01622,0.0
+14168859,14/02/2026,Leamington,Marine,William Glennon,head,set-piece,block,0.006793,0.0
+14169009,18/04/2026,Leamington,Kidderminster,William Glennon,right-foot,regular,miss,0.08822,0.0
+14168984,11/04/2026,Leamington,Southport,William Glennon,right-foot,throw-in-set-piece,save,0.02096,0.6486
+14168984,11/04/2026,Leamington,Southport,William Glennon,right-foot,regular,save,0.07161,0.03881

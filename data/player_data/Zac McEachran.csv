@@ -1,0 +1,28 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168919,10/03/2026,Oxford,Curzon Ashton,Zac McEachran,right-foot,set-piece,miss,0.1366,0.0
+14168919,10/03/2026,Oxford,Curzon Ashton,Zac McEachran,right-foot,set-piece,block,0.007988,0.0
+14168919,10/03/2026,Oxford,Curzon Ashton,Zac McEachran,right-foot,regular,miss,0.006339,0.0
+14168919,10/03/2026,Oxford,Curzon Ashton,Zac McEachran,right-foot,regular,save,0.04561,0.02452
+14168482,09/08/2025,Oxford,Fylde,Zac McEachran,right-foot,regular,block,0.01028,0.0
+14168482,09/08/2025,Oxford,Fylde,Zac McEachran,right-foot,corner,goal,0.8973,0.9095
+14168500,19/08/2025,Oxford,Kidderminster,Zac McEachran,right-foot,regular,block,0.06629,0.0
+14168500,19/08/2025,Oxford,Kidderminster,Zac McEachran,right-foot,regular,miss,0.08525,0.0
+14168471,16/08/2025,Oxford,Macclesfield,Zac McEachran,right-foot,regular,save,0.09562,0.04612
+14168516,23/08/2025,Oxford,Spennymoor,Zac McEachran,right-foot,regular,goal,0.1619,0.6718
+14168516,23/08/2025,Oxford,Spennymoor,Zac McEachran,right-foot,regular,miss,0.01527,0.0
+14168535,30/08/2025,Oxford,Radcliffe,Zac McEachran,right-foot,regular,block,0.1079,0.0
+14168535,30/08/2025,Oxford,Radcliffe,Zac McEachran,right-foot,regular,block,0.04737,0.0
+14168550,02/09/2025,Oxford,Alfreton,Zac McEachran,right-foot,regular,save,0.04999,0.06434
+14168725,06/12/2025,Oxford,Darlington,Zac McEachran,right-foot,regular,save,0.1029,0.2761
+14168725,06/12/2025,Oxford,Darlington,Zac McEachran,right-foot,regular,goal,0.1162,0.44
+14168777,10/01/2026,Oxford,Buxton,Zac McEachran,left-foot,regular,save,0.1479,0.1814
+14168803,24/01/2026,Oxford,Fylde,Zac McEachran,right-foot,regular,save,0.08203,0.1575
+14168830,31/10/2025,Oxford,South Shields,Zac McEachran,left-foot,set-piece,block,0.2297,0.0
+14168909,07/03/2026,Oxford,Scarborough,Zac McEachran,right-foot,set-piece,block,0.006139,0.0
+14168733,20/12/2025,Oxford,Spennymoor,Zac McEachran,right-foot,regular,miss,0.009797,0.0
+14168995,11/04/2026,Oxford,Alfreton,Zac McEachran,right-foot,regular,block,0.03657,0.0
+14168971,03/04/2026,Oxford,Merthyr,Zac McEachran,head,corner,block,0.01453,0.0
+14168980,06/04/2026,Oxford,Peterborough,Zac McEachran,right-foot,regular,miss,0.02957,0.0
+14168980,06/04/2026,Oxford,Peterborough,Zac McEachran,right-foot,regular,block,0.01387,0.0
+14169001,18/04/2026,Oxford,Chester,Zac McEachran,right-foot,regular,block,0.01133,0.0
+14169001,18/04/2026,Oxford,Chester,Zac McEachran,left-foot,regular,miss,0.02993,0.0

@@ -1,0 +1,10 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168893,28/02/2026,Chester,Spennymoor,Tom Davies,right-foot,corner,save,0.3388,0.5232
+14168893,28/02/2026,Chester,Spennymoor,Tom Davies,head,corner,block,0.04558,0.0
+14168903,07/03/2026,Chester,Darlington,Tom Davies,left-foot,corner,block,0.2644,0.0
+14168940,21/03/2026,Chester,Southport,Tom Davies,right-foot,set-piece,miss,0.2023,0.0
+14168952,28/03/2026,Chester,Curzon Ashton,Tom Davies,head,corner,block,0.02685,0.0
+14168933,14/03/2026,Chester,Kidderminster,Tom Davies,head,set-piece,miss,0.1476,0.0
+14168873,21/02/2026,Chester,Leamington,Tom Davies,left-foot,set-piece,goal,0.06543,0.5514
+14168994,11/04/2026,Chester,Fylde,Tom Davies,right-foot,regular,goal,0.2061,0.5721
+14169001,18/04/2026,Chester,Oxford,Tom Davies,left-foot,corner,goal,0.126,0.715

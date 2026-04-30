@@ -1,0 +1,11 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168796,24/01/2026,Alfreton,Bedford,Joe Cummings,left-foot,regular,save,0.1605,0.2081
+14168796,24/01/2026,Alfreton,Bedford,Joe Cummings,head,corner,miss,0.2183,0.0
+14168880,24/02/2026,Alfreton,Scarborough,Joe Cummings,right-foot,set-piece,goal,0.8102,0.9091
+15489563,31/03/2026,Alfreton,Chorley,Joe Cummings,right-foot,set-piece,goal,0.3203,0.8099
+14168844,10/02/2026,Alfreton,Chester,Joe Cummings,head,throw-in-set-piece,save,0.04587,0.112
+14168844,10/02/2026,Alfreton,Chester,Joe Cummings,right-foot,regular,goal,0.3435,0.7297
+14168844,10/02/2026,Alfreton,Chester,Joe Cummings,head,corner,save,0.09518,0.1021
+14168787,17/01/2026,Alfreton,Darlington,Joe Cummings,head,set-piece,goal,0.2414,0.6153
+15379770,31/10/2025,Alfreton,King's Lynn,Joe Cummings,right-foot,set-piece,miss,0.2399,0.0
+14168979,06/04/2026,Alfreton,Leamington,Joe Cummings,head,regular,save,0.1343,0.237

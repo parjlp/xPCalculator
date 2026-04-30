@@ -1,0 +1,17 @@
+Match ID,Date,Attacking Team,Defending Team,Player Name,Body Part,Situation,Shot Type,xG,Post Shot xG
+14168567,20/09/2025,Alfreton,Telford,Jediah Abbey,head,regular,save,0.1195,0.1822
+14168567,20/09/2025,Alfreton,Telford,Jediah Abbey,right-foot,free-kick,block,0.01579,0.0
+14168567,20/09/2025,Alfreton,Telford,Jediah Abbey,left-foot,regular,block,0.1189,0.0
+14168638,01/11/2025,Alfreton,Kidderminster,Jediah Abbey,right-foot,throw-in-set-piece,block,0.002948,0.0
+14168664,08/11/2025,Alfreton,Fylde,Jediah Abbey,right-foot,regular,miss,0.2915,0.0
+15174859,16/12/2025,Alfreton,Southport,Jediah Abbey,right-foot,set-piece,block,0.171,0.0
+14168847,10/02/2026,Marine,Curzon Ashton,Jediah Abbey,right-foot,regular,miss,0.07759,0.0
+14168810,27/01/2026,Marine,Chester,Jediah Abbey,left-foot,regular,block,0.004751,0.0
+14168609,18/10/2025,Alfreton,Peterborough,Jediah Abbey,right-foot,throw-in-set-piece,miss,0.02998,0.0
+14168609,18/10/2025,Alfreton,Peterborough,Jediah Abbey,right-foot,set-piece,miss,0.112,0.0
+14168609,18/10/2025,Alfreton,Peterborough,Jediah Abbey,left-foot,regular,goal,0.252,0.3894
+14168609,18/10/2025,Alfreton,Peterborough,Jediah Abbey,right-foot,throw-in-set-piece,miss,0.01361,0.0
+15366761,17/03/2026,Marine,Peterborough,Jediah Abbey,right-foot,regular,block,0.093,0.0
+14168586,04/10/2025,Alfreton,Radcliffe,Jediah Abbey,left-foot,regular,goal,0.2608,0.1995
+14168936,21/03/2026,Marine,Telford,Jediah Abbey,left-foot,regular,block,0.02821,0.0
+14168744,26/12/2025,Alfreton,Worksop,Jediah Abbey,right-foot,free-kick,save,0.03956,0.07446
